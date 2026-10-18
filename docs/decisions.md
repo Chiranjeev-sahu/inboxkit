@@ -29,3 +29,5 @@ The ten-buyer comparison recovered eight saved addresses with Icypeas versus fiv
 ## Copy and offer
 
 The default offer demonstrates client mailbox administration, domain organization and DNS setup. Email 1A emphasizes client-account management; 1B emphasizes domain organization. Each row's `email_variant` records the selected angle from its source evidence. The campaign uses a single demo CTA, interleaved LinkedIn/email touches and reply-based opt-out. Product claims link to first-party InboxKit pages in the [copy](../deliverables/campaign-copy.md).
+
+The follow-ups develop DNS setup, existing-sequencer compatibility and a final fit check. Recipient-personalized examples are in the [merged previews](../deliverables/merged-email-previews.md). The 30-day outcome is qualified bookings, not attendance; the [feasibility note](campaign-feasibility.md) defines the denominator, cohort timing, attribution and target-implied 0.75% requirement for a hypothetical 2,000-contact rollout. That requirement is not a measured conversion forecast.

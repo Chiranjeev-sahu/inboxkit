@@ -1,6 +1,6 @@
 # InboxKit GTM campaign context
 
-This project develops a sourced prospect list and draft LinkedIn/email campaign for InboxKit, a cold-email infrastructure product. The business objective is a campaign that could produce 15 qualified demos in 30 days, with the assumptions and contact-volume math stated in the strategy memo. The [original assignment](GTM%20Engineer%20Hiring%20Assignment.txt) defines the requested work; this document defines the vocabulary used throughout the repository.
+This project develops a sourced prospect list and draft LinkedIn/email campaign for InboxKit, a cold-email infrastructure product. The business objective is a campaign that could book 15 qualified demos in 30 days, with the assumptions and contact-volume math stated in the strategy memo. Attendance is tracked separately from booking. The [original assignment](GTM%20Engineer%20Hiring%20Assignment.txt) defines the requested work; this document defines the vocabulary used throughout the repository.
 
 ## Audience and qualification language
 

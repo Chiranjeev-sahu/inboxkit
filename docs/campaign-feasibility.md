@@ -2,7 +2,7 @@
 
 **18 October 2026 | Public source review and proposed operating assumptions | All outreach stays draft**
 
-The [original assignment](../GTM%20Engineer%20Hiring%20Assignment.txt) asks for a campaign that could **book 15 qualified demos in 30 days**. It does not require 15 attended demos. Remove attendance from the strategy memo's target calculation; track attendance separately. Nothing has been sent, so this submission has no observed reply or booking rate.
+The [original assignment](../GTM%20Engineer%20Hiring%20Assignment.txt) asks for a campaign that could **book 15 qualified demos in 30 days**. Attendance is tracked separately from the strategy memo's booking target. Nothing has been sent, so this submission has no observed reply or booking rate.
 
 ## External observations and their limits
 
@@ -23,7 +23,7 @@ Treat **2,000 unique, eligible contacts, one per company**, as a capacity hypoth
 
 Define a qualified booking before activation: a confirmed calendar reservation with a current founder, head of growth or infrastructure owner at an eligible agency delivering client outbound, with a documented infrastructure need or evaluation interest. Confirm qualification in the booking exchange/form; do not require attendance to establish it. Count one booking per company, remove cancellations, and dedupe reschedules. Count reservations made by day 30 even if the meeting is held later; this is a proposed interpretation of “book,” to state explicitly. Report pending qualification separately.
 
-Do not force every booking through positive replies. Record both reply-assisted and direct bookings. If using a reply funnel, add the direct path and prevent overlap. The 100-company research sample and the proposed 100-contact pilot cannot demonstrate a reliable 0.75% outcome rate.
+Do not force every booking through positive replies. Record both reply-assisted and direct bookings. If using a reply funnel, add the direct path and prevent overlap. The 100-company research sample and the initial 97-contact ready pilot cannot demonstrate a reliable 0.75% outcome rate.
 
 ## Proposed 30-day capacity plan
 
@@ -32,13 +32,13 @@ This example preserves cohort-relative LinkedIn days 1/4/10 and email days 3/8/1
 | Calendar days | Proposed action and constraint |
 | --- | --- |
 | Before day 1 | Have eligible contacts, monitored reply routing, suppression, calendar access and existing usable sending capacity ready. Confirm the budget and operator limits. |
-| Day 1 | Launch a 100-contact pilot. Email 1 falls on calendar day 3. |
+| Day 1 | Launch the 97 currently draft-ready contacts as the pilot. The three held companies remain outside sending. Email 1 falls on calendar day 3. |
 | Days 3-5 | Inspect early bounces, opt-outs, replies, personalization and routing. Correct failures before adding volume. This is an early operational check; the full pilot sequence is unfinished. |
-| Days 6-10 | Conditional expansion: five cohorts of 380 = 1,900 additional contacts. Stop or reduce expansion if early evidence or capacity warrants it. |
+| Days 6-10 | Conditional expansion: cohorts of 380, 380, 380, 380 and 383 = 1,903 additional accepted contacts. Combined with the 97-contact pilot this makes 2,000. Stop or reduce expansion if early evidence or capacity warrants it. |
 | Days 12-29 | Complete remaining email touches; the last cohort's relative day 20 is calendar day 29. |
 | Day 30 | Reconcile unique contacts, qualified bookings and attribution. Preserve later outcomes separately. |
 
-The upper bound is **2,000 x four = 8,000 email attempts** before reply/booking/opt-out stops. This exact cohort schedule peaks at **480 attempts/day** on days 8, 14 and 20; 8,000/30 is only a calendar average of about 267/day. These are workload calculations, not safe sending limits. If the operator approves a per-mailbox daily cap of c, the peak requires at least ceil(480/c) usable mailboxes, plus any capacity reserved for other traffic. Domain allocation, mailbox health, throttling and sequencer limits must also fit. No universal safe cap is assumed.
+The upper bound is **2,000 x four = 8,000 email attempts** before reply/booking/opt-out stops. This exact cohort schedule peaks at **477 attempts/day** on days 8, 14 and 20; 8,000/30 is only a calendar average of about 267/day. These are workload calculations, not safe sending limits. If the operator approves a per-mailbox daily cap of c, the peak requires at least ceil(477/c) usable mailboxes, plus any capacity reserved for other traffic. Domain allocation, mailbox health, throttling and sequencer limits must also fit. No universal safe cap is assumed.
 
 Apply LinkedIn only to a prioritized subset whose account allowance and manual workload fit. Its size remains uncommitted until checked; do not assume 2,000 invitations. Follow-ups require acceptance. Stop both channels on any reply, booking or opt-out. Later cohorts have less time to convert before calendar day 30. Waiting for the pilot's complete conversion result would prevent this expansion schedule; if early checks fail, report the resulting target/capacity gap.
 

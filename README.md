@@ -39,6 +39,7 @@ The main campaign artifacts are together in `deliverables/`. Start with the one-
 | [campaign-copy.md](deliverables/campaign-copy.md) | Four email steps, two versions of email 1, a LinkedIn connection note and two follow-ups. Product claims have InboxKit source links. | Read templates and their offer logic. Select one step-1 variant per contact. |
 | [sequence.csv](deliverables/sequence.csv) | Email/LinkedIn schedule and template references over three weeks. | Follow the timing and channels; this is a schedule, not a sequencer-native sequence upload. |
 | [ten-first-lines.csv](deliverables/ten-first-lines.csv) | Ten workflow-produced personalized openings, matching the research sheet. | Compare each opening with its supporting source. All 100 research rows also have first lines. |
+| [merged-email-previews.md](deliverables/merged-email-previews.md) | Six recipient-personalized draft emails covering both opening variants and a full follow-up progression. | Inspect the actual merged wording, source links and visible email-risk annotations. |
 | [scale-cost.md](deliverables/scale-cost.md) | The requested scaling paragraph plus detailed workload, batching, measurement and cost reasoning. | Distinguish the proposed 2,000-contact scenario from observed results. |
 | [email-review.md](deliverables/email-review.md) | Individual verdicts for eight alternate-domain cases and four targeted email checks. | Understand why domain proof can permit a row while a hold or verification conflict prevents another. |
 
@@ -420,13 +421,14 @@ Every public tracked file is listed below, grouped so a reader can identify both
 </details>
 
 <details>
-<summary>deliverables (10 files)</summary>
+<summary>deliverables (11 files)</summary>
 
 | File | Role |
 | --- | --- |
 | [deliverables/campaign-copy.md](deliverables/campaign-copy.md) | Email variants, follow-ups, LinkedIn copy and citations. |
 | [deliverables/email-review.md](deliverables/email-review.md) | Eight domain-proof and four targeted verification verdicts. |
 | [deliverables/lead-sheet.csv](deliverables/lead-sheet.csv) | 100-row retained agency research snapshot. |
+| [deliverables/merged-email-previews.md](deliverables/merged-email-previews.md) | Fully merged draft examples with factual prospect and product citations. |
 | [deliverables/review-parked.csv](deliverables/review-parked.csv) | Three retained agency holds and their reasons. |
 | [deliverables/scale-cost.md](deliverables/scale-cost.md) | Scaling method, measurement and conditional cost scenarios. |
 | [deliverables/send-ready.csv](deliverables/send-ready.csv) | 97-contact draft-ready snapshot. |
