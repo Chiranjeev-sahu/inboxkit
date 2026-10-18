@@ -1,0 +1,25 @@
+{
+  "observed_date": "2026-10-18",
+  "action": 1,
+  "query": {
+    "firstname": "Tomasz",
+    "lastname": "Polikowski",
+    "domainOrCompany": "optiveum.com"
+  },
+  "result": {
+    "success": true,
+    "status": "FOUND",
+    "emails": [
+      {
+        "certainty": "ultra_sure",
+        "email": "tomasz.polikowski@optiveum.com",
+        "mxProvider": "google",
+        "mxRecords": [
+          "google.com",
+          "optiveum.com"
+        ]
+      }
+    ],
+    "searchId": "LHAfT6EBqeDEFxzXZ9xL"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "input_rows": 2,
+  "qualified_rows": 2,
+  "send_ready_rows": 2,
+  "review_parked_rows": 0,
+  "research_reconciles": true,
+  "alternate_email_domain_rows": 0,
+  "alternate_email_domain_review_rows": 0,
+  "review_reasons": {},
+  "verification_statuses": {
+    "valid": 2
+  },
+  "excluded_reasons": {}
+}

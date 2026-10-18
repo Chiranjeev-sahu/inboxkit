@@ -1,0 +1,12 @@
+{
+  "observed_date": "2026-10-18",
+  "result": {
+    "plan": "",
+    "status": "free",
+    "credits": 48.900000999999996,
+    "quotas": {
+      "daily": 1000
+    },
+    "currency": ""
+  }
+}

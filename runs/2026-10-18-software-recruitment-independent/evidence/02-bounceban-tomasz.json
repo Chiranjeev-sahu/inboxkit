@@ -1,0 +1,32 @@
+{
+  "observed_date": "2026-10-18",
+  "action": 2,
+  "endpoint": "GET /v1/verify/single",
+  "query": {
+    "email": "tomasz.polikowski@optiveum.com"
+  },
+  "result": {
+    "credits_consumed": 1,
+    "credits_remaining": 94,
+    "email": "tomasz.polikowski@optiveum.com",
+    "id": "smd-2f79636b",
+    "is_accept_all": false,
+    "is_disposable": false,
+    "is_free": false,
+    "is_role": false,
+    "mode": "regular",
+    "mx_records": [
+      "aspmx.l.google.com",
+      "alt1.aspmx.l.google.com",
+      "alt2.aspmx.l.google.com",
+      "alt3.aspmx.l.google.com",
+      "alt4.aspmx.l.google.com",
+      "_dc-mx.5d4eaa43b8c8.optiveum.com"
+    ],
+    "result": "deliverable",
+    "score": 99,
+    "smtp_provider": "Google",
+    "status": "success",
+    "verify_at": "2026-10-18T13:08:15.104Z"
+  }
+}

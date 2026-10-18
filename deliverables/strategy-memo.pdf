@@ -39,28 +39,28 @@ endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (../docs/campaign-feasibility.md)
+/S /URI /Type /Action /URI (https://github.com/Chiranjeev-sahu/inboxkit/blob/main/docs/campaign-feasibility.md)
 >> /Border [ 0 0 0 ] /Rect [ 298.9187 127.2898 363.8628 139.5898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (scale-cost.md)
+/S /URI /Type /Action /URI (https://github.com/Chiranjeev-sahu/inboxkit/blob/main/deliverables/scale-cost.md)
 >> /Border [ 0 0 0 ] /Rect [ 366.743 100.0898 440.2355 112.3898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (email-review.md)
+/S /URI /Type /Action /URI (https://github.com/Chiranjeev-sahu/inboxkit/blob/main/deliverables/email-review.md)
 >> /Border [ 0 0 0 ] /Rect [ 480.1285 100.0898 537.672 112.3898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (email-review.md)
+/S /URI /Type /Action /URI (https://github.com/Chiranjeev-sahu/inboxkit/blob/main/deliverables/email-review.md)
 >> /Border [ 0 0 0 ] /Rect [ 46 86.48976 72.773 98.78976 ] /Subtype /Link /Type /Annot
 >>
 endobj
@@ -81,7 +81,7 @@ endobj
 endobj
 13 0 obj
 <<
-/Author (Chiranjeev Sahu) /CreationDate (D:20261018183933+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261018183933+05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (Chiranjeev Sahu) /CreationDate (D:20261018184408+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261018184408+05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (\(unspecified\)) /Title (InboxKit campaign strategy) /Trapped /False
 >>
 endobj
@@ -107,18 +107,18 @@ xref
 0000000502 00000 n 
 0000000699 00000 n 
 0000000877 00000 n 
-0000001060 00000 n 
-0000001224 00000 n 
-0000001390 00000 n 
-0000001550 00000 n 
-0000001811 00000 n 
-0000001881 00000 n 
-0000002177 00000 n 
-0000002238 00000 n 
+0000001111 00000 n 
+0000001342 00000 n 
+0000001575 00000 n 
+0000001802 00000 n 
+0000002063 00000 n 
+0000002133 00000 n 
+0000002429 00000 n 
+0000002490 00000 n 
 trailer
 <<
 /ID 
-[<489cdd54e84da6c9fa4ab05531d03e50><489cdd54e84da6c9fa4ab05531d03e50>]
+[<3d5dec00c85a25d8abe63cb859105853><3d5dec00c85a25d8abe63cb859105853>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 13 0 R
@@ -126,5 +126,5 @@ trailer
 /Size 16
 >>
 startxref
-5270
+5522
 %%EOF

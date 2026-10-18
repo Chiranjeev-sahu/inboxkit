@@ -1,0 +1,6 @@
+{
+  "command": "python scripts/check_submission.py",
+  "exit_code": 0,
+  "stdout": "{\n  \"checks_pass\": true,\n  \"research\": 100,\n  \"draft_ready\": 97,\n  \"parked\": 3,\n  \"errors\": []\n}\n",
+  "stderr": ""
+}

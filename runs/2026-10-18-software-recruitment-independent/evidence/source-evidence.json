@@ -1,0 +1,129 @@
+[
+  {
+    "id": "O1",
+    "url": "https://optiveum.com/about-us/",
+    "observed_date": "2026-10-18",
+    "page_date": "undated",
+    "snippet": "A boutique firm built on 20 years of trust.",
+    "supports": "Explicit boutique positioning. Names Tomasz Polikowski and Marek Wrobel as current co-founders and managing partners. Says every mandate is personally run by one of them. Links Tomasz to https://www.linkedin.com/in/tomasz-polikowski-36a35557/. Founder influence on vendor selection inferred; infrastructure ownership not demonstrated."
+  },
+  {
+    "id": "O2",
+    "url": "https://optiveum.com/recruitment-it/",
+    "observed_date": "2026-10-18",
+    "page_date": "undated",
+    "snippet": "Software engineers and software developers across back-end, front-end, and full-stack profiles",
+    "supports": "IT recruitment service for technology roles, predominantly mid/senior talent across Europe and other markets. Recruitment, IT outsourcing and IT hub setup were inspected; no competing mailbox/domain/warmup product found. Its technical infrastructure hiring/outsourcing refers to client IT talent, not cold-email infrastructure."
+  },
+  {
+    "id": "O3",
+    "url": "https://optiveum.com/case-studies/quertum-pl-net-recruitment/",
+    "observed_date": "2026-10-18",
+    "page_date": "2024-11-15",
+    "engagement_date": "September 2024 to November 2024",
+    "snippet": "Developers hired on schedule",
+    "supports": "Named QUERTUM PL software development and digital solutions client needed senior .NET developers; Optiveum sourced, assessed and onboarded experts. The results state hires on schedule and project launch without delay. Historical case, approximately 23 months old; not described as recent. Supports first line."
+  },
+  {
+    "id": "O4",
+    "url": "https://optiveum.com/contact/",
+    "observed_date": "2026-10-18",
+    "page_date": "undated",
+    "snippet": "Founder-led - you talk to people who decide",
+    "supports": "Public contact page did not reveal a named Tomasz address in the rendered extraction. Icypeas named-person finder used instead. Its generic inbox was not assigned to a person."
+  },
+  {
+    "id": "O5",
+    "url": "https://www.linkedin.com/company/optiveum",
+    "observed_date": "2026-10-18",
+    "page_date": "indexed public company page",
+    "snippet": "Tomasz Polikowski",
+    "supports": "Company-authored public LinkedIn page lists Tomasz among employees. Direct personal profile fetch returned 999/cache miss; company About page directly supplies the personal profile link and current founder role."
+  },
+  {
+    "id": "A1",
+    "url": "https://axetalent.com/",
+    "observed_date": "2026-10-18",
+    "page_date": "undated",
+    "snippet": "Boutique headhunting | Natalia Rostova | Founder, Headhunter & Director | natalia@axetalent.com",
+    "snippet_note": "Pipe-separated verbatim fragments from different sections, not one continuous quote.",
+    "supports": "Explicit boutique headhunting for tech/AI plus academia/defense. Lists software and compiler engineers. Names Natalia as founder and director; directly publishes her work address. Nomic Labs case summary reports a compiler engineering lead hire. Own Axe Builder product makes academic resumes, not email infrastructure. Subscription talent search and global candidate outreach imply possible infrastructure need; volumes, sequencer, pain and budget unproven."
+  },
+  {
+    "id": "A2",
+    "url": "https://axetalent.com/case-study-nomic-labs-compiler-lead",
+    "observed_date": "2026-10-18",
+    "page_date": "undated",
+    "snippet": "The Compiler Engineering Lead was hired and is effectively leading the engineering team at Nomic Labs.",
+    "supports": "Dedicated first-party named-client placement case for Nomic Labs (HardHat), a Web3 startup. Describes programming-language/compiler expertise, a candidate sourced at Meta, technical first-message conversation and a completed engineering lead hire. Supports software engineering placement criterion and first line. Browser extraction cache failed; direct public HTML fetch succeeded with HTTP 200. No event/publication date visible."
+  },
+  {
+    "id": "A3",
+    "url": "https://sg.linkedin.com/in/nataliarostova",
+    "observed_date": "2026-10-18",
+    "page_date": "indexed profile, crawl reported 3 days ago",
+    "snippet": "Natalia Rostova | Axe Talent",
+    "snippet_note": "Separate indexed profile heading and employer fields.",
+    "supports": "Public indexed personal LinkedIn profile associates Natalia with Axe Talent and Singapore; agrees with first-party founder biography. Direct fetch returns LinkedIn 999, so full profile unavailable."
+  },
+  {
+    "id": "R1",
+    "url": "https://ripplerecruit.co.uk/case-studies/chaptr/",
+    "observed_date": "2026-10-18",
+    "page_date": "undated",
+    "snippet": "a Front End Developer was hired on a remote basis",
+    "supports": "Named Chaptr developer placement is real evidence. However current site service focus is engineering/manufacturing. Boutique status not clearly evidenced; current software recruitment positioning uncertain, so do not enrich."
+  },
+  {
+    "id": "R2",
+    "url": "https://ripplerecruit.co.uk/services/",
+    "observed_date": "2026-10-18",
+    "page_date": "undated",
+    "snippet": "Manufacturing, Industrial, and Technical firms",
+    "supports": "Current disciplines emphasize mechanical, production, control, hardware and technical leadership. Historical software placement alone did not resolve current segment alignment."
+  },
+  {
+    "id": "R3",
+    "url": "https://ripplerecruit.co.uk/about/",
+    "observed_date": "2026-10-18",
+    "page_date": "undated",
+    "snippet": "David Ellery | Founder, Ripple Recruit",
+    "snippet_note": "Separate author name and role fields.",
+    "supports": "Current founder and public named email available, but not enriched/verified because company-fit uncertainty comes first. The guessed /about-us/ path failed; navigation supplied working /about/."
+  },
+  {
+    "id": "W1",
+    "url": "https://www.wsgsearch.com/",
+    "observed_date": "2026-10-18",
+    "page_date": "undated",
+    "snippet": "Seven Senior and Staff engineers signed | I cap myself at 4 active searches.",
+    "snippet_note": "Separate case summary and founder biography excerpts.",
+    "supports": "Wedoe Search Group matches boutique founder-led recruitment with a named Later software-engineering placement case. Commercial hold: explicit focus on warm introductions and referrals, rejection of cold DM sourcing, and four-search capacity limit give weak evidence of need for scalable cold-email infrastructure. Not a competitor; no enrichment credits spent. This is a suitability judgment, not a literal ICP rejection."
+  },
+  {
+    "id": "P1",
+    "url": "https://www.inboxkit.com/",
+    "observed_date": "2026-10-18",
+    "page_date": "current product page, mixed dated updates",
+    "snippet": "Google, Microsoft 365 & Azure mailboxes | We configure DKIM, DMARC, and SPF records automatically.",
+    "snippet_note": "Two verbatim fragments.",
+    "supports": "Only copy claims used: offers Google/Microsoft outreach mailboxes and automatic SPF/DKIM/DMARC setup. No claim of delivery, reply rate or demo guarantees. Homepage trusted-by names inspected; neither retained agency named."
+  },
+  {
+    "id": "S1",
+    "url": "https://www.inboxkit.com/partners",
+    "observed_date": "2026-10-18",
+    "page_date": "undated",
+    "snippet": "InboxKit Partner Network",
+    "supports": "Inspected public partner list and searched Optiveum/Axe names; no match. Canonical local suppression checked on company names, domains and final emails. Public list is incomplete; no-match is not proof of noncustomer status."
+  },
+  {
+    "id": "S2",
+    "url": "https://www.inboxkit.com/customer-stories/case-studies",
+    "requested_url": "https://www.inboxkit.com/case-studies",
+    "observed_date": "2026-10-18",
+    "page_date": "undated",
+    "snippet": "Case Studies",
+    "supports": "Current redirect destination inspected; neither retained agency named. Public account evidence incomplete."
+  }
+]

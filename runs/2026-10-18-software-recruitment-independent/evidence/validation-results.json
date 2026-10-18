@@ -1,0 +1,50 @@
+{
+  "run_checks": {
+    "exact_four_presentation_files": true,
+    "requested_two_contacts": true,
+    "distinct_domains": true,
+    "distinct_emails": true,
+    "personal_linkedin": true,
+    "required_names_and_greetings": true,
+    "research_reconciles": true,
+    "no_parked_or_excluded_contacts": true,
+    "valid_only": true,
+    "accept_all_preserved": true,
+    "same_email_domains": true,
+    "all_receipts_resolve": true,
+    "actions_within_budget": true,
+    "companies_within_budget": true,
+    "no_em_en_dashes_in_copy": true,
+    "each_email_has_optout": true,
+    "local_document_links_resolve": true
+  },
+  "all_run_checks_pass": true,
+  "audit": {
+    "input_rows": 2,
+    "qualified_rows": 2,
+    "send_ready_rows": 2,
+    "review_parked_rows": 0,
+    "research_reconciles": true,
+    "alternate_email_domain_rows": 0,
+    "alternate_email_domain_review_rows": 0,
+    "review_reasons": {},
+    "verification_statuses": {
+      "valid": 2
+    },
+    "excluded_reasons": {}
+  },
+  "unit_tests": {
+    "command": "python -m unittest discover -s tests -v",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": "test_bad_emails_duplicates_and_suppression (test_prepare_export.ExportGateTest.test_bad_emails_duplicates_and_suppression) ... ok\ntest_blank_flag_is_not_false_and_missing_greeting_is_caught (test_submission_fields.SubmissionFieldsTest.test_blank_flag_is_not_false_and_missing_greeting_is_caught) ... ok\ntest_provider_alias_preserves_risk (test_submission_fields.SubmissionFieldsTest.test_provider_alias_preserves_risk) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 1.907s\n\nOK\n"
+  },
+  "notes": "Canonical submission checker is reported separately; source quality and commercial suitability were reviewed by agent.",
+  "canonical_submission_checker": {
+    "command": "python scripts/check_submission.py",
+    "exit_code": 0,
+    "stdout": "{\n  \"checks_pass\": true,\n  \"research\": 100,\n  \"draft_ready\": 97,\n  \"parked\": 3,\n  \"errors\": []\n}\n",
+    "stderr": ""
+  },
+  "validation_note": "Initial link audit referenced validation-results.json before that report existed; final audit confirms all links resolve. No test rerun needed."
+}

@@ -23,4 +23,6 @@ Chief Lead Officer and Caliber Outbound have provider-positive assessments with 
 
 State the company-fit and operational-signal rules before discovery. Use the supplied segment, inspect first-party evidence, check commercial suitability, select a relevant current buyer and keep each contact's source and verification trail. The saved [SaaS example](../runs/2026-10-18-b2b-saas-outbound-fresh/README.md) shows this process with two draft-ready contacts, two commercial-overlap holds and an invalid address replaced by another buyer.
 
+The later [software recruitment run](../runs/2026-10-18-software-recruitment-independent/README.md) independently produced two ready contacts from four companies without parent sourcing assistance. Post-run review caught an unsupported demo duration; the copy and shared runbook were corrected. Two completed samples do not establish arbitrary-segment yield, independent-machine authentication or actual delivery, and structural export checks do not prove semantic support for an offer.
+
 Provider rankings and discovery strategies are revisable when measured incremental results change. Preserve the reason for a change in that run's notes rather than silently changing eligibility rules.

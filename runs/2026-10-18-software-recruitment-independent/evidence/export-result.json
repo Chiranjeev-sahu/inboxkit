@@ -1,0 +1,12 @@
+{
+  "command": [
+    "scripts/prepare_export.py",
+    "runs\\2026-10-18-software-recruitment-independent\\evidence\\leads.csv",
+    "--output-dir",
+    "runs\\2026-10-18-software-recruitment-independent",
+    "--presentation"
+  ],
+  "exit_code": 0,
+  "stdout": "{\n  \"input_rows\": 2,\n  \"qualified_rows\": 2,\n  \"send_ready_rows\": 2,\n  \"review_parked_rows\": 0,\n  \"research_reconciles\": true,\n  \"alternate_email_domain_rows\": 0,\n  \"alternate_email_domain_review_rows\": 0,\n  \"review_reasons\": {},\n  \"verification_statuses\": {\n    \"valid\": 2\n  },\n  \"excluded_reasons\": {}\n}\n",
+  "stderr": ""
+}

@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-18",
+  "local_list": "../../../data/suppression.csv",
+  "checked_fields": [
+    "normalized company name",
+    "website domain",
+    "email domain",
+    "email"
+  ],
+  "candidates": [
+    "Optiveum",
+    "Axe Talent"
+  ],
+  "local_matches": 0,
+  "public_pages": [
+    "https://www.inboxkit.com/",
+    "https://www.inboxkit.com/partners",
+    "https://www.inboxkit.com/customer-stories/case-studies"
+  ],
+  "public_matches": 0,
+  "limitation": "Public lists are incomplete. Private CRM/customer state not accessible and not inferred."
+}

@@ -1,0 +1,4 @@
+action,provider,operation,query,outcome,credits_used,receipt,date
+1,Icypeas,named work-email finder,Tomasz Polikowski; optiveum.com,FOUND; ultra_sure,1,01-icypeas-tomasz-finder.json,2026-10-18
+2,BounceBan,single verification,tomasz.polikowski@optiveum.com,deliverable;99;accept_all=false,1,02-bounceban-tomasz.json,2026-10-18
+3,BounceBan,single verification,natalia@axetalent.com,deliverable;97;accept_all=true,1,03-bounceban-natalia.json,2026-10-18

@@ -43,7 +43,7 @@ The main campaign artifacts are together in `deliverables/`. Start with the one-
 | [scale-cost.md](deliverables/scale-cost.md) | The requested scaling paragraph plus detailed workload, batching, measurement and cost reasoning. | Distinguish the proposed 2,000-contact scenario from observed results. |
 | [email-review.md](deliverables/email-review.md) | Individual verdicts for eight alternate-domain cases and four targeted email checks. | Understand why domain proof can permit a row while a hold or verification conflict prevents another. |
 
-For a compact example using a different segment, open the [B2B SaaS run](runs/2026-10-18-b2b-saas-outbound-fresh/README.md). Its root contains the summary, ready list, drafts and parked list. Detailed receipts sit under `evidence/`.
+For the latest example using a different segment, open the [software recruitment run](runs/2026-10-18-software-recruitment-independent/README.md): two companies researched and verified by a fresh-context agent without sourcing assistance, followed by a documented copy review. Its root contains the summary, ready list, drafts and parked list; detailed receipts sit under `evidence/`. The earlier [B2B SaaS run](runs/2026-10-18-b2b-saas-outbound-fresh/README.md) preserves a supervised example with commercial-overlap holds and an invalid contact replacement.
 
 ## What qualifies a company
 
@@ -386,6 +386,8 @@ Scaling requires more distinct qualifying companies, not just a larger export. T
 The campaign's 15-demo goal and funnel math are planning assumptions. No messages were sent, so replies, bounces, meetings and variant performance were not measured. Verification is a provider assessment with source date and uncertainty. Product claims come from linked InboxKit pages; prospect observations have their own sources. A URL inventory is not a full-site validation, and historical verification dates are not silently refreshed by re-exporting.
 
 The [fresh-context SaaS example](runs/2026-10-18-b2b-saas-outbound-fresh/README.md) used a clean clone without the original conversation history and produced two draft-ready contacts under supervision using the same authenticated account. It demonstrates one new-segment run and the saved interface; it does not guarantee arbitrary-ICP yield or transfer account authentication to another computer. Its documented commercial-fit correction and rejected contacts remain in the evidence.
+
+The later [recruitment run](runs/2026-10-18-software-recruitment-independent/README.md) started from a clean clone at `76f3329` with no original conversation history or suggested companies. It independently examined four companies and produced two provider-valid contacts, using one finder action and two verifier actions. Subsequent review corrected an unsupported demo duration and added an offer/source check to the runbook; contact evidence and verdicts were unchanged. This strengthens evidence for new-ICP research without claiming every first draft is error-free or that every segment has the same yield. It still used the same authenticated account and local credentials.
 
 The scripts establish mechanical consistency. Source support, current roles, organization aliases, suitability and copy relevance remain agent judgments that should be inspected. Public partner/customer suppression is bounded by publicly visible pages. Credentials and tool access are operator prerequisites for a live run; the saved campaign and offline checks remain inspectable without them.
 
@@ -907,6 +909,41 @@ Every public tracked file is listed below, grouped so a reader can identify both
 | [runs/2026-10-18-parked-resolution/evidence/lusha-followup.json](runs/2026-10-18-parked-resolution/evidence/lusha-followup.json) | Saved run evidence; interpret with the accompanying run notes. |
 | [runs/2026-10-18-parked-resolution/evidence/public-address-checks.json](runs/2026-10-18-parked-resolution/evidence/public-address-checks.json) | Saved run evidence; interpret with the accompanying run notes. |
 | [runs/2026-10-18-parked-resolution/run-notes.md](runs/2026-10-18-parked-resolution/run-notes.md) | Dated decisions, methods, failures and interpretation. |
+
+</details>
+
+<details>
+<summary>runs/2026-10-18-software-recruitment-independent (27 files)</summary>
+
+| File | Role |
+| --- | --- |
+| [runs/2026-10-18-software-recruitment-independent/README.md](runs/2026-10-18-software-recruitment-independent/README.md) | Run overview, rules, counts and evidence navigation. |
+| [runs/2026-10-18-software-recruitment-independent/draft-outreach.md](runs/2026-10-18-software-recruitment-independent/draft-outreach.md) | Agent-written sourced draft outreach for this ICP. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/01-icypeas-tomasz-finder.json](runs/2026-10-18-software-recruitment-independent/evidence/01-icypeas-tomasz-finder.json) | Saved run evidence; interpret with the accompanying run notes. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/02-bounceban-tomasz.json](runs/2026-10-18-software-recruitment-independent/evidence/02-bounceban-tomasz.json) | Saved run evidence; interpret with the accompanying run notes. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/03-bounceban-natalia.json](runs/2026-10-18-software-recruitment-independent/evidence/03-bounceban-natalia.json) | Saved run evidence; interpret with the accompanying run notes. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/audit.json](runs/2026-10-18-software-recruitment-independent/evidence/audit.json) | Generated reconciliation counts and gate reasons. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/axe-case-fetch-status.json](runs/2026-10-18-software-recruitment-independent/evidence/axe-case-fetch-status.json) | Saved run evidence; interpret with the accompanying run notes. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/bounceban-balance-after.json](runs/2026-10-18-software-recruitment-independent/evidence/bounceban-balance-after.json) | Dated sanitized provider capacity observation for interpreting this run; not a current allowance. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/bounceban-balance-before.json](runs/2026-10-18-software-recruitment-independent/evidence/bounceban-balance-before.json) | Dated sanitized provider capacity observation for interpreting this run; not a current allowance. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/company-dispositions.csv](runs/2026-10-18-software-recruitment-independent/evidence/company-dispositions.csv) | Company-level fit/signal and discovery dispositions. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/credit-ledger.csv](runs/2026-10-18-software-recruitment-independent/evidence/credit-ledger.csv) | Saved run evidence; interpret with the accompanying run notes. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/excluded.csv](runs/2026-10-18-software-recruitment-independent/evidence/excluded.csv) | Generated excluded contact attempts and reasons. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/export-result.json](runs/2026-10-18-software-recruitment-independent/evidence/export-result.json) | Saved run evidence; interpret with the accompanying run notes. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/icypeas-balance-after.json](runs/2026-10-18-software-recruitment-independent/evidence/icypeas-balance-after.json) | Dated sanitized provider capacity observation for interpreting this run; not a current allowance. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/icypeas-balance-before.json](runs/2026-10-18-software-recruitment-independent/evidence/icypeas-balance-before.json) | Dated sanitized provider capacity observation for interpreting this run; not a current allowance. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/leads.csv](runs/2026-10-18-software-recruitment-independent/evidence/leads.csv) | Input contact attempts, including unsuccessful records. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/post-run-review.json](runs/2026-10-18-software-recruitment-independent/evidence/post-run-review.json) | Saved run evidence; interpret with the accompanying run notes. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/qualified.csv](runs/2026-10-18-software-recruitment-independent/evidence/qualified.csv) | Generated retained research under this run's policy. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/run-definition.md](runs/2026-10-18-software-recruitment-independent/evidence/run-definition.md) | Saved run evidence; interpret with the accompanying run notes. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/run-notes.md](runs/2026-10-18-software-recruitment-independent/evidence/run-notes.md) | Dated decisions, methods, failures and interpretation. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/source-evidence.json](runs/2026-10-18-software-recruitment-independent/evidence/source-evidence.json) | Saved source excerpts and fit, signal or buyer judgments. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/submission-check-result.json](runs/2026-10-18-software-recruitment-independent/evidence/submission-check-result.json) | Saved run evidence; interpret with the accompanying run notes. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/suppression-review.json](runs/2026-10-18-software-recruitment-independent/evidence/suppression-review.json) | Saved run evidence; interpret with the accompanying run notes. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/unit-test-result.json](runs/2026-10-18-software-recruitment-independent/evidence/unit-test-result.json) | Saved run evidence; interpret with the accompanying run notes. |
+| [runs/2026-10-18-software-recruitment-independent/evidence/validation-results.json](runs/2026-10-18-software-recruitment-independent/evidence/validation-results.json) | Saved run evidence; interpret with the accompanying run notes. |
+| [runs/2026-10-18-software-recruitment-independent/review-parked.csv](runs/2026-10-18-software-recruitment-independent/review-parked.csv) | Generated retained contacts with unresolved reasons. |
+| [runs/2026-10-18-software-recruitment-independent/send-ready.csv](runs/2026-10-18-software-recruitment-independent/send-ready.csv) | Generated draft-ready contacts for this run. |
 
 </details>
 

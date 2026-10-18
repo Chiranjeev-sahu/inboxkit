@@ -40,6 +40,8 @@ Current research statuses are 99 provider-valid and one unknown. Ready-domain fl
 | [2026-10-16-sourcing-test](2026-10-16-sourcing-test/run-notes.md) | Fixed-rule sourcing observations and export results. |
 | [2026-10-16-zerobounce-reconciliation](2026-10-16-zerobounce-reconciliation/run-notes.md) | Individual ZeroBounce checks reconciled against prior email judgments. |
 | [2026-10-18-b2b-saas-outbound-fresh](2026-10-18-b2b-saas-outbound-fresh/README.md) | Supervised fresh-context SaaS run; two ready companies, two commercial holds and one invalid contact attempt. |
+| [2026-10-18-parked-resolution](2026-10-18-parked-resolution/run-notes.md) | Public-address, current routing and finder checks for the three retained agency holds; none promoted. |
+| [2026-10-18-software-recruitment-independent](2026-10-18-software-recruitment-independent/README.md) | Independent fresh-context research: four companies examined, two ready buyers; subsequent offer/copy review recorded separately. |
 
 ## How to read a run
 

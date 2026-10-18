@@ -1,0 +1,31 @@
+{
+  "review_date": "2026-10-18",
+  "independent_research_completed_without_parent_intervention": true,
+  "parent_provided_companies_or_credit_hints_during_run": false,
+  "execution_environment": "Fresh clone at 76f3329; same authenticated account; ignored local credentials supplied before run",
+  "companies_examined": 4,
+  "research_rows": 2,
+  "ready_rows": 2,
+  "parked_rows": 0,
+  "excluded_rows": 0,
+  "source_review": "Company founder pages and named placement cases support retained rows; historical/undated limits disclosed",
+  "issues_found": [
+    "Initial copy invented a 15-minute demo slot not supported by cited InboxKit page",
+    "Summary added an unnecessary unmeasured conversion scenario",
+    "Initial stop instruction did not explicitly name booked meetings"
+  ],
+  "corrections": [
+    "Documented 30-minute demo and exact booking URL",
+    "Distinct DNS, integration and final-fit follow-up angles",
+    "Stop on reply, booking or opt-out",
+    "Unmeasured scenario replaced with central feasibility reference",
+    "Shared runbook offer/source check"
+  ],
+  "contact_data_or_provider_receipts_changed": false,
+  "email_templates_checked": 10,
+  "email_word_range": [
+    69,
+    85
+  ],
+  "additional_provider_calls_for_review": 0
+}

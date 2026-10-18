@@ -1,0 +1,27 @@
+{
+  "observed_date": "2026-10-18",
+  "action": 3,
+  "endpoint": "GET /v1/verify/single",
+  "query": {
+    "email": "natalia@axetalent.com"
+  },
+  "result": {
+    "credits_consumed": 1,
+    "credits_remaining": 93,
+    "email": "natalia@axetalent.com",
+    "id": "f38-2b606a29",
+    "is_accept_all": true,
+    "is_disposable": false,
+    "is_free": false,
+    "is_role": false,
+    "mode": "regular",
+    "mx_records": [
+      "smtp.google.com"
+    ],
+    "result": "deliverable",
+    "score": 97,
+    "smtp_provider": "Google",
+    "status": "success",
+    "verify_at": "2026-10-18T13:08:16.459Z"
+  }
+}
