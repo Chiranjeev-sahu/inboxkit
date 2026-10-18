@@ -4,6 +4,36 @@
 
 The [original assignment](../GTM%20Engineer%20Hiring%20Assignment.txt) asks for a campaign that could **book 15 qualified demos in 30 days**. Attendance is tracked separately from the strategy memo's booking target. Nothing has been sent, so this submission has no observed reply or booking rate.
 
+## Read the three assignment numbers separately
+
+- **15 qualified demos in 30 days:** the outcome the proposed campaign is designed to pursue. The assignment evaluates the plan and staged system; it explicitly says nothing gets sent.
+- **100 lead rows:** the research sample to deliver. It is not a claim that those 100 people will produce 15 demos.
+- **2,000 rows:** the separate scaling-and-cost explanation requested by the brief. Using 2,000 contacts in the operating example is our planning choice, not a prescribed campaign volume or a demonstrated reachable market.
+
+### What counts as a qualified demo?
+
+The brief identifies the target buyers but does not give a complete qualification checklist. Our proposed counting rule is a scheduled product discussion with a relevant infrastructure decision-maker at an eligible agency, where the booking exchange confirms relevant infrastructure needs or genuine evaluation interest. A positive reply alone, a generic calendar submission or a provider-valid email does not establish that outcome. Count a company's booking once across email and LinkedIn; remove cancellations and duplicate reschedules. Attendance is a separate later metric. Confirm this counting convention with the campaign owner before activation.
+
+## Why the old and new percentages mean different things
+
+| Figure | What it describes | Evidence status |
+| --- | --- | --- |
+| **About 0.24% in the old model** | Positive replies per contacted address in Sales.co's own campaign. | External observation, not our qualified-demo rate. |
+| **0.25% in the current sensitivity table** | An illustrative final qualified-booking rate: one qualified booking per 400 unique contacts. | A hypothetical case, not a benchmark or measured result. |
+| **0.75% for the 2,000-contact example** | The final rate required to make 15 bookings from 2,000 contacts: 15 / 2,000. | Arithmetic imposed by that volume and target, not a prediction. |
+
+The retired model multiplied 0.24% positive replies by three assumed rates: 46% booking, 80% attendance and 80% qualification. That gave 15 / (0.0024 x 0.46 x 0.80 x 0.80), rounded up to 21,230 contacts. Attendance made it a held-demo model rather than the brief's booking target. The booking assumption was also unsupported by a matching reply-to-booking funnel in the cited data. Those additional assumptions were not observed InboxKit results.
+
+The current calculation uses the final outcome directly: **unique contacts required = 15 / assumed qualified-booking rate**. At a hypothetical 0.25%, it needs 6,000 contacts. At 0.75%, it needs 2,000. At 1%, it needs 1,500. None of these cases has been demonstrated by this draft project; calling 0.25% the lower case only compares the table's examples, not an industry baseline. More favorable arithmetic is not evidence of better campaign performance.
+
+## What the operating example actually plans
+
+The example starts with 97 ready contacts, then conditionally adds 1,903 more distinct eligible companies: 2,000 total. Four email steps mean at most 2,000 x four = 8,000 email attempts, before reply, booking and opt-out stops. **Conversion uses 2,000 unique contacts as its denominator, not 8,000 messages.** LinkedIn reaches a selected subset and does not create a second count of the same prospects.
+
+A cohort is simply a group that starts the sequence together. In this example the last group starts on campaign day 10; its relative day-20 touch lands on calendar day 29. The detailed cohort sizes below are an illustrative distribution, not a tested optimal batch size. The 477-email peak is the arithmetic of that distribution, not an approved daily sending quota.
+
+The example answers what volume and capacity would be needed **if** the campaign achieved the required rate. It does not prove enough companies, credits, healthy mailboxes or conversion performance exist. The pilot provides early operational feedback; 97 contacts and an unfinished sequence cannot validate a reliable 0.75% booking rate. Expansion remains conditional on capacity and early quality, with the 30-day target risk reported honestly.
+
 ## External observations and their limits
 
 [Sales.co's first-party report](https://sales.co/research/cold-email-conversion-rate-benchmarks), published October 6, 2026, covers first emails March 6-August 31, outcomes through October 6: at least 36 days per contact. A contact is one address within one campaign, not necessarily a globally unique person. Pooled results: 336,257 contacts, 627,085 emails, 971 positive replies (0.2888%). Booking data covers only Sales.co's own service campaign:
