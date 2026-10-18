@@ -1,0 +1,161 @@
+{
+  "checks": [
+    {
+      "domain": "mattbauman.me",
+      "http_status": 200,
+      "response": {
+        "Status": 0,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "mattbauman.me.",
+            "type": 15
+          }
+        ],
+        "Authority": [
+          {
+            "name": "mattbauman.me.",
+            "type": 6,
+            "TTL": 600,
+            "data": "ns69.domaincontrol.com. dns.jomax.net. 2026060901 28800 7200 604800 600"
+          }
+        ],
+        "Comment": "Response from 97.74.104.45."
+      }
+    },
+    {
+      "domain": "chiefleadofficer.com",
+      "http_status": 200,
+      "response": {
+        "Status": 0,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "chiefleadofficer.com.",
+            "type": 15
+          }
+        ],
+        "Answer": [
+          {
+            "name": "chiefleadofficer.com.",
+            "type": 15,
+            "TTL": 3600,
+            "data": "10 alt4.aspmx.l.google.com."
+          },
+          {
+            "name": "chiefleadofficer.com.",
+            "type": 15,
+            "TTL": 3600,
+            "data": "5 alt2.aspmx.l.google.com."
+          },
+          {
+            "name": "chiefleadofficer.com.",
+            "type": 15,
+            "TTL": 3600,
+            "data": "5 alt1.aspmx.l.google.com."
+          },
+          {
+            "name": "chiefleadofficer.com.",
+            "type": 15,
+            "TTL": 3600,
+            "data": "1 aspmx.l.google.com."
+          },
+          {
+            "name": "chiefleadofficer.com.",
+            "type": 15,
+            "TTL": 3600,
+            "data": "10 alt3.aspmx.l.google.com."
+          }
+        ],
+        "Comment": "Response from 173.201.72.45."
+      }
+    },
+    {
+      "domain": "leadowski.io",
+      "http_status": 200,
+      "response": {
+        "Status": 0,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "leadowski.io.",
+            "type": 15
+          }
+        ],
+        "Authority": [
+          {
+            "name": "leadowski.io.",
+            "type": 6,
+            "TTL": 1800,
+            "data": "curitiba.ns.porkbun.com. dns.cloudflare.com. 2417425123 10000 2400 604800 1800"
+          }
+        ],
+        "Comment": "Response from 162.159.11.180."
+      }
+    },
+    {
+      "domain": "caliberoutbound.com",
+      "http_status": 200,
+      "response": {
+        "Status": 0,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "caliberoutbound.com.",
+            "type": 15
+          }
+        ],
+        "Answer": [
+          {
+            "name": "caliberoutbound.com.",
+            "type": 15,
+            "TTL": 3600,
+            "data": "5 alt2.aspmx.l.google.com."
+          },
+          {
+            "name": "caliberoutbound.com.",
+            "type": 15,
+            "TTL": 3600,
+            "data": "5 alt1.aspmx.l.google.com."
+          },
+          {
+            "name": "caliberoutbound.com.",
+            "type": 15,
+            "TTL": 3600,
+            "data": "10 alt4.aspmx.l.google.com."
+          },
+          {
+            "name": "caliberoutbound.com.",
+            "type": 15,
+            "TTL": 3600,
+            "data": "1 aspmx.l.google.com."
+          },
+          {
+            "name": "caliberoutbound.com.",
+            "type": 15,
+            "TTL": 3600,
+            "data": "10 alt3.aspmx.l.google.com."
+          }
+        ],
+        "Comment": "Response from 108.162.194.171."
+      }
+    }
+  ],
+  "observed_at": "2026-10-18T12:59:55.459303+00:00"
+}

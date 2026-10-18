@@ -27,7 +27,7 @@ Credentials and OAuth state belong to the operator and are not checked into this
 | Hunter | Registered hosted MCP; optional direct key. | Named work-email discovery/verification where funded. A configured endpoint does not restore exhausted allowance. |
 | Findymail | Registered hosted MCP; tested direct API. | Finder and verifier capacity differ. The tested API host is `app.findymail.com`. |
 | ZeroBounce | Registered hosted OAuth MCP; tested direct API. | A direct API key is a usable alternative if hosted-client authentication is unavailable. Preserve normalized verdict, raw result and separate accept-all flag. |
-| Lusha | Operator-managed app/plugin connection; optional direct key. | Not registered in the project TOML. An `Unknown tool` error is a registration/runtime issue, not evidence of zero credits. Test the available route before relying on it. |
+| Lusha | Operator-managed app/plugin connection; optional direct key. | Not registered in the project TOML. Account usage and a named-profile batch worked on 18 October; individual profiles can be restricted. An earlier `Unknown tool` response was not evidence of zero credits. Test the available route before relying on it. |
 | Icypeas | Tested direct API; hosted integration may be configured separately. | The synchronous finder/verifier use the API key alone. The balance route also requires the matching account email. No project MCP registration is needed for these routes. |
 | Datagma | Tested direct API. | Named-buyer work-email recovery. Keep discovery attribution distinct from verification. |
 | BounceBan | Tested standard direct verification API. | Specialist assessment for ambiguous domains; poll unfinished requests by ID. The separate waterfall host failed in an earlier environment. |

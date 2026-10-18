@@ -43,6 +43,8 @@ Current research statuses are 99 provider-valid and one unknown. Ready-domain fl
 
 ## How to read a run
 
+[18 October parked-contact follow-up](2026-10-18-parked-resolution/run-notes.md) records the latest public-address, routing and finder checks for the three retained holds. None was promoted; current agency counts remain 100 research = 97 ready + three parked.
+
 Start with its summary or run notes. Inspect `leads.csv` for attempted contacts, `qualified.csv` for retained research, `send-ready.csv` and `review-parked.csv` for the reconciled subsets, and `excluded.csv` for failed gates. `audit.json` gives counts and reasons. Provider/source JSON files support individual judgments; they are saved observations rather than fresh API calls.
 
 Earlier runs used earlier qualification and verification policies. Their dated observations remain useful, but the current [runbook](../skills/lead-research/SKILL.md) and [decisions](../docs/decisions.md) govern new work. Some early snapshots lack a parked file or newer merge columns; keep their historical scope rather than treating them as current campaign imports.

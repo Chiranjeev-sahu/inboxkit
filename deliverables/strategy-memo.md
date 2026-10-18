@@ -1,6 +1,6 @@
 # InboxKit campaign strategy
 
-**17 October 2026 | Draft only | Goal: 15 qualified demos in 30 days**
+**18 October 2026 | Draft only | Goal: 15 qualified demos booked in 30 days**
 
 ## Segment and buying signal
 
@@ -24,20 +24,16 @@ Show how InboxKit centralizes client accounts, provides a panel per domain, and 
 
 LinkedIn follow-ups require an accepted connection; day 4 also requires email 1 to have been sent. Stop both channels on any reply, meeting, or opt-out. Every email includes reply STOP. A monitored reply-to and operator suppression handling are required before live sending. All messages remain drafts.
 
-## Volume math and assumptions
+## Goal math and operating plan
 
-**Contacts needed = 15 / (positive reply rate x booking rate x attendance rate x qualification rate).** All rates are planning assumptions; contacts are rounded up.
+**Contacts needed = 15 / qualified-booking rate per unique contact.** Count one eligible agency with a relevant buyer, confirmed infrastructure relevance and a scheduled demo once across both channels. Attendance is a separate downstream measure.
 
-| Scenario | Positive replies / contact | Booked / positive | Attended / booked | Qualified / attended | Contacts for 15 |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| Conservative | 0.10% | 25% | 75% | 75% | 106,667 |
-| Base | 0.24% | 46% | 80% | 80% | 21,230 |
-| Stretch | 0.50% | 50% | 85% | 85% | 8,305 |
+| Planning sensitivity, not observed | Qualified bookings / contact | Contacts for 15 |
+| --- | ---: | ---: |
+| Lower yield | 0.25% | 6,000 |
+| Required for a 2,000-contact plan | 0.75% | 2,000 |
+| Higher yield | 1.00% | 1,500 |
 
-[Sales.co's October report](https://sales.co/research/cold-email-conversion-rate-benchmarks) provides context: 0.24% positive replies and 143 bookings from 124,513 contacts. Its offer differs; some bookings occurred after 30 days. These results do not establish an InboxKit forecast.
+Use the 97 staged draft-ready contacts as the first pilot; three remain parked. A conditional 2,000-contact rollout needs roughly 1,900 more accepted companies, up to 8,000 emails, and funded research/sending capacity. Launch remaining cohorts by day 10 so each day-20 touch fits inside day 30. Reserve manual LinkedIn for up to 100 priority buyers, subject to account allowance. Count each agency's booking once across channels.
 
-At base assumptions, **2,000 send-ready contacts imply about 1.4 qualified attended demos**. The 100-row sample cannot establish the 15-demo outcome. Start with a small approved pilot, measure replies, bookings, attendance, and qualification separately, then revise volume. See the [2,000-row cost note](scale-cost.md) for data versus execution costs.
-
-## Current staging
-
-**100 distinct companies = 97 draft send-ready + 3 parked.** Eight alternate-domain relationships have public proof. Parked rows retain exact evidence gaps or conflicting verification. Accept-all flags stay separate from probabilistic provider verdicts. [Individual email review](email-review.md).
+**0.75% is a target-implied hurdle, not a forecast.** The [feasibility note](../docs/campaign-feasibility.md) explains external benchmark limits and a 480-email peak day. Validate segment depth, sourcing pace, sender readiness, capacity and reply handling before rollout; otherwise reduce volume and report the target risk. See [scaling and cost](scale-cost.md) and the [three parked cases](email-review.md).

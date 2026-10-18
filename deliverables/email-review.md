@@ -39,3 +39,7 @@ ZeroBounce balance was **93** before these four checks. All four calls completed
 - The export test covers proven and unproven alternate domains, a claimed proof without a URL, malformed proof URLs, an explicit targeted hold, catch-all ambiguity, bad emails, duplicates, and suppression of an alternate email domain. A proof URL is a mechanical prerequisite; the agent remains responsible for judging what it proves.
 
 Current files: [research](lead-sheet.csv), [draft send-ready](send-ready.csv), [parked with exact reasons](review-parked.csv). Reproduce with `python scripts/prepare_export.py runs/2026-10-15-second-pass/leads.csv`; the canonical [audit](../runs/2026-10-15-second-pass/audit.json) reports the same counts.
+
+## Follow-up, 18 October
+
+A [targeted follow-up](../runs/2026-10-18-parked-resolution/run-notes.md) rechecked public contact pages, alternative-address evidence, current domain routing and one finder batch. None of the three holds was resolved. Leadowski's address was returned by Lusha again, but the finder match does not cancel a clear verifier conflict. Chief Lead Officer's published alternative lacks a new positive assessment; Caliber's inspected pages still publish only a generic inbox. All three remain parked. Original verification dates and flags are preserved; only follow-up provenance was added to the canonical research notes.

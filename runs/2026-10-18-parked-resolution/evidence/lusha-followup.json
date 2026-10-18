@@ -1,0 +1,14 @@
+{
+  "provider": "Lusha",
+  "date": "2026-10-18",
+  "request_id": "8930c8be-1abf-49b2-b070-9f6179189841",
+  "lookup_inputs": "Three existing buyer LinkedIn URLs",
+  "results": [
+    {"company": "Chief Lead Officer", "status": "restricted", "action": "No additional private-data finder lookup"},
+    {"company": "Leadowski", "name": "Bohdan Shtylyk", "email": "bohdan@leadowski.io", "type": "work", "finder_confidence": "A+", "provider_update_date": "2026-10-18", "interpretation": "Finder corroboration only; not an independent mailbox-verifier result"},
+    {"company": "Caliber Outbound", "status": "restricted", "action": "No additional private-data finder lookup"}
+  ],
+  "credits_charged_reported": 2,
+  "results_returned": 1,
+  "outreach_sent": false
+}

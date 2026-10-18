@@ -1,0 +1,92 @@
+{
+  "pages": [
+    {
+      "url": "https://mattbauman.me/",
+      "http_status": 200,
+      "published_email_strings": [
+        "matt@mattbauman.me"
+      ],
+      "exact_parked_matches": [],
+      "identity_context": [
+        "!DOCTYPE html> Matt Bauman: Demand Gen, Retention &amp; AI Implementation <meta name=\"description\" content=\"Matt Bauman helps B2B companies fill their pipeline, raise customer",
+        "h=device-width, initial-scale=1.0\" /> Matt Bauman: Demand Gen, Retention &amp; AI Implementation <meta name=\"aut",
+        "l their pipeline, raise customer LTV, and build AI-powered systems that actually scale. Book a free strategy call.\" />",
+        "<meta property=\"og:description\" content=\"Demand gen, r",
+        "a property=\"og:url\" content=\"https://mattbauman.me/\" /> <meta property=\"og:description\" content=\"Demand gen, retention/LTV, and AI implementation: the three levers",
+        "/> <meta name=\"twitter:title\" content=\"Matt Bauman: More Customers. Higher",
+        ":alt\" content=\"Matt Bauman\" /> <meta name=\"twitter:description\" content=\"Demand gen, retention/LTV, and AI implementation: the three lever",
+        "g\" /> { \"@context\": \"https://schema.org\", \"@type\": \"Person\", \"name\": \"Matt Bauman\", \"url\": \"https://mattbauman.me/\", \"image\": \"https://mattbauman.me/assets/matt-bauman.jpg\", \"email\": \"matt@mattbauman.me\", \"jobTitle\": \"Demand"
+      ]
+    },
+    {
+      "url": "https://www.chiefleadofficer.com/",
+      "http_status": 200,
+      "published_email_strings": [],
+      "exact_parked_matches": [],
+      "identity_context": [
+        "Chief Lead Officer: B2B Lead Generation | Attract &amp; Nurture Leads to Grow Your Business <meta name=\"description\" content=\"Chief Lead Officer is a B2B lead generation",
+        "=1.0\" /> Chief Lead Officer: B2B Lead Generation | Attract &amp; Nurture Leads to Grow Your Business <meta name=\"description\" content=\"Chief Lead Officer is a B2B lead generation agency that attracts and nurtures leads to make them easier to convert into satisfied customers. Our team of expert direct response ma",
+        "eta property=\"og:type\" content=\"website\" /> <meta property=\"og:description\" content=\"Chief Lead Officer is a B2B lead generati",
+        "le\" content=\"Chief Lead Officer: B2B Lead Generation | Attract &amp; Nurture Leads to Grow Your Business\" /> <meta property=\"og:description\" content=\"Chief Lead Officer is a B2B lead generation agency that attracts and nurtures leads to make them easier to convert into satisfied customers. Our team of expert direct response ma",
+        "content=\"https://www.chiefleadofficer.com/assets/og-image.png\" /> <meta name=\"twitter:description\" content=\"Chief Lead Officer is a B2B lead generat",
+        "e\" content=\"Chief Lead Officer: B2B Lead Generation | Attract &amp; Nurture Leads to Grow Your Business\" /> <meta name=\"twitter:description\" content=\"Chief Lead Officer is a B2B lead generation agency that attracts and nurtures leads to make them easier to convert into satisfied customers. Our team of expert direct response ma",
+        "e Tag Manager (noscript) --> <button class=\"nav-toggle\" id=\"navToggle\" aria-",
+        ""
+      ]
+    },
+    {
+      "url": "https://caliberoutbound.com/",
+      "http_status": 200,
+      "published_email_strings": [
+        "info@caliberoutbound.com"
+      ],
+      "exact_parked_matches": [],
+      "identity_context": [
+        "esearch, copy, sending infrastructure, and reply handling, with qualified meetings booked on your calendar.\", \"founder\": {\"@type\": \"Person\", \"name\": \"Kerim Efe Ozcanli\", \"url\": \"https://caliberoutbound.com/about\", \"alternateName\": [\"Efe Ozcanli\", \"Kerim Efe Özcanlı\", \"Efe Özcanlı\"]}, \"areaServed\": \"Worldwide\", \"serviceType\":",
+        "ligation. Run by Kerim Efe Ozcanli . Background in business development, marketplace o",
+        "o\"> Run by Kerim Efe Ozcanli . Background in business development, marketplace operations, and demand generation. Eight clients max at a time. I write the copy, pick the lists, rea",
+        "\"num\">05 Who runs this One operator. Eight clients. No handoffs. I am",
+        "f Caliber Outbound\"> One operator. Eight clients. No handoffs. I am Kerim Efe Ozcanli. Background in business development, marketplace operations, and demand generation across B2B and fast moving ecommerce. I write your copy, pick your lists, se",
+        "erwise. The strategy call is the fastest way to see how I work. Kerim Efe Ozcanli, Founder Read more about how I work →"
+      ]
+    },
+    {
+      "url": "https://caliberoutbound.com/about",
+      "http_status": 200,
+      "published_email_strings": [
+        "info@caliberoutbound.com"
+      ],
+      "exact_parked_matches": [],
+      "identity_context": [
+        "ent=\"width=device-width, initial-scale=1.0\"> About · Caliber Outbound <meta property",
+        "> About · Founder I run Caliber Outbound. Bac"
+      ]
+    },
+    {
+      "url": "https://caliberoutbound.com/privacy",
+      "http_status": 200,
+      "published_email_strings": [
+        "info@caliberoutbound.com"
+      ],
+      "exact_parked_matches": [],
+      "identity_context": []
+    },
+    {
+      "url": "https://caliberoutbound.com/terms",
+      "http_status": 200,
+      "published_email_strings": [
+        "info@caliberoutbound.com"
+      ],
+      "exact_parked_matches": [],
+      "identity_context": []
+    },
+    {
+      "url": "https://www.leadowski.io/",
+      "http_status": 200,
+      "published_email_strings": [],
+      "exact_parked_matches": [],
+      "identity_context": []
+    }
+  ],
+  "observed_at": "2026-10-18T12:59:54.643602+00:00"
+}

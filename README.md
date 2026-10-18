@@ -360,6 +360,7 @@ runs/                      Dated research, provider receipts and audit trails
 | [skills/lead-research/SKILL.md](skills/lead-research/SKILL.md) | Six ordered stages, completion criteria, provider fallback policy and both output layouts. |
 | [docs/decisions.md](docs/decisions.md) | Current policy choices, reasons and supporting observations. |
 | [docs/open-questions.md](docs/open-questions.md) | Evidence boundaries and hypotheses; separates current policy from what the saved work cannot establish. |
+| [docs/campaign-feasibility.md](docs/campaign-feasibility.md) | Qualified-booking definition, benchmark denominator audit and conditional 30-day campaign capacity plan. |
 | [docs/data-dictionary.md](docs/data-dictionary.md) | Contact/evidence/hold fields, normalized accept-all naming, file counts and merge mapping. |
 | [docs/operator-guide.md](docs/operator-guide.md) | Concise setup, access checks, export/refresh commands, safe reruns and failure handling. |
 | [docs/mcp-setup.md](docs/mcp-setup.md) | Optional hosted registration, operator authentication and API fallback distinctions. |
@@ -400,7 +401,7 @@ Every public tracked file is listed below, grouped so a reader can identify both
 | [.env.example](.env.example) | Blank optional local credential template. |
 | [.gitattributes](.gitattributes) | Text file and newline conventions. |
 | [.github/workflows/offline-checks.yml](.github/workflows/offline-checks.yml) | Credential-free Python test and consistency-check CI definition. |
-| [.gitignore](.gitignore) | Keeps credentials and temporary output out of Git. |
+| [.gitignore](.gitignore) | Keeps credentials, temporary output and local author material out of Git. |
 | [AGENTS.md](AGENTS.md) | Codex entry point to shared instructions. |
 | [CLAUDE.md](CLAUDE.md) | Shared campaign, routing and validation instructions. |
 | [CONTEXT.md](CONTEXT.md) | Business problem, goals, glossary and constraints. |
@@ -452,10 +453,11 @@ Every public tracked file is listed below, grouped so a reader can identify both
 </details>
 
 <details>
-<summary>docs (14 files)</summary>
+<summary>docs (15 files)</summary>
 
 | File | Role |
 | --- | --- |
+| [docs/campaign-feasibility.md](docs/campaign-feasibility.md) | Qualified-booking target, benchmark denominator audit and conditional 30-day workload plan. |
 | [docs/data-dictionary.md](docs/data-dictionary.md) | Fields, statuses, file relationships and platform merge mapping. |
 | [docs/decisions.md](docs/decisions.md) | Current policy decisions and rationale. |
 | [docs/inboxkit-partner-audit.csv](docs/inboxkit-partner-audit.csv) | Public partner-profile names, domains and fetch results. |
@@ -890,6 +892,19 @@ Every public tracked file is listed below, grouped so a reader can identify both
 | [runs/2026-10-18-b2b-saas-outbound-fresh/evidence/verification-usergems.json](runs/2026-10-18-b2b-saas-outbound-fresh/evidence/verification-usergems.json) | Saved email-verification response; interpret with this run's notes. |
 | [runs/2026-10-18-b2b-saas-outbound-fresh/review-parked.csv](runs/2026-10-18-b2b-saas-outbound-fresh/review-parked.csv) | Generated retained contacts with unresolved reasons. |
 | [runs/2026-10-18-b2b-saas-outbound-fresh/send-ready.csv](runs/2026-10-18-b2b-saas-outbound-fresh/send-ready.csv) | Generated draft-ready contacts for this run. |
+
+</details>
+
+<details>
+<summary>runs/2026-10-18-parked-resolution (5 files)</summary>
+
+| File | Role |
+| --- | --- |
+| [runs/2026-10-18-parked-resolution/evidence/bounceban-balance-before.json](runs/2026-10-18-parked-resolution/evidence/bounceban-balance-before.json) | Dated sanitized provider capacity observation for interpreting this run; not a current allowance. |
+| [runs/2026-10-18-parked-resolution/evidence/current-mx.json](runs/2026-10-18-parked-resolution/evidence/current-mx.json) | Saved run evidence; interpret with the accompanying run notes. |
+| [runs/2026-10-18-parked-resolution/evidence/lusha-followup.json](runs/2026-10-18-parked-resolution/evidence/lusha-followup.json) | Saved run evidence; interpret with the accompanying run notes. |
+| [runs/2026-10-18-parked-resolution/evidence/public-address-checks.json](runs/2026-10-18-parked-resolution/evidence/public-address-checks.json) | Saved run evidence; interpret with the accompanying run notes. |
+| [runs/2026-10-18-parked-resolution/run-notes.md](runs/2026-10-18-parked-resolution/run-notes.md) | Dated decisions, methods, failures and interpretation. |
 
 </details>
 
