@@ -1,0 +1,987 @@
+[
+  {
+    "query_domain": "knkoutbound.com",
+    "query_name": "Nicklas Kather",
+    "error": false,
+    "error_code": null,
+    "person_id": "aaaa501472a5b6ae86a2edba",
+    "full_name": "Nicklas K.",
+    "linkedin_url": "https://www.linkedin.com/in/nicklas-k-999989189",
+    "email": {
+      "status": "UNAVAILABLE",
+      "revealed": null,
+      "email": null
+    },
+    "current_job_title": null,
+    "company_name": null,
+    "company_website": null,
+    "job_history": [
+      {
+        "title": "Cybersecurity Partnermanager",
+        "company_name": "BMW Group",
+        "logo_url": "0172c675-9d3c-4b03-bf71-a2ce90adb193.jpg",
+        "current": false,
+        "start_year": 2024,
+        "start_month": 1,
+        "end_year": 2024,
+        "end_month": 6,
+        "duration_in_months": 5,
+        "departments": [
+          "Information Security"
+        ],
+        "seniority": "Partner",
+        "company_id": "ccccf2397668b0486346f3e0",
+        "job_key": "70549341"
+      },
+      {
+        "title": "Customer Implementation Manager",
+        "company_name": "Allane Mobility Consulting",
+        "logo_url": "ba1773a7-2fb3-44f8-bc33-0bf0b302a29f.jpg",
+        "current": false,
+        "start_year": 2022,
+        "start_month": 6,
+        "end_year": 2024,
+        "end_month": 1,
+        "duration_in_months": 19,
+        "departments": [
+          "Project Management"
+        ],
+        "seniority": "Manager",
+        "company_id": "ccccd04c0e3eb2556cd9a3ed",
+        "job_key": "98860927"
+      },
+      {
+        "title": "Lease Administration Assistant",
+        "company_name": "JLL",
+        "logo_url": "93f0c9ac-5ad3-4d13-9a8b-272487dcfd10.jpg",
+        "current": false,
+        "start_year": 2019,
+        "start_month": 12,
+        "end_year": 2020,
+        "end_month": 6,
+        "duration_in_months": 6,
+        "departments": [],
+        "seniority": "Entry",
+        "company_id": "cccc6cbc2de611bd4ee41dbd",
+        "job_key": "70541818"
+      },
+      {
+        "title": "Wissenschaftliche Hilfskraft",
+        "company_name": "European-University Viadrina",
+        "logo_url": "d10755b5-de36-4f64-afe7-f69d32be9de5.jpg",
+        "current": false,
+        "start_year": 2019,
+        "start_month": 3,
+        "end_year": 2019,
+        "end_month": 9,
+        "duration_in_months": 6,
+        "departments": [],
+        "seniority": "Entry",
+        "company_id": "cccc8ef6f527be254833f607",
+        "job_key": "20025083"
+      },
+      {
+        "title": "Customer Support",
+        "company_name": "Pro Business Communication Services",
+        "logo_url": "ddf9a6ff-8019-4f88-ba24-b3c61003f7b3.jpg",
+        "current": false,
+        "start_year": 2018,
+        "start_month": 1,
+        "end_year": 2018,
+        "end_month": 4,
+        "duration_in_months": 3,
+        "departments": [
+          "Customer Service / Support"
+        ],
+        "seniority": "Entry",
+        "company_id": "ccccc439be313b2d754af4a7",
+        "job_key": "49718079"
+      },
+      {
+        "title": "Student",
+        "company_name": "European-University Viadrina",
+        "logo_url": "d10755b5-de36-4f64-afe7-f69d32be9de5.jpg",
+        "current": false,
+        "start_year": 2015,
+        "start_month": 10,
+        "end_year": 2021,
+        "end_month": 9,
+        "duration_in_months": 71,
+        "departments": [],
+        "seniority": "Entry",
+        "company_id": "cccc8ef6f527be254833f607",
+        "job_key": "35917644"
+      }
+    ]
+  },
+  {
+    "query_domain": "caliberoutbound.com",
+    "status": 429,
+    "body": "{\"error\":true,\"error_code\":\"Rate limit exceeded\"}"
+  },
+  {
+    "query_domain": "growtoro.com",
+    "status": 429,
+    "body": "{\"error\":true,\"error_code\":\"Rate limit exceeded\"}"
+  },
+  {
+    "query_domain": "h2.studio",
+    "query_name": "Jack Hayward",
+    "error": false,
+    "error_code": null,
+    "person_id": "aaaa9a86acfa4a133a196fa7",
+    "full_name": "Jack Hayward",
+    "linkedin_url": "https://www.linkedin.com/in/jack-hayward",
+    "email": {
+      "status": "VERIFIED",
+      "revealed": true,
+      "email": "jack@overvue.ai",
+      "verification_method": "SMTP",
+      "email_mx_provider": "Google"
+    },
+    "current_job_title": "Co-Founder",
+    "company_name": "Overvue",
+    "company_website": "https://overvue.ai",
+    "job_history": [
+      {
+        "title": "Co-Founder",
+        "company_name": "Overvue",
+        "logo_url": "7b691418-ac93-4e96-b10d-7ac4cf84b668.jpg",
+        "current": true,
+        "start_year": 2024,
+        "start_month": 11,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 23,
+        "departments": [
+          "Founder"
+        ],
+        "seniority": "Founder/Owner",
+        "company_id": "cccc0aad819940c81bbeef2e",
+        "job_key": "39097970"
+      },
+      {
+        "title": "Clay & Copywriting Consultant",
+        "company_name": "Clay Bootcamp \ud83e\udd7e",
+        "logo_url": "b58c0431-4bdf-4ef0-bde1-fedee7aaacaf.jpg",
+        "current": false,
+        "start_year": 2025,
+        "start_month": 2,
+        "end_year": 2025,
+        "end_month": 4,
+        "duration_in_months": 2,
+        "departments": [
+          "Content Marketing",
+          "Consultant"
+        ],
+        "seniority": "Entry",
+        "company_id": "cccc086df773cceddcab6e34",
+        "job_key": "5146880"
+      },
+      {
+        "title": "Enterprise Partner",
+        "company_name": "Clay",
+        "logo_url": "622f28c9-2971-4960-8428-ccd7010e1d40.jpg",
+        "current": false,
+        "start_year": 2024,
+        "start_month": 2,
+        "end_year": 2025,
+        "end_month": 3,
+        "duration_in_months": 13,
+        "departments": [],
+        "seniority": "Partner",
+        "company_id": "cccc241b90525d3aa254a829",
+        "job_key": "312234"
+      },
+      {
+        "title": "Co-Founder",
+        "company_name": "FinestGC",
+        "logo_url": "37aaa8e4-0e9b-4755-95bf-80cf56635589.jpg",
+        "current": false,
+        "start_year": 2024,
+        "start_month": 1,
+        "end_year": 2025,
+        "end_month": 4,
+        "duration_in_months": 15,
+        "departments": [
+          "Founder"
+        ],
+        "seniority": "Founder/Owner",
+        "company_id": "ccccd44e952cfddc84133230",
+        "job_key": "78858393"
+      },
+      {
+        "title": "Clay & Copywriting Consultant",
+        "company_name": "Agency Velocity",
+        "logo_url": "1de064af-206c-43aa-9216-df8959d75c60.jpg",
+        "current": false,
+        "start_year": 2024,
+        "start_month": 1,
+        "end_year": 2025,
+        "end_month": 4,
+        "duration_in_months": 15,
+        "departments": [
+          "Content Marketing",
+          "Consultant"
+        ],
+        "seniority": "Entry",
+        "company_id": "cccce4e4e01d18d6f596ea9a",
+        "job_key": "32401569"
+      },
+      {
+        "title": "Co-Founder",
+        "company_name": "Skeam",
+        "logo_url": "b5f94728-e960-4d6a-84e6-fd1321ffee62.jpg",
+        "current": false,
+        "start_year": 2023,
+        "start_month": 9,
+        "end_year": 2024,
+        "end_month": 8,
+        "duration_in_months": 11,
+        "departments": [
+          "Founder"
+        ],
+        "seniority": "Founder/Owner",
+        "company_id": "cccc8d663c2ec77b13abe648",
+        "job_key": "44160800"
+      },
+      {
+        "title": "Copywriter",
+        "company_name": "ColdAgency",
+        "logo_url": "2950473c-e76a-4ddf-a904-46e10b423912.jpg",
+        "current": false,
+        "start_year": 2023,
+        "start_month": 3,
+        "end_year": 2023,
+        "end_month": 8,
+        "duration_in_months": 5,
+        "departments": [
+          "Content Marketing"
+        ],
+        "seniority": "Entry",
+        "company_id": "ccccfa8150596b61fa48fd99",
+        "job_key": "43914953"
+      },
+      {
+        "title": "Software Engineer",
+        "company_name": "Twirl",
+        "logo_url": "edabc644-d7c6-4008-896f-e29bade1f511.jpg",
+        "current": false,
+        "start_year": 2022,
+        "start_month": 12,
+        "end_year": 2023,
+        "end_month": 6,
+        "duration_in_months": 6,
+        "departments": [
+          "Software Development",
+          "Engineering & Technical"
+        ],
+        "seniority": "Entry",
+        "company_id": "cccc749db215accd038c2bfb",
+        "job_key": "57250092"
+      },
+      {
+        "title": "Founder",
+        "company_name": "NOVUS",
+        "logo_url": "5e1102b1-73cf-4590-9f2d-d72e401139e0.jpg",
+        "current": false,
+        "start_year": 2022,
+        "start_month": 10,
+        "end_year": 2024,
+        "end_month": 8,
+        "duration_in_months": 22,
+        "departments": [
+          "Founder"
+        ],
+        "seniority": "Founder/Owner",
+        "company_id": "cccceb3d928a79260ba568fb",
+        "job_key": "33824489"
+      },
+      {
+        "title": "Founder",
+        "company_name": "Niche",
+        "logo_url": "2d159a0c-1d60-46fd-83f3-cb71caf111fe.jpg",
+        "current": false,
+        "start_year": 2020,
+        "start_month": 11,
+        "end_year": 2023,
+        "end_month": 7,
+        "duration_in_months": 32,
+        "departments": [
+          "Founder"
+        ],
+        "seniority": "Founder/Owner",
+        "company_id": "ccccd38e636753e6335e8d59",
+        "job_key": "43159105"
+      },
+      {
+        "title": "Software Engineer",
+        "company_name": "Nourish Care",
+        "logo_url": "a47acff8-6463-41f1-bea6-ce14182b8baf.jpg",
+        "current": false,
+        "start_year": 2020,
+        "start_month": 7,
+        "end_year": 2023,
+        "end_month": 4,
+        "duration_in_months": 33,
+        "departments": [
+          "Software Development",
+          "Engineering & Technical"
+        ],
+        "seniority": "Entry",
+        "company_id": "cccc619e7cc9698d1422ddff",
+        "job_key": "23846914"
+      },
+      {
+        "title": "Software Engineer",
+        "company_name": "Redweb",
+        "logo_url": "e6ba508b-772c-4f10-8232-5a0339fadd67.jpg",
+        "current": false,
+        "start_year": 2018,
+        "start_month": 6,
+        "end_year": 2019,
+        "end_month": 9,
+        "duration_in_months": 15,
+        "departments": [
+          "Software Development",
+          "Engineering & Technical"
+        ],
+        "seniority": "Entry",
+        "company_id": "cccc0316f8a5f0ea0ae14315",
+        "job_key": "30314612"
+      },
+      {
+        "title": "Sales Executive",
+        "company_name": "Access Local Authorities",
+        "logo_url": "7ed3cace-e730-425f-91fc-70847fb34551.jpg",
+        "current": false,
+        "start_year": 2013,
+        "start_month": 3,
+        "end_year": 2014,
+        "end_month": 4,
+        "duration_in_months": 13,
+        "departments": [
+          "Account Executive"
+        ],
+        "seniority": "Entry",
+        "company_id": "cccc28e395d941aea40559f8",
+        "job_key": "85736314"
+      },
+      {
+        "title": "Graphic Designer",
+        "company_name": "Damn Good",
+        "logo_url": "348d46c8-d6bb-40db-849b-54170f794552.jpg",
+        "current": false,
+        "start_year": 2012,
+        "start_month": null,
+        "end_year": 2012,
+        "end_month": null,
+        "duration_in_months": 1,
+        "departments": [
+          "Graphic / Visual / Brand Design"
+        ],
+        "seniority": "Entry",
+        "company_id": "cccc5ee62a1e056aae599049",
+        "job_key": "8923088"
+      },
+      {
+        "title": "Partner",
+        "company_name": "Machinima",
+        "logo_url": "b27f7983-9333-45ae-a08a-fa79c3847820.jpg",
+        "current": false,
+        "start_year": 2010,
+        "start_month": 7,
+        "end_year": 2012,
+        "end_month": 10,
+        "duration_in_months": 27,
+        "departments": [],
+        "seniority": "Partner",
+        "company_id": "cccc6309392b778a077f9e38",
+        "job_key": "26563431"
+      },
+      {
+        "title": "Partner",
+        "company_name": "YouTube",
+        "logo_url": "db1aaa14-dcc2-4c7e-bda7-985c8c3193de.jpg",
+        "current": false,
+        "start_year": 2010,
+        "start_month": 7,
+        "end_year": 2015,
+        "end_month": 9,
+        "duration_in_months": 62,
+        "departments": [],
+        "seniority": "Partner",
+        "company_id": "cccc30011e7140cf94f98195",
+        "job_key": "71579474"
+      },
+      {
+        "title": "Player",
+        "company_name": "OpTic Gaming",
+        "logo_url": "550b0feb-7e67-4526-9f34-d6b9dafa449e.jpg",
+        "current": false,
+        "start_year": 2010,
+        "start_month": 1,
+        "end_year": 2012,
+        "end_month": 3,
+        "duration_in_months": 26,
+        "departments": [],
+        "seniority": "Entry",
+        "company_id": "cccc82af04ee04cbbdd648b5",
+        "job_key": "40797881"
+      },
+      {
+        "title": "Mentor",
+        "company_name": "Clay Bootcamp \ud83e\udd7e",
+        "logo_url": "b58c0431-4bdf-4ef0-bde1-fedee7aaacaf.jpg",
+        "current": false,
+        "start_year": 2025,
+        "start_month": 2,
+        "end_year": 2025,
+        "end_month": 4,
+        "duration_in_months": 2,
+        "departments": [],
+        "seniority": "Entry",
+        "company_id": "cccc086df773cceddcab6e34",
+        "job_key": "1207578"
+      },
+      {
+        "title": "Copywriting Consultant",
+        "company_name": "Agency Velocity",
+        "logo_url": "1de064af-206c-43aa-9216-df8959d75c60.jpg",
+        "current": false,
+        "start_year": 2024,
+        "start_month": 1,
+        "end_year": 2025,
+        "end_month": 4,
+        "duration_in_months": 15,
+        "departments": [
+          "Content Marketing",
+          "Consultant"
+        ],
+        "seniority": "Entry",
+        "company_id": "cccce4e4e01d18d6f596ea9a",
+        "job_key": "90102569"
+      }
+    ]
+  },
+  {
+    "query_domain": "tektonscale.com",
+    "query_name": "Matt Dittmeier",
+    "error": false,
+    "error_code": null,
+    "person_id": "aaaa4dbe11ebfc6858aab7c7",
+    "full_name": "Matt D.",
+    "linkedin_url": "https://www.linkedin.com/in/matt-d-79ba803a2",
+    "email": {
+      "status": "UNAVAILABLE",
+      "revealed": null,
+      "email": null
+    },
+    "current_job_title": null,
+    "company_name": null,
+    "company_website": null,
+    "job_history": []
+  },
+  {
+    "query_domain": "coldfront.agency",
+    "query_name": "Deepak Joshi",
+    "error": false,
+    "error_code": null,
+    "person_id": "aaaa6598017f27b76a8aaeb0",
+    "full_name": "Deepak Joshi",
+    "linkedin_url": "https://www.linkedin.com/in/deepak--joshi",
+    "email": {
+      "status": "VERIFIED",
+      "revealed": true,
+      "email": "deepak@stamina.io",
+      "verification_method": "SMTP",
+      "email_mx_provider": "Google"
+    },
+    "current_job_title": "Head of Customer Support",
+    "company_name": "Stamina",
+    "company_website": "https://stamina.io",
+    "job_history": [
+      {
+        "title": "Head of Customer Support",
+        "company_name": "Stamina",
+        "logo_url": "b8f8f7c1-e25b-4318-91ed-1b539c1c15c8.jpg",
+        "current": true,
+        "start_year": 2025,
+        "start_month": 1,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 21,
+        "departments": [
+          "Customer Service / Support"
+        ],
+        "seniority": "Head",
+        "company_id": "cccccc87b444fdc86b7b88cc",
+        "job_key": "99395651"
+      },
+      {
+        "title": "Claymaker",
+        "company_name": "Clay",
+        "logo_url": "622f28c9-2971-4960-8428-ccd7010e1d40.jpg",
+        "current": true,
+        "start_year": 2024,
+        "start_month": 3,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 31,
+        "departments": [],
+        "seniority": "Entry",
+        "company_id": "cccc241b90525d3aa254a829",
+        "job_key": "37439791"
+      },
+      {
+        "title": "Founder",
+        "company_name": "Coldfront",
+        "logo_url": "64af42a6-f514-4ff7-b45c-90fa1ff0a8b6.jpg",
+        "current": true,
+        "start_year": 2024,
+        "start_month": 3,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 31,
+        "departments": [
+          "Founder"
+        ],
+        "seniority": "Founder/Owner",
+        "company_id": "cccc9c3b3445901e95156c57",
+        "job_key": "85914123"
+      },
+      {
+        "title": "Growth",
+        "company_name": "HireQuotient",
+        "logo_url": "05399307-703a-4c7e-b4bf-7d5727034376.jpg",
+        "current": false,
+        "start_year": 2022,
+        "start_month": 7,
+        "end_year": 2022,
+        "end_month": 12,
+        "duration_in_months": 5,
+        "departments": [
+          "Growth & Demand Generation"
+        ],
+        "seniority": "Entry",
+        "company_id": "cccc6bfe6172c6b86aa3674e",
+        "job_key": "28995005"
+      },
+      {
+        "title": "Marketing Manager",
+        "company_name": "Pixis",
+        "logo_url": "fbacf00c-c1ef-4392-a263-e9d50a2abac3.jpg",
+        "current": false,
+        "start_year": 2021,
+        "start_month": 11,
+        "end_year": 2022,
+        "end_month": 6,
+        "duration_in_months": 7,
+        "departments": [],
+        "seniority": "Manager",
+        "company_id": "cccc068b3fd76d9f9e664e47",
+        "job_key": "2093832"
+      },
+      {
+        "title": "Entrepreneur in Residence",
+        "company_name": "Zoutons.com",
+        "logo_url": "ae7a4997-d8dd-4b42-9696-b7ce0712aec7.jpg",
+        "current": false,
+        "start_year": 2021,
+        "start_month": 8,
+        "end_year": 2021,
+        "end_month": 11,
+        "duration_in_months": 3,
+        "departments": [],
+        "seniority": "Founder/Owner",
+        "company_id": "cccca485546d59b81b7c0aab",
+        "job_key": "11054996"
+      },
+      {
+        "title": "Associate",
+        "company_name": "ZS",
+        "logo_url": "ccc45a0f-d194-42db-93f7-538ef7632a66.jpg",
+        "current": false,
+        "start_year": 2020,
+        "start_month": 8,
+        "end_year": 2021,
+        "end_month": 8,
+        "duration_in_months": 12,
+        "departments": [],
+        "seniority": "Entry",
+        "company_id": "cccc5ae0f56cabca274aac82",
+        "job_key": "97302604"
+      },
+      {
+        "title": "Intern",
+        "company_name": "udaan.com",
+        "logo_url": "8e347a92-8b61-4dbe-9d8d-2d04ab9cab77.jpg",
+        "current": false,
+        "start_year": 2019,
+        "start_month": 6,
+        "end_year": 2019,
+        "end_month": 12,
+        "duration_in_months": 6,
+        "departments": [],
+        "seniority": "Intern",
+        "company_id": "cccced7675da9651ce28caad",
+        "job_key": "19360776"
+      },
+      {
+        "title": "Intern",
+        "company_name": "The Ramco Cements Limited",
+        "logo_url": "eec64591-508b-449f-a628-0087706ea2b5.jpg",
+        "current": false,
+        "start_year": 2018,
+        "start_month": 5,
+        "end_year": 2018,
+        "end_month": 7,
+        "duration_in_months": 2,
+        "departments": [],
+        "seniority": "Intern",
+        "company_id": "cccc0c26cb084b521db7a001",
+        "job_key": "95123731"
+      }
+    ]
+  },
+  {
+    "query_domain": "trigacy.com",
+    "query_name": "Vedarth Deshpande",
+    "error": false,
+    "error_code": null,
+    "person_id": "aaaa3edbaf404357fb79460e",
+    "full_name": "Vedarth Deshpande",
+    "linkedin_url": "https://www.linkedin.com/in/vedarth-deshpande",
+    "email": {
+      "status": "UNAVAILABLE",
+      "revealed": null,
+      "email": null
+    },
+    "current_job_title": "Founder",
+    "company_name": "Socinova & Trigacy",
+    "company_website": "https://socinovatrigacy.com",
+    "job_history": [
+      {
+        "title": "Founder",
+        "company_name": "Socinova & Trigacy",
+        "logo_url": "234ebbd8-25be-4a58-bf80-5d8601763137.jpg",
+        "current": true,
+        "start_year": 2014,
+        "start_month": 6,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 148,
+        "departments": [
+          "Founder"
+        ],
+        "seniority": "Founder/Owner",
+        "company_id": "cccc2a4651f691f4cc88d261",
+        "job_key": "48301905"
+      }
+    ]
+  },
+  {
+    "query_domain": "koldify.io",
+    "status": 429,
+    "body": "{\"error\":true,\"error_code\":\"Rate limit exceeded\"}"
+  },
+  {
+    "query_domain": "honeyleads.io",
+    "query_name": "Kyley Cheever",
+    "error": false,
+    "error_code": null,
+    "person_id": "aaaad52d4099945590848dd2",
+    "full_name": "Kyley Cheever",
+    "linkedin_url": "https://www.linkedin.com/in/kyley-cheever",
+    "email": {
+      "status": "UNAVAILABLE",
+      "revealed": null,
+      "email": null
+    },
+    "current_job_title": "Founder",
+    "company_name": "Honeyleads.io",
+    "company_website": "https://honeyleads.io",
+    "job_history": [
+      {
+        "title": "Founder",
+        "company_name": "Honeyleads.io",
+        "logo_url": "e0191df2-7488-402e-8b3f-67bd3074bf21.jpg",
+        "current": true,
+        "start_year": 2020,
+        "start_month": 1,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 81,
+        "departments": [
+          "Founder"
+        ],
+        "seniority": "Founder/Owner",
+        "company_id": "cccc5582db7833f9fb9b56c1",
+        "job_key": "78986885"
+      },
+      {
+        "title": "Co Founder",
+        "company_name": "Bonbite NYC",
+        "logo_url": "98e47214-be52-44fe-a181-5b9815a7f19f.jpg",
+        "current": false,
+        "start_year": 2014,
+        "start_month": 1,
+        "end_year": 2020,
+        "end_month": 1,
+        "duration_in_months": 72,
+        "departments": [
+          "Founder"
+        ],
+        "seniority": "Founder/Owner",
+        "company_id": "cccc4776fa0c4477599c9b29",
+        "job_key": "18640697"
+      },
+      {
+        "title": "Artist Management",
+        "company_name": "Matt Hoyle Photography",
+        "logo_url": "36b07363-d954-49ac-9e51-c82602b63a82.jpg",
+        "current": false,
+        "start_year": 2009,
+        "start_month": 9,
+        "end_year": 2014,
+        "end_month": 2,
+        "duration_in_months": 53,
+        "departments": [],
+        "seniority": "Entry",
+        "company_id": "ccccf9cc28ebb632f53d7e21",
+        "job_key": "13660292"
+      }
+    ]
+  },
+  {
+    "query_domain": "demandzen.com",
+    "status": 429,
+    "body": "{\"error\":true,\"error_code\":\"Rate limit exceeded\"}"
+  },
+  {
+    "query_domain": "ebq.com",
+    "query_name": "Tim Edwards",
+    "error": false,
+    "error_code": null,
+    "person_id": "aaaaaae5609bbacd9cde52dd",
+    "full_name": "Tim Edwards",
+    "linkedin_url": "https://www.linkedin.com/in/tim-edwards-6252b84",
+    "email": {
+      "status": "VERIFIED",
+      "revealed": true,
+      "email": "tim.edwards@ebq.com",
+      "verification_method": "SMTP",
+      "email_mx_provider": "Google"
+    },
+    "current_job_title": "CEO",
+    "company_name": "EBQ",
+    "company_website": "https://ebq.com",
+    "job_history": [
+      {
+        "title": "CEO",
+        "company_name": "EBQ",
+        "logo_url": "35f57447-f6b2-4929-9f25-f815f37c1b4e.jpg",
+        "current": true,
+        "start_year": 2006,
+        "start_month": 12,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 238,
+        "departments": [
+          "Chief Executive"
+        ],
+        "seniority": "C-Suite",
+        "company_id": "cccc67cb229be44923429f1d",
+        "job_key": "26889692"
+      }
+    ]
+  },
+  {
+    "query_domain": "jumpcrew.com",
+    "status": 429,
+    "body": "{\"error\":true,\"error_code\":\"Rate limit exceeded\"}"
+  },
+  {
+    "query_domain": "omrafols.com",
+    "query_name": "Om Rafols",
+    "error": false,
+    "error_code": null,
+    "person_id": "aaaa2b242487a40952eea346",
+    "full_name": "Om R\u00e0fols",
+    "linkedin_url": "https://www.linkedin.com/in/om-r\u00e0fols-b34824239",
+    "email": {
+      "status": "UNAVAILABLE",
+      "revealed": null,
+      "email": null
+    },
+    "current_job_title": "GTM Consultant",
+    "company_name": "ELSA Consulting",
+    "company_website": "https://elsaconsulting.io",
+    "job_history": [
+      {
+        "title": "GTM Consultant",
+        "company_name": "ELSA Consulting",
+        "logo_url": "bcf8d2ad-68d2-4f35-978b-cc9e180e0fa1.jpg",
+        "current": true,
+        "start_year": 2025,
+        "start_month": 9,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 13,
+        "departments": [
+          "Consultant",
+          "Product Marketing"
+        ],
+        "seniority": "Entry",
+        "company_id": "cccca1e6edbfb2b4a1bca19c",
+        "job_key": "973732"
+      },
+      {
+        "title": "GTM Consultant",
+        "company_name": "SDR Academy",
+        "logo_url": "90a6f82a-5de9-4bfa-9830-3ddf8e6caa3e.jpg",
+        "current": false,
+        "start_year": 2025,
+        "start_month": 1,
+        "end_year": 2025,
+        "end_month": 9,
+        "duration_in_months": 8,
+        "departments": [
+          "Consultant",
+          "Product Marketing"
+        ],
+        "seniority": "Entry",
+        "company_id": "cccc765855c29279e2e52470",
+        "job_key": "36232230"
+      },
+      {
+        "title": "Senior Director of Revenue Operations",
+        "company_name": "Top Customs",
+        "logo_url": "5a44a4a4-ee72-47f1-be6a-0d0b25a8ba89.jpg",
+        "current": false,
+        "start_year": 2021,
+        "start_month": 9,
+        "end_year": 2022,
+        "end_month": 9,
+        "duration_in_months": 12,
+        "departments": [
+          "Revenue Operations"
+        ],
+        "seniority": "Director",
+        "company_id": "cccc518d31ac86e6d157c726",
+        "job_key": "92883617"
+      },
+      {
+        "title": "CEO (acquired)",
+        "company_name": "Agency Kooka",
+        "logo_url": "2c2db6f0-a57c-4a14-b46e-0dc8afca29f7.jpg",
+        "current": false,
+        "start_year": 2020,
+        "start_month": 1,
+        "end_year": 2024,
+        "end_month": 6,
+        "duration_in_months": 53,
+        "departments": [
+          "Chief Executive"
+        ],
+        "seniority": "C-Suite",
+        "company_id": "cccce28c8554bc0030f392fb",
+        "job_key": "71432620"
+      },
+      {
+        "title": "Founder",
+        "company_name": "Top Customs",
+        "logo_url": "5a44a4a4-ee72-47f1-be6a-0d0b25a8ba89.jpg",
+        "current": false,
+        "start_year": 2019,
+        "start_month": 5,
+        "end_year": 2021,
+        "end_month": 9,
+        "duration_in_months": 28,
+        "departments": [
+          "Founder"
+        ],
+        "seniority": "Founder/Owner",
+        "company_id": "cccc518d31ac86e6d157c726",
+        "job_key": "76474784"
+      },
+      {
+        "title": "Head of GTM (B2C & B2B)",
+        "company_name": "SDR Academy",
+        "logo_url": "90a6f82a-5de9-4bfa-9830-3ddf8e6caa3e.jpg",
+        "current": false,
+        "start_year": 2025,
+        "start_month": 1,
+        "end_year": 2025,
+        "end_month": 9,
+        "duration_in_months": 8,
+        "departments": [
+          "Product Marketing"
+        ],
+        "seniority": "Head",
+        "company_id": "cccc765855c29279e2e52470",
+        "job_key": "37062091"
+      }
+    ]
+  },
+  {
+    "query_domain": "leadowski.io",
+    "status": 429,
+    "body": "{\"error\":true,\"error_code\":\"Rate limit exceeded\"}"
+  },
+  {
+    "query_domain": "lead-buds.com",
+    "query_name": "Roksolana Nikitina",
+    "error": false,
+    "error_code": null,
+    "person_id": "aaaac49ae8e3e871eadbfc6f",
+    "full_name": "Roksolana Nikitina",
+    "linkedin_url": "https://www.linkedin.com/in/roksolana-nikitina-314250192",
+    "email": {
+      "status": "UNAVAILABLE",
+      "revealed": null,
+      "email": null
+    },
+    "current_job_title": "Chief Financial Officer",
+    "company_name": "Bandera AI",
+    "company_website": "https://banderaai.com",
+    "job_history": [
+      {
+        "title": "Chief Financial Officer",
+        "company_name": "Bandera AI",
+        "logo_url": "dbbc8129-f5a4-4887-9961-706ef6b4688c.jpg",
+        "current": true,
+        "start_year": 2025,
+        "start_month": 3,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 19,
+        "departments": [
+          "Finance Executive",
+          "Financial Planning, Strategy & Analysis"
+        ],
+        "seniority": "C-Suite",
+        "company_id": "cccc92b62eda633b7eecc141",
+        "job_key": "63060205"
+      },
+      {
+        "title": "Co-Founder & CFO",
+        "company_name": "LeadBuds",
+        "logo_url": "5008f69c-3dc7-4bab-8a03-294367f742f4.jpg",
+        "current": true,
+        "start_year": 2017,
+        "start_month": 1,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 117,
+        "departments": [
+          "Founder",
+          "Finance Executive"
+        ],
+        "seniority": "C-Suite",
+        "company_id": "cccce297a8730855fd9d86bb",
+        "job_key": "95681941"
+      }
+    ]
+  }
+]

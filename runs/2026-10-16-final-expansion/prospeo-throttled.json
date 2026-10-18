@@ -1,0 +1,697 @@
+[
+  {
+    "query_domain": "caliberoutbound.com",
+    "query_name": "Kerim Efe Ozcanli",
+    "error": false,
+    "person_id": "aaaa00c7992d32d0115fb92c",
+    "full_name": "Kerim Efe Ozcanli",
+    "email": {
+      "status": "UNAVAILABLE",
+      "revealed": null,
+      "email": null
+    },
+    "linkedin_url": "https://www.linkedin.com/in/kerimozcanli",
+    "company_name": "Dynamic Isolation Systems",
+    "company_website": "https://dis-inc.com",
+    "job_history": [
+      {
+        "title": "Seismic Engineer / Business Development Manager",
+        "company_name": "Dynamic Isolation Systems",
+        "logo_url": "abaa6108-46cc-429e-a105-3bc5a2415fa0.jpg",
+        "current": true,
+        "start_year": 2024,
+        "start_month": 3,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 31,
+        "departments": [
+          "Sales Development",
+          "Engineering & Technical"
+        ],
+        "seniority": "Manager",
+        "company_id": "ccccf8ee46cc41ac7c86ec01",
+        "job_key": "51640967"
+      },
+      {
+        "title": "Project Manager",
+        "company_name": "Dynamic Isolation Systems",
+        "logo_url": "abaa6108-46cc-429e-a105-3bc5a2415fa0.jpg",
+        "current": false,
+        "start_year": 2022,
+        "start_month": 4,
+        "end_year": 2024,
+        "end_month": 3,
+        "duration_in_months": 23,
+        "departments": [
+          "Project Management"
+        ],
+        "seniority": "Manager",
+        "company_id": "ccccf8ee46cc41ac7c86ec01",
+        "job_key": "95830415"
+      },
+      {
+        "title": "Project Manager Engineering",
+        "company_name": "EM-KE Seismic Isolation / EM-KE Sismik Izolasyon Limited Sirketi.",
+        "logo_url": "1f75dbbf-2150-4433-a1b4-b58f75b07234.jpg",
+        "current": false,
+        "start_year": 2022,
+        "start_month": 2,
+        "end_year": 2022,
+        "end_month": 12,
+        "duration_in_months": 10,
+        "departments": [
+          "Project Management",
+          "Engineering & Technical"
+        ],
+        "seniority": "Manager",
+        "company_id": "ccccbcdf9677d5e8995ac686",
+        "job_key": "19836083"
+      },
+      {
+        "title": "Structural Design Engineer",
+        "company_name": "\u00dclker M\u00fchendislik",
+        "logo_url": "8e678fba-4eef-40ce-99be-1c2451ae820a.jpg",
+        "current": false,
+        "start_year": 2021,
+        "start_month": 2,
+        "end_year": 2022,
+        "end_month": 2,
+        "duration_in_months": 12,
+        "departments": [
+          "Industrial Engineering",
+          "Engineering & Technical"
+        ],
+        "seniority": "Entry",
+        "company_id": "cccc5fbcbcf72bcd70da4896",
+        "job_key": "18884046"
+      },
+      {
+        "title": "Representer",
+        "company_name": "Istituto Universitario di Studi Superiori, Pavia",
+        "logo_url": "3903cc4a-280f-44c8-9a23-a0c1af762089.jpg",
+        "current": false,
+        "start_year": 2020,
+        "start_month": 6,
+        "end_year": 2021,
+        "end_month": 12,
+        "duration_in_months": 18,
+        "departments": [],
+        "seniority": "Entry",
+        "company_id": "cccc1dd2ec106deb78e107e5",
+        "job_key": "70836906"
+      },
+      {
+        "title": "Civil Engineering Intern",
+        "company_name": "University of California, Berkeley",
+        "logo_url": "390c413e-b4c2-4bf6-9195-85d2229e6185.jpg",
+        "current": false,
+        "start_year": 2018,
+        "start_month": 6,
+        "end_year": 2018,
+        "end_month": 9,
+        "duration_in_months": 3,
+        "departments": [
+          "Industrial Engineering",
+          "Engineering & Technical"
+        ],
+        "seniority": "Intern",
+        "company_id": "cccc418fb43dcdd544801b4a",
+        "job_key": "3757580"
+      },
+      {
+        "title": "Civil Engineering Intern",
+        "company_name": "R\u00f6nesans Holdi\u0307ng",
+        "logo_url": "590d2fcf-9da9-4c7d-af4e-e2ddaf3903b1.jpg",
+        "current": false,
+        "start_year": 2017,
+        "start_month": 6,
+        "end_year": 2017,
+        "end_month": 8,
+        "duration_in_months": 2,
+        "departments": [
+          "Industrial Engineering",
+          "Engineering & Technical"
+        ],
+        "seniority": "Intern",
+        "company_id": "ccccfaad03c65db14e307992",
+        "job_key": "20678509"
+      }
+    ]
+  },
+  {
+    "query_domain": "growtoro.com",
+    "query_name": "Brendan Ward",
+    "error": false,
+    "person_id": "aaaa5299459be4a781f0c76c",
+    "full_name": "Brendan Ward",
+    "email": {
+      "status": "VERIFIED",
+      "revealed": true,
+      "email": "brendan@growtoro.com",
+      "verification_method": "SMTP",
+      "email_mx_provider": null
+    },
+    "linkedin_url": "https://www.linkedin.com/in/brendanward1",
+    "company_name": "Growtoro",
+    "company_website": "https://growtoro.com",
+    "job_history": [
+      {
+        "title": "CEO & Founder",
+        "company_name": "Growtoro",
+        "logo_url": "55f9abde-f3ec-4262-91e9-dcb516393e1d.jpg",
+        "current": true,
+        "start_year": 2022,
+        "start_month": 2,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 56,
+        "departments": [
+          "Founder",
+          "Chief Executive"
+        ],
+        "seniority": "C-Suite",
+        "company_id": "cccc5a5c6a6b85521949454f",
+        "job_key": "20371476"
+      },
+      {
+        "title": "Head of Growth",
+        "company_name": "Surprise HR",
+        "logo_url": "5c83da70-2017-402c-bffa-0818d72c34a6.jpg",
+        "current": false,
+        "start_year": 2016,
+        "start_month": 10,
+        "end_year": 2021,
+        "end_month": 2,
+        "duration_in_months": 52,
+        "departments": [
+          "Growth & Demand Generation"
+        ],
+        "seniority": "Head",
+        "company_id": "cccc2ed3b91e67667d5cf941",
+        "job_key": "96105701"
+      },
+      {
+        "title": "President & Founder",
+        "company_name": "Long Island Legends",
+        "logo_url": "12a2aaaa-1210-4afe-8f97-a8770b7c02fe.jpg",
+        "current": false,
+        "start_year": 2012,
+        "start_month": 4,
+        "end_year": 2019,
+        "end_month": 4,
+        "duration_in_months": 84,
+        "departments": [
+          "Founder"
+        ],
+        "seniority": "Founder/Owner",
+        "company_id": "ccccf38aa317dda9143d1d8d",
+        "job_key": "45437844"
+      },
+      {
+        "title": "Managing Director",
+        "company_name": "Atlas Bridge Capital",
+        "logo_url": "474dbf16-83f1-4617-b229-0facfc57bdc2.jpg",
+        "current": true,
+        "start_year": 2024,
+        "start_month": 3,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 31,
+        "departments": [
+          "Chief Executive"
+        ],
+        "seniority": "C-Suite",
+        "company_id": "cccc203822b00ab668644a91",
+        "job_key": "72069473"
+      }
+    ]
+  },
+  {
+    "query_domain": "koldify.io",
+    "query_name": "Syed Ghazi",
+    "error": false,
+    "person_id": "aaaacf738acae3f8a4ca8742",
+    "full_name": "Syed Ghazi",
+    "email": {
+      "status": "VERIFIED",
+      "revealed": true,
+      "email": "syed@koldify.io",
+      "verification_method": "SMTP",
+      "email_mx_provider": null
+    },
+    "linkedin_url": "https://www.linkedin.com/in/syed-ghazi-890565282",
+    "company_name": "KoldMail",
+    "company_website": "https://koldify.io",
+    "job_history": [
+      {
+        "title": "Founder",
+        "company_name": "KoldMail",
+        "logo_url": "e45499e8-548a-42bf-a4c2-47509f35cde4.jpg",
+        "current": true,
+        "start_year": 2025,
+        "start_month": 4,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 18,
+        "departments": [
+          "Founder"
+        ],
+        "seniority": "Founder/Owner",
+        "company_id": "cccca913563c7e8001f478ea",
+        "job_key": "52543127"
+      },
+      {
+        "title": "Co-Founder",
+        "company_name": "Koldify",
+        "logo_url": "54a98683-8e91-4e38-a726-d54dbe2b3ea9.jpg",
+        "current": true,
+        "start_year": 2023,
+        "start_month": 9,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 37,
+        "departments": [
+          "Founder"
+        ],
+        "seniority": "Founder/Owner",
+        "company_id": "cccc4d66a1c03ba8cd82159d",
+        "job_key": "61751938"
+      }
+    ]
+  },
+  {
+    "query_domain": "demandzen.com",
+    "query_name": "Bart Bartlett",
+    "error": false,
+    "person_id": "aaaa4f282092c3d9b1fd21be",
+    "full_name": "Bart Bartlett",
+    "email": {
+      "status": "VERIFIED",
+      "revealed": true,
+      "email": "bart.bartlett@demandzen.com",
+      "verification_method": "BOUNCEBAN",
+      "email_mx_provider": "Google"
+    },
+    "linkedin_url": "https://www.linkedin.com/in/bartb",
+    "company_name": "DemandZEN",
+    "company_website": "https://demandzen.com",
+    "job_history": [
+      {
+        "title": "CEO",
+        "company_name": "DemandZEN",
+        "logo_url": "28a76391-1166-40a2-9e66-c1dac080e488.jpg",
+        "current": true,
+        "start_year": 2013,
+        "start_month": 9,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 157,
+        "departments": [
+          "Chief Executive"
+        ],
+        "seniority": "C-Suite",
+        "company_id": "cccce6e6a8a66122ce06891b",
+        "job_key": "80934997"
+      },
+      {
+        "title": "VP Field Marketing",
+        "company_name": "Dell EMC ScaleIO",
+        "logo_url": "00927043-d4b8-422d-ae93-6139293e65f9.jpg",
+        "current": false,
+        "start_year": 2013,
+        "start_month": 4,
+        "end_year": 2013,
+        "end_month": 9,
+        "duration_in_months": 5,
+        "departments": [
+          "Event & Field Marketing"
+        ],
+        "seniority": "Vice President",
+        "company_id": "cccc040a7b7eb80d73d1c19b",
+        "job_key": "1414048"
+      },
+      {
+        "title": "VP Business Development",
+        "company_name": "Acunu",
+        "logo_url": "591258fa-49ac-4f3f-9e1c-3da0293c94ba.jpg",
+        "current": false,
+        "start_year": 2012,
+        "start_month": 3,
+        "end_year": 2013,
+        "end_month": 4,
+        "duration_in_months": 13,
+        "departments": [
+          "Sales Development"
+        ],
+        "seniority": "Vice President",
+        "company_id": "cccced87845e91d6324fe5d4",
+        "job_key": "64743085"
+      },
+      {
+        "title": "VP Marketing",
+        "company_name": "EvoApp",
+        "logo_url": "703d8218-76ae-44d5-b808-a6377ecbee0c.jpg",
+        "current": false,
+        "start_year": 2011,
+        "start_month": 5,
+        "end_year": 2012,
+        "end_month": 1,
+        "duration_in_months": 8,
+        "departments": [],
+        "seniority": "Vice President",
+        "company_id": "cccc02ef00a796b83e5da399",
+        "job_key": "7690453"
+      },
+      {
+        "title": "VP Marketing",
+        "company_name": "Pancetera Software  Inc",
+        "logo_url": null,
+        "current": false,
+        "start_year": 2009,
+        "start_month": 3,
+        "end_year": 2011,
+        "end_month": 2,
+        "duration_in_months": 23,
+        "departments": [],
+        "seniority": "Vice President",
+        "company_id": "ccccb53f236e4e2149319274",
+        "job_key": "14517592"
+      },
+      {
+        "title": "Director of Sales Operations/Marketing/Channels",
+        "company_name": "Data Domain",
+        "logo_url": "1312fd32-2163-4fdd-96f4-d9f5189e3e28.jpg",
+        "current": false,
+        "start_year": 2003,
+        "start_month": 9,
+        "end_year": 2008,
+        "end_month": 9,
+        "duration_in_months": 60,
+        "departments": [
+          "Sales Operations"
+        ],
+        "seniority": "Director",
+        "company_id": "cccc5a2d6db32a4f7885d3f3",
+        "job_key": "2406408"
+      },
+      {
+        "title": "Storage Marketing",
+        "company_name": "SGI",
+        "logo_url": "5861b940-e050-4c2b-be37-5b9fa6c949cd.jpg",
+        "current": false,
+        "start_year": 2003,
+        "start_month": 4,
+        "end_year": 2003,
+        "end_month": 9,
+        "duration_in_months": 5,
+        "departments": [],
+        "seniority": "Entry",
+        "company_id": "cccc826f34adc5681b7f967a",
+        "job_key": "90270821"
+      },
+      {
+        "title": "Director, Product Marketing",
+        "company_name": "BlueArc",
+        "logo_url": "698f0583-7056-4d24-ad88-36a6ea981474.jpg",
+        "current": false,
+        "start_year": 2000,
+        "start_month": 10,
+        "end_year": 2003,
+        "end_month": 4,
+        "duration_in_months": 30,
+        "departments": [
+          "Product Marketing"
+        ],
+        "seniority": "Director",
+        "company_id": "cccc09c061bd83d881028674",
+        "job_key": "423765"
+      },
+      {
+        "title": "Director of Marketing",
+        "company_name": "ConsultantBoost",
+        "logo_url": "fa399c96-49e4-45fe-8e2f-b0d50d58640d.jpg",
+        "current": false,
+        "start_year": 1999,
+        "start_month": 9,
+        "end_year": 2000,
+        "end_month": 10,
+        "duration_in_months": 13,
+        "departments": [],
+        "seniority": "Director",
+        "company_id": "cccca76c515c08bde3c67f8e",
+        "job_key": "55884025"
+      },
+      {
+        "title": "Channel Marketing Manager",
+        "company_name": "Meridian Data",
+        "logo_url": null,
+        "current": false,
+        "start_year": 1998,
+        "start_month": 8,
+        "end_year": 1999,
+        "end_month": 9,
+        "duration_in_months": 13,
+        "departments": [],
+        "seniority": "Manager",
+        "company_id": "ccccd34497ffba1644a0b274",
+        "job_key": "6434563"
+      },
+      {
+        "title": "Product Manager",
+        "company_name": "INFORMIX",
+        "logo_url": "42e316a2-b6b9-42e4-9779-c2c2c690a5d1.jpg",
+        "current": false,
+        "start_year": 1996,
+        "start_month": 1,
+        "end_year": 1997,
+        "end_month": 1,
+        "duration_in_months": 12,
+        "departments": [
+          "Product Management"
+        ],
+        "seniority": "Manager",
+        "company_id": "cccc3b6c59bff22b67ce6f9c",
+        "job_key": "62863011"
+      },
+      {
+        "title": "Information Technology Manager",
+        "company_name": "Trimble",
+        "logo_url": "5aec7d8d-bb98-4f4f-8355-1ea3e2efd7f4.jpg",
+        "current": false,
+        "start_year": 1993,
+        "start_month": 11,
+        "end_year": 1995,
+        "end_month": 12,
+        "duration_in_months": 25,
+        "departments": [],
+        "seniority": "Manager",
+        "company_id": "cccca42cdd5368a4adfe5449",
+        "job_key": "49556012"
+      },
+      {
+        "title": "Technical Support",
+        "company_name": "Oracle",
+        "logo_url": "eedf3a67-606a-4350-904f-7cf57b1f03bc.jpg",
+        "current": false,
+        "start_year": 1989,
+        "start_month": 9,
+        "end_year": 1990,
+        "end_month": 9,
+        "duration_in_months": 12,
+        "departments": [
+          "Help Desk / Desktop Services",
+          "Engineering & Technical"
+        ],
+        "seniority": "Entry",
+        "company_id": "cccc96afc40245483a441b87",
+        "job_key": "23578164"
+      },
+      {
+        "title": "Product Manager",
+        "company_name": ".",
+        "logo_url": null,
+        "current": false,
+        "start_year": 1996,
+        "start_month": 1,
+        "end_year": 1997,
+        "end_month": 1,
+        "duration_in_months": 12,
+        "departments": [
+          "Product Management"
+        ],
+        "seniority": "Manager",
+        "company_id": "cccc5680f180d2097b5c65c5",
+        "job_key": "88328746"
+      }
+    ]
+  },
+  {
+    "query_domain": "jumpcrew.com",
+    "query_name": "Robert Henderson",
+    "error": false,
+    "person_id": "aaaa0299744f7f42946d47f9",
+    "full_name": "Robert Henderson",
+    "email": {
+      "status": "UNAVAILABLE",
+      "revealed": null,
+      "email": null
+    },
+    "linkedin_url": "https://www.linkedin.com/in/robert-henderson-0a7a0b39",
+    "company_name": "AdPost",
+    "company_website": "https://adpost.ai",
+    "job_history": [
+      {
+        "title": "Chief Executive Officer",
+        "company_name": "AdPost",
+        "logo_url": "1647a1b7-fb6f-4e38-bf7a-fabeadce6eb9.jpg",
+        "current": true,
+        "start_year": 2021,
+        "start_month": 1,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 69,
+        "departments": [
+          "Chief Executive"
+        ],
+        "seniority": "C-Suite",
+        "company_id": "cccc2a8d57df18cacaa84155",
+        "job_key": "18782443"
+      },
+      {
+        "title": "Board Member",
+        "company_name": "YouNow Media",
+        "logo_url": "8ae15a3d-cdd2-4ae7-875f-4a4318697a9b.jpg",
+        "current": true,
+        "start_year": 2020,
+        "start_month": 3,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 79,
+        "departments": [],
+        "seniority": "Entry",
+        "company_id": "cccc9a3e271563b2e1fe83ee",
+        "job_key": "75811791"
+      },
+      {
+        "title": "Chief Executive Officer",
+        "company_name": "JumpCrew",
+        "logo_url": "689a9920-fb2a-4c5a-89ee-f77994620ebd.jpg",
+        "current": true,
+        "start_year": 2016,
+        "start_month": 9,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 121,
+        "departments": [
+          "Chief Executive"
+        ],
+        "seniority": "C-Suite",
+        "company_id": "cccc33f8f18b209897b97e03",
+        "job_key": "70466729"
+      },
+      {
+        "title": "Advisor",
+        "company_name": "Intelegencia",
+        "logo_url": "222fada7-0b31-4396-b6ae-e9a0cb994390.jpg",
+        "current": true,
+        "start_year": 2016,
+        "start_month": 5,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 125,
+        "departments": [
+          "Consultant"
+        ],
+        "seniority": "Entry",
+        "company_id": "ccccb15d88b9e6bd01fa8616",
+        "job_key": "82007566"
+      }
+    ]
+  },
+  {
+    "query_domain": "leadowski.io",
+    "query_name": "Bohdan Shtylyk",
+    "error": false,
+    "person_id": "aaaad30562548aa541d63236",
+    "full_name": "Bohdan Shtylyk",
+    "email": {
+      "status": "VERIFIED",
+      "revealed": true,
+      "email": "bohdan@leadowski.io",
+      "verification_method": "SMTP",
+      "email_mx_provider": "Google"
+    },
+    "linkedin_url": "https://www.linkedin.com/in/bohdanshtylyk",
+    "company_name": "Leadowski",
+    "company_website": "https://leadowski.io",
+    "job_history": [
+      {
+        "title": "Founder",
+        "company_name": "Leadowski",
+        "logo_url": "86d71210-3a6b-416b-a0ac-703896f3257f.jpg",
+        "current": true,
+        "start_year": 2023,
+        "start_month": 3,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 43,
+        "departments": [
+          "Founder"
+        ],
+        "seniority": "Founder/Owner",
+        "company_id": "cccc0ac52bdeda6bd6407499",
+        "job_key": "21403167"
+      },
+      {
+        "title": "Co-Founder/CEO",
+        "company_name": "Imabys",
+        "logo_url": "38cca612-01d1-4009-8415-b7f15ffed1a8.jpg",
+        "current": false,
+        "start_year": 2020,
+        "start_month": 8,
+        "end_year": 2023,
+        "end_month": 4,
+        "duration_in_months": 32,
+        "departments": [
+          "Founder",
+          "Chief Executive"
+        ],
+        "seniority": "C-Suite",
+        "company_id": "cccc2cae0a8b0091d32fb92d",
+        "job_key": "45313553"
+      },
+      {
+        "title": "Business Development Manager",
+        "company_name": "Softwarium",
+        "logo_url": "26df1722-2118-4961-b687-7d7e5c631214.jpg",
+        "current": false,
+        "start_year": 2019,
+        "start_month": 7,
+        "end_year": 2021,
+        "end_month": 2,
+        "duration_in_months": 19,
+        "departments": [
+          "Sales Development"
+        ],
+        "seniority": "Manager",
+        "company_id": "cccc0cfbdc2f3a36180c5687",
+        "job_key": "89796391"
+      },
+      {
+        "title": "Intern",
+        "company_name": "umgi",
+        "logo_url": "b34b875e-2b2b-4d40-b8ca-006b2d3f9e4f.jpg",
+        "current": false,
+        "start_year": 2018,
+        "start_month": 1,
+        "end_year": 2018,
+        "end_month": 3,
+        "duration_in_months": 2,
+        "departments": [],
+        "seniority": "Intern",
+        "company_id": "cccc25871aaa3d112f733618",
+        "job_key": "50459078"
+      }
+    ]
+  }
+]

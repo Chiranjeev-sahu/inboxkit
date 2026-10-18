@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://knkoutbound.com/about/",
+    "emails": [
+      "kenneth@knkoutbound.com"
+    ],
+    "method": "public HTML including Cloudflare email obfuscation decoding"
+  },
+  {
+    "url": "https://www.chiefleadofficer.com/privacy",
+    "emails": [],
+    "method": "public HTML including Cloudflare email obfuscation decoding"
+  },
+  {
+    "url": "https://caliberoutbound.com/about",
+    "emails": [
+      "info@caliberoutbound.com"
+    ],
+    "method": "public HTML including Cloudflare email obfuscation decoding"
+  },
+  {
+    "url": "https://tektonscale.com/privacy",
+    "emails": [
+      "matt@gotektonscale.com"
+    ],
+    "method": "public HTML including Cloudflare email obfuscation decoding"
+  },
+  {
+    "url": "https://smgp.co/contact/",
+    "emails": [
+      "contact@skylinemediachicago.com"
+    ],
+    "method": "public HTML including Cloudflare email obfuscation decoding"
+  },
+  {
+    "url": "https://salesaladin.com/",
+    "emails": [
+      "ambuj@salesaladin.co.in",
+      "sales@salesaladin.com"
+    ],
+    "method": "public HTML including Cloudflare email obfuscation decoding"
+  }
+]

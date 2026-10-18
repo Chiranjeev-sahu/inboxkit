@@ -1,0 +1,23 @@
+# Presentation research run
+
+**Date:** 15 October 2026. **Status:** research and campaign drafts only. No message was sent, no contact was enrolled, and no sequencer import occurred.
+
+The [input sheet](leads.csv) contains 30 distinct candidate companies. It carries forward the prior [25-candidate run](../2026-10-15-twenty-candidate/run-notes.md) and adds five sourced agency buyers. Running `python scripts/prepare_export.py runs/2026-10-15-presentation/leads.csv` produced [25 qualified research rows](qualified.csv), [4 clear-valid/send-ready rows](send-ready.csv), [5 exclusions](excluded.csv), and the [mechanical audit](audit.json). The 21 catch-all rows remain in the research sheet with their actual verification label and are held out of send-ready. The five exclusions are two rejected partner rows and three signal-uncertain rows. Of the qualified rows, 16 use hiring and 9 use named client-case signals. This is a search-selected sample, not an estimate of population yield.
+
+## Five additions
+
+| Agency and buyer | Fit and dated signal | Email and outcome |
+| --- | --- | --- |
+| SMGP, Lucas Mack | [Managed founder-led pipeline](https://smgp.co/pipeline-for-founder-led-sales/) and a [named BRVC cold-email case](https://smgp.co/case-studies/brvc-67000-new-client-revenue-cold-email/) published 12 September | Findymail found a named address on an alternate corporate-looking domain. MillionVerifier returned catch-all/risky. Domain ownership is unconfirmed; review-only. |
+| Key Outreach, David Borman | [Agency FAQ](https://www.keyoutreach.com/faqs) and [Ghost Partner case](https://www.keyoutreach.com/case-study/ghost-partner) published 5 October | Findymail found a named address on an alternate corporate-looking domain. MillionVerifier returned catch-all/risky. Domain ownership is unconfirmed; review-only. |
+| ToplineX, Amaan Naeem | [Managed lead-generation service](https://toplinex.com/lead-generation) and [5 September GTM engineer hiring post](https://community.clay.com/x/share-jobs/msg_dOE8jc8klo6c/senior-gtm-engineer-remote-lead-outbound-strategy) | Findymail did not find an address. The connected Lusha account matched and revealed a named work email using existing credits. MillionVerifier returned catch-all/risky; review-only. |
+| Punch!, Chris Muldoon | [Managed outreach offer](https://www.punchb2b.com/en-us/agentic-outreach) and [21 August lead GTM engineer hiring post](https://community.clay.com/x/share-jobs/msg_smt1yxVfZCBi/hiring-lead-gtm-engineer-at-punch-remote-contracto) | Findymail found a named work email. MillionVerifier returned ok/good; this is the run's fourth clear-valid row. The job post may no longer describe an open vacancy, so outreach must refer to the dated post rather than imply current hiring. |
+| David & Goliath, Josh Morrow | [Managed outbound service](https://davidandgoliath.ai/solutions/outbound-sales-calling) and [17 September GTM engineer hiring post](https://community.clay.com/x/share-jobs/msg_OhMdG2P6HbcH/hiring-gtm-engineer-for-remote-role-in-india-at-da) | The hiring post publishes the buyer's named work address. MillionVerifier returned catch-all/risky; review-only. |
+
+The source URL, buyer profile, exact email source, verification provider/raw status, personalized first line, first-line source, and review note for each record are preserved in `leads.csv`. A finder association does not independently prove ownership of the two alternate email domains. Those rows are research-qualified but require further review before any use.
+
+## Provider and suppression behavior
+
+The agent used search and source-page reading for fit and signal evidence, then direct Findymail and MillionVerifier checks only for named buyers. Lusha supplied one email after Findymail failed. Existing free provider credits were used; no cash was spent. The prior run documents Hunter's exhausted credits, Apollo's restricted endpoint, Prospeo's rate limit, and secondary Reoon checks. The [public suppression list](../../data/suppression.csv) contains all 56 InboxKit partner names/domains found in its public directory and named customers from its homepage and 11 case studies. Export applies exact email, company-domain, and normalized company-name suppression. A private InboxKit CRM/customer list is unavailable and would be required before live sending.
+
+The brief requests 100 rows. This run supplies **25/100 qualified research rows**, of which only **4** have clear-valid verification. More rows require additional time and a larger, measured sourcing batch. Counts cannot be raised by relabeling catch-all as valid, treating uncertain signals as confirmed, or dropping partner suppression.

@@ -1,0 +1,3 @@
+type,value,reason
+email,stop@optout.example,synthetic STOP reply
+company,Public Partner,synthetic existing partner

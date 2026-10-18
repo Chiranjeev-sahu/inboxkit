@@ -1,0 +1,535 @@
+[
+  {
+    "query": "Matt Bauman Kalyxi LinkedIn",
+    "result": {
+      "requestId": "22bf94eecfdc9fc48db0cac1dc45ee53",
+      "resolvedSearchType": "",
+      "results": [
+        {
+          "id": "https://exa.ai/library/organization/l89wn259xm4",
+          "title": "CEO Revenue Roundtable | LinkedIn",
+          "url": "https://www.linkedin.com/company/ceo-revenue-roundtable",
+          "highlights": [
+            "- Industry: Business Consulting and Services\n- Type: Privately held\n- Homepage: ceorevenueroundtable.com\n- Aliases: ceo revenue roundtable\n- LinkedIn: linkedin.com/company/ceo-revenue-roundtable\n- Linkedin Followers: 57\n...\n- Talent Sources: T. Dallas Smith & Company (1), Sales Insights Lab (1), Rob Levine Law (1), ChatterBoss (1)\n- Alumni Go To: Kalyxi (1), Good Conflict (1)"
+          ],
+          "image": "https://media.licdn.com/dms/image/v2/D4E0BAQGPgInFkitQcA/company-logo_200_200/B4EZoIHLD6GUAE-/0/1761072689883/lead_gen_roundtable_logo?e=2147483647&v=beta&t=UiLGs6x-Blj1l1nD7ykXhmmMn8MyYuT_83Du38BBAwU",
+          "entities": [
+            {
+              "id": "https://exa.ai/library/organization/l89wn259xm4",
+              "type": "company",
+              "version": 1,
+              "properties": {
+                "name": "CEO Revenue Roundtable",
+                "foundedYear": null,
+                "description": "Our mission at the CEO Revenue Roundtable is to equip CEOs of mid-market firms with high-leverage strategies that fuel sustainable organic growth to increase EBITDA and expand enterprise value.",
+                "workforce": {
+                  "total": 5
+                },
+                "headquarters": null,
+                "financials": null,
+                "webTraffic": {
+                  "visitsMonthly": 0,
+                  "countryRank": null,
+                  "avgDurationSeconds": 0,
+                  "history": []
+                },
+                "research": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "https://exa.ai/library/person/53rmkmly32f",
+          "title": "matt bauman",
+          "url": "https://linkedin.com/in/matt-bauman-33193717",
+          "publishedDate": "2026-10-07T00:12:02.000Z",
+          "highlights": [
+            "# Matt Bauman\n\nSVP of Sales @ Base44 | Building Enterprise GTM Engine\n...\nSVP of Sales @ Base44 | Building Enterprise GTM Engine\n...\n### SVP of Sales - [Base44](https://www.linkedin.com/company/base44) (Current)\n...\nBuilding the enterprise GTM engine at Base44. Hiring across all roles and levels (AE, AM, CSM, SE, BDR, Ops, Enablement). Come build with us!\n...\n- [2026-10-06 \u00b7 Matt Bauman shared this] [We\u2019re growing our partner ecosystem! We\u2019re seeing partners...](https://www.linkedin.com/posts/matt-bauman-33193717_were-growing-our-partner-ecosystem-were-activity-7513297658065715201-4MtY): We\u2019re growing our partner ecosystem! We\u2019re seeing partners generating material revenue as they empower companies to build using Base44 ! If you\u2019re an agency looking to lead out on AI application bu...\n...\nMatt Bauman shared this] [Base44\n...\n- [2026-08-17 \u00b7 Matt Bauman shared this] [I'm very excited to share that I've joined Base44 as SVP Sales! I...](https://www.linkedin.com/posts/matt-bauman-33193717_im-very-excited-to-share-that-ive-joined-activity-7495168600085786626-biTW): I'm very excited to share that I've joined Base44 as SVP Sales! I enter this next chapter with immense gratitude for the last 6 years at ClickUp and for the opportunity ahead. I joined ClickUp fres..."
+          ],
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFSMG4dfhAMpA/profile-displayphoto-scale_200_200/B56Zvd2Y3VHMAc-/0/1768953581378?e=2147483647&v=beta&t=p3j1qx_5jQE8nNU1KI1bpvIYFDZ3c561fkHOPtX42o4",
+          "entities": [
+            {
+              "id": "https://exa.ai/library/person/53rmkmly32f",
+              "type": "person",
+              "version": 1,
+              "properties": {
+                "name": "Matt Bauman",
+                "firstName": "Matt",
+                "lastName": "Bauman",
+                "location": "San Diego Metropolitan Area",
+                "workHistory": [
+                  {
+                    "title": "SVP of Sales",
+                    "location": "San Diego, California, United States",
+                    "dates": {
+                      "from": "2026-08-01",
+                      "to": null
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/cxhzwsc650h",
+                      "name": "Base44"
+                    }
+                  },
+                  {
+                    "title": "Global Vice President of Sales",
+                    "location": "San Diego, California, United States",
+                    "dates": {
+                      "from": "2023-08-01",
+                      "to": "2026-08-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/y190hv2304m",
+                      "name": "ClickUp"
+                    }
+                  },
+                  {
+                    "title": "Vice President of Sales",
+                    "location": null,
+                    "dates": {
+                      "from": "2022-02-01",
+                      "to": "2023-07-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/y190hv2304m",
+                      "name": "ClickUp"
+                    }
+                  },
+                  {
+                    "title": "Sr. Director Sales - Head of Sales",
+                    "location": "San Diego, California, United States",
+                    "dates": {
+                      "from": "2020-09-01",
+                      "to": "2022-01-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/y190hv2304m",
+                      "name": "ClickUp"
+                    }
+                  },
+                  {
+                    "title": "Dir of Sales Strategy and Head of Global Sales Dev",
+                    "location": "San Francisco, California, United States",
+                    "dates": {
+                      "from": "2019-06-01",
+                      "to": "2020-09-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/nlqdqtt5h6s",
+                      "name": "Snowflake"
+                    }
+                  },
+                  {
+                    "title": "Head of SMB Sales",
+                    "location": "San Francisco, California, United States",
+                    "dates": {
+                      "from": "2016-01-01",
+                      "to": "2018-01-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/d64vvs8kr9z",
+                      "name": "Pinterest"
+                    }
+                  },
+                  {
+                    "title": "Sr. Manager, Mid Market Sales",
+                    "location": "San Francisco, California, United States",
+                    "dates": {
+                      "from": "2015-07-01",
+                      "to": "2016-09-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/d64vvs8kr9z",
+                      "name": "Pinterest"
+                    }
+                  },
+                  {
+                    "title": "Account Executive",
+                    "location": "San Francisco, California, United States",
+                    "dates": {
+                      "from": "2014-06-01",
+                      "to": "2015-07-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/d64vvs8kr9z",
+                      "name": "Pinterest"
+                    }
+                  },
+                  {
+                    "title": "Associate",
+                    "location": "San Francisco, California, United States",
+                    "dates": {
+                      "from": "2013-06-01",
+                      "to": "2013-08-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/2c9nrbq8qk1",
+                      "name": "Bain & Company"
+                    }
+                  },
+                  {
+                    "title": "Enterprise Sales (LCS) - Retail",
+                    "location": null,
+                    "dates": {
+                      "from": "2010-08-01",
+                      "to": "2012-07-01"
+                    },
+                    "company": {
+                      "id": null,
+                      "name": "Google"
+                    }
+                  }
+                ],
+                "educationHistory": [
+                  {
+                    "degree": "Master of Business Administration",
+                    "dates": null,
+                    "institution": {
+                      "id": "https://exa.ai/library/organization/6c4t1fsnw3g",
+                      "name": "Stanford University Graduate School of Business"
+                    }
+                  },
+                  {
+                    "degree": "Bachelor of Science Business Management",
+                    "dates": null,
+                    "institution": {
+                      "id": "https://exa.ai/library/organization/s2qtkz5spn3",
+                      "name": "Brigham Young University"
+                    }
+                  }
+                ],
+                "research": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "https://exa.ai/library/person/jzwhrxm0d77",
+          "title": "matt bauman",
+          "url": "https://linkedin.com/in/themattbauman",
+          "publishedDate": "2026-09-07T11:01:00.000Z",
+          "highlights": [
+            "# Matt Bauman\n...\n### Co-Founder & CMOO - [Kalyxi](https://www.linkedin.com/company/kalyxi) (Current)\n\nJul 2025 - Present (9 months)\n\nI ensure the smooth and scalable growth of Kalyxi by overseeing our internal processes, finances, and go-to-market strategy. My role bridges operational excellence with market-facing innovation, aligning how we run the business with how we position and deliver our AI-driven solutions. I help lay the foundation for sustainable growth while keeping our vision focused on empowering people through AI.\n\nDepartment: General Management \u2022 Level: Founder\n\nKalyxi is a Software Development company. Kalyxi has 1-10 employees, founded in 2025. Headquartered in Atlanta, Georgia, United States.\n...\n- [2026-07-0 ... \u00b7 Matt Bauman liked this] [AI Agents Are Moving Into the Enterprise Control Layer Late June AI...](https://www.linkedin.com/posts/lexi-banks ... alyxi_ai-agents-are-moving-into-the-enterprise-activity-7479906056559747073-PovE): AI Agents Are Moving Into ... Enterprise Control Layer Late June AI news shows frontier models, agent platforms, funding and regulation converging around one enterprise priority: governed execution...\n...\nBauman liked ... -blueprint-how- ... 3-bQux): AI ... Blueprint: How ... A practical guide for enterprise leaders to map ... use cases,"
+          ],
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHFL5bmU1y0KA/profile-displayphoto-shrink_200_200/B4EZX2YZR1HMAY-/0/1743595345775?e=2147483647&v=beta&t=CB4jL6-WafahW6ag0D7Ev3uSvS2TLO9zsISYQzElBis",
+          "entities": [
+            {
+              "id": "https://exa.ai/library/person/jzwhrxm0d77",
+              "type": "person",
+              "version": 1,
+              "properties": {
+                "name": "Matt Bauman",
+                "firstName": "Matt",
+                "lastName": "Bauman",
+                "location": "Roswell, Georgia, United States",
+                "workHistory": [
+                  {
+                    "title": "Senior Manager, Marketing and Business Development",
+                    "location": null,
+                    "dates": {
+                      "from": "2025-09-01",
+                      "to": null
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/0jld1bk4y7y",
+                      "name": "TrustedTech"
+                    }
+                  },
+                  {
+                    "title": "Marketing Manager",
+                    "location": "Jacksonville, Florida, United States",
+                    "dates": {
+                      "from": "2023-04-01",
+                      "to": "2025-09-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/0jld1bk4y7y",
+                      "name": "TrustedTech"
+                    }
+                  },
+                  {
+                    "title": "Co-Founder & CMOO",
+                    "location": null,
+                    "dates": {
+                      "from": "2025-07-01",
+                      "to": null
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/pn4rn3cr1hl",
+                      "name": "Kalyxi"
+                    }
+                  },
+                  {
+                    "title": "Operations Consultant",
+                    "location": null,
+                    "dates": {
+                      "from": "2025-05-01",
+                      "to": null
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/l89wn259xm4",
+                      "name": "CEO Revenue Roundtable"
+                    }
+                  },
+                  {
+                    "title": "Performance Marketing Consultant",
+                    "location": null,
+                    "dates": {
+                      "from": "2024-08-01",
+                      "to": null
+                    },
+                    "company": {
+                      "id": null,
+                      "name": "Cortexuum"
+                    }
+                  },
+                  {
+                    "title": "Founder",
+                    "location": null,
+                    "dates": {
+                      "from": "2023-09-01",
+                      "to": null
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/nsqmrrqwdrb",
+                      "name": "Chief Lead Officer"
+                    }
+                  },
+                  {
+                    "title": "Brand Strategist",
+                    "location": "Las Vegas, Nevada, United States",
+                    "dates": {
+                      "from": "2022-10-01",
+                      "to": "2023-04-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/n3w7sqj8279",
+                      "name": "LBD2C (LifeBrands D2C, Inc.)"
+                    }
+                  },
+                  {
+                    "title": "Growth & Performance Marketing Lead",
+                    "location": "United States",
+                    "dates": {
+                      "from": "2021-03-01",
+                      "to": "2022-10-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/myt2b2zbc00",
+                      "name": "BAD Marketing"
+                    }
+                  },
+                  {
+                    "title": "Sales & Client Strategy Lead",
+                    "location": null,
+                    "dates": {
+                      "from": "2020-04-01",
+                      "to": "2021-03-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/myt2b2zbc00",
+                      "name": "BAD Marketing"
+                    }
+                  },
+                  {
+                    "title": "Customer Solutions Specialist",
+                    "location": "Atlanta, Georgia, United States",
+                    "dates": {
+                      "from": "2014-11-01",
+                      "to": "2019-02-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/rkg1gk4pdhl",
+                      "name": "Safeguard Self Storage"
+                    }
+                  },
+                  {
+                    "title": "Sales Agent",
+                    "location": "Athens, Georgia, United States",
+                    "dates": {
+                      "from": "2013-05-01",
+                      "to": "2014-11-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/9444xl67sh1",
+                      "name": "Aflac"
+                    }
+                  },
+                  {
+                    "title": "Sales Development Representative",
+                    "location": "Athens, Georgia, United States",
+                    "dates": {
+                      "from": "2013-01-01",
+                      "to": "2014-09-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/vk2980l0kwv",
+                      "name": "Modere"
+                    }
+                  },
+                  {
+                    "title": "Sales Development Representative",
+                    "location": "Scottsdale, Arizona, United States",
+                    "dates": {
+                      "from": "2012-08-01",
+                      "to": "2013-01-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/f40rnbw532y",
+                      "name": "Vemma"
+                    }
+                  },
+                  {
+                    "title": "Server",
+                    "location": "Roswell, Georgia, United States",
+                    "dates": {
+                      "from": "2008-05-01",
+                      "to": "2011-08-01"
+                    },
+                    "company": {
+                      "id": "https://exa.ai/library/organization/36cr6sq2qx2",
+                      "name": "Frontera Grill"
+                    }
+                  }
+                ],
+                "educationHistory": [
+                  {
+                    "degree": null,
+                    "dates": {
+                      "from": "2007",
+                      "to": "2011"
+                    },
+                    "institution": {
+                      "id": "https://exa.ai/library/organization/7kh40hzhv3p",
+                      "name": "Roswell High School"
+                    }
+                  }
+                ],
+                "research": null
+              }
+            }
+          ]
+        }
+      ],
+      "searchTime": 3947.9,
+      "costDollars": {
+        "total": 0.007,
+        "search": {
+          "neural": 0.007
+        }
+      },
+      "warnings": [
+        {
+          "code": "IGNORED_FIELD",
+          "path": "/contents/highlights/highlightsPerUrl",
+          "message": "contents.highlights.highlightsPerUrl is no longer supported and is ignored. Remove it from the request."
+        }
+      ]
+    }
+  },
+  {
+    "query": "Mag Dunkaev Futurr LinkedIn founder",
+    "result": {
+      "requestId": "2cc44b7618fb23de14f6d2419278713c",
+      "resolvedSearchType": "",
+      "results": [
+        {
+          "id": "https://www.linkedin.com/posts/mkdunkaev_linkedingrowth-personalbranding-foundercontent-activity-7425557470292529152-VnVu",
+          "title": "How to grow on LinkedIn from zero (what actually works). | Magomed Dunkaev",
+          "url": "https://www.linkedin.com/posts/mkdunkaev_linkedingrowth-personalbranding-foundercontent-activity-7425557470292529152-VnVu",
+          "publishedDate": "2026-02-06T00:00:00.000Z",
+          "author": "Magomed Dunkaev",
+          "highlights": [
+            "# How to grow on LinkedIn from zero (what actually works). | Magomed Dunkaev \u00b7 LinkedIn \u00b7 2026-02-06\n\n**Magomed Dunkaev**: Mag Dunkaev currently works as Founder at Futurr Digital for 4 years 3 months with 4 years 3 months of total professional experience. Based in Costa Mesa, California, United States [US]."
+          ]
+        },
+        {
+          "id": "https://www.linkedin.com/posts/mkdunkaev_linkedins-full-of-so-called-growth-hacks-activity-7427392018026221569-AV2w",
+          "title": "LinkedIn's full of so-called 'growth hacks'. | Magomed Dunkaev",
+          "url": "https://www.linkedin.com/posts/mkdunkaev_linkedins-full-of-so-called-growth-hacks-activity-7427392018026221569-AV2w",
+          "publishedDate": "2026-02-11T00:00:00.000Z",
+          "author": "Magomed Dunkaev",
+          "highlights": [
+            "# LinkedIn's full of so-called 'growth hacks'. | Magomed Dunkaev \u00b7 LinkedIn \u00b7 2026-02-11\n\n**Magomed Dunkaev**: Mag Dunkaev currently works as Founder at Futurr Digital for 4 years 3 months with 4 years 3 months of total professional experience. Based in Costa Mesa, California, United States [US]."
+          ]
+        },
+        {
+          "id": "https://www.linkedin.com/posts/mkdunkaev_a-strong-linkedin-profile-is-your-launchpad-activity-7426629705383952384-vppS",
+          "title": "A strong LinkedIn profile is your launchpad in today's job market. | Magomed Dunkaev",
+          "url": "https://www.linkedin.com/posts/mkdunkaev_a-strong-linkedin-profile-is-your-launchpad-activity-7426629705383952384-vppS",
+          "publishedDate": "2026-02-09T00:00:00.000Z",
+          "author": "Magomed Dunkaev",
+          "highlights": [
+            "# A strong LinkedIn profile is your launchpad in today's job market. | Magomed Dunkaev \u00b7 LinkedIn \u00b7 2026-02-09\n\n**Magomed Dunkaev**: Mag Dunkaev currently works as Founder at Futurr Digital for 4 years 3 months with 4 years 3 months of total professional experience. Based in Costa Mesa, California, United States [US]."
+          ]
+        }
+      ],
+      "searchTime": 3387.3,
+      "costDollars": {
+        "total": 0.007,
+        "search": {
+          "neural": 0.007
+        }
+      },
+      "warnings": [
+        {
+          "code": "IGNORED_FIELD",
+          "path": "/contents/highlights/highlightsPerUrl",
+          "message": "contents.highlights.highlightsPerUrl is no longer supported and is ignored. Remove it from the request."
+        }
+      ]
+    }
+  },
+  {
+    "query": "Magomed Dunkaev mkdunkaev LinkedIn",
+    "result": {
+      "requestId": "633fbe69bef3dd8557d79d14ba0d86a6",
+      "resolvedSearchType": "",
+      "results": [
+        {
+          "id": "https://www.linkedin.com/posts/mkdunkaev_linkedingrowth-personalbranding-foundercontent-activity-7425557470292529152-VnVu",
+          "title": "How to grow on LinkedIn from zero (what actually works). | Magomed Dunkaev",
+          "url": "https://www.linkedin.com/posts/mkdunkaev_linkedingrowth-personalbranding-foundercontent-activity-7425557470292529152-VnVu",
+          "publishedDate": "2026-02-06T00:00:00.000Z",
+          "author": "Magomed Dunkaev",
+          "highlights": [
+            "# How to grow on LinkedIn from zero (what actually works). | Magomed Dunkaev \u00b7 LinkedIn \u00b7 2026-02-06\n\n**Magomed Dunkaev**: Mag Dunkaev currently works as Founder at Futurr Digital for 4 years 3 months with 4 years 3 months of total professional experience. Based in Costa Mesa, California, United States [US]."
+          ]
+        },
+        {
+          "id": "https://www.linkedin.com/posts/mkdunkaev_a-strong-linkedin-profile-is-your-launchpad-activity-7426629705383952384-vppS",
+          "title": "A strong LinkedIn profile is your launchpad in today's job market. | Magomed Dunkaev",
+          "url": "https://www.linkedin.com/posts/mkdunkaev_a-strong-linkedin-profile-is-your-launchpad-activity-7426629705383952384-vppS",
+          "publishedDate": "2026-02-09T00:00:00.000Z",
+          "author": "Magomed Dunkaev",
+          "highlights": [
+            "# A strong LinkedIn profile is your launchpad in today's job market. | Magomed Dunkaev \u00b7 LinkedIn \u00b7 2026-02-09\n\n**Magomed Dunkaev**: Mag Dunkaev currently works as Founder at Futurr Digital for 4 years 3 months with 4 years 3 months of total professional experience. Based in Costa Mesa, California, United States [US]."
+          ]
+        },
+        {
+          "id": "https://www.linkedin.com/posts/mkdunkaev_linkedins-full-of-so-called-growth-hacks-activity-7427392018026221569-AV2w",
+          "title": "LinkedIn's full of so-called 'growth hacks'. | Magomed Dunkaev",
+          "url": "https://www.linkedin.com/posts/mkdunkaev_linkedins-full-of-so-called-growth-hacks-activity-7427392018026221569-AV2w",
+          "publishedDate": "2026-02-11T00:00:00.000Z",
+          "author": "Magomed Dunkaev",
+          "highlights": [
+            "# LinkedIn's full of so-called 'growth hacks'. | Magomed Dunkaev \u00b7 LinkedIn \u00b7 2026-02-11\n\n**Magomed Dunkaev**: Mag Dunkaev currently works as Founder at Futurr Digital for 4 years 3 months with 4 years 3 months of total professional experience. Based in Costa Mesa, California, United States [US]."
+          ]
+        }
+      ],
+      "searchTime": 3392.7,
+      "costDollars": {
+        "total": 0.007,
+        "search": {
+          "neural": 0.007
+        }
+      },
+      "warnings": [
+        {
+          "code": "IGNORED_FIELD",
+          "path": "/contents/highlights/highlightsPerUrl",
+          "message": "contents.highlights.highlightsPerUrl is no longer supported and is ignored. Remove it from the request."
+        }
+      ]
+    }
+  }
+]

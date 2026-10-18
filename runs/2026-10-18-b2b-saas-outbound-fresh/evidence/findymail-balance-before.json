@@ -1,0 +1,9 @@
+{
+  "http_status": 200,
+  "response": {
+    "credits": 1,
+    "pricing": "variant_a",
+    "has_capacity": true,
+    "verifier_credits": 3
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "email": "morgan.sample7641@shieldsoutbound.com",
+  "control_type": "invented_plausible_same_accept_all_domain",
+  "result": "undeliverable",
+  "status": "success",
+  "score": 0,
+  "is_accept_all": true,
+  "credits_consumed": 1,
+  "credits_remaining": 74
+}

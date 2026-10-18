@@ -1,0 +1,20 @@
+﻿GTM Engineer Hiring Assignment
+Oct 12, 2026 · @InboxKit
+The brief
+Design, build and stage a LinkedIn plus email campaign for InboxKit that could book 15 qualified demos in 30 days. Plan for 6 to 8 hours of work, due 5 days after you receive this.
+* Product: InboxKit sells cold email infrastructure: mailboxes, domains, DNS setup and warmup that plug into the sequencer a team already uses.
+* Buyer: founders and heads of growth at outbound, lead-gen and GTM agencies. The person who owns sending infrastructure, not the AEs who use it.
+* Your job: everything from picking the segment to the last follow-up, plus the Claude Code workflow that makes it repeatable.
+* Nothing gets sent. Every message stays in draft. We judge the system, not replies.
+What to deliver
+1. Strategy memo, one page. Which segment and buying signal you chose and why. How LinkedIn and email steps interleave over 3 weeks. The offer and the single CTA. Volume math from 15 demos back to contacts needed, every assumption stated.
+2. Lead list, 100 rows in a sheet. Name, title, company, domain, LinkedIn URL, email, verification status, the signal that qualified them, source. Add one paragraph on how this scales to 2,000 rows and the cost per contact.
+3. Copy. A 3 to 4 step email sequence with two variants of step 1. A LinkedIn connection note and two follow-ups. Personalised first lines for 10 rows, produced by your workflow, not by hand.
+4. Claude Code workflow. A repo with a CLAUDE.md, skills or scripts that turn an ICP description into an enriched, verified, deduped, personalised list ready to import into a sequencer. It must run from a clean checkout. Show how it handles bad emails, duplicates and a suppression list.
+Rules
+* Every product claim must come from inboxkit.com. Link the page it came from.
+* No em dashes or en dashes in any copy. One ask per message. A working opt-out in every email.
+* Smartlead and Instantly are integrations, not competitors. You may name them; do not attack anyone by name.
+How to submit
+Reply to the email that sent you this with one link: a Drive folder or GitHub repo holding the memo, the sheet, the copy, the workflow repo and a Loom of 5 minutes or less.
+Shortlisted candidates get a 45 minute review call. You walk us through the work, then we hand you a new segment and you rerun the workflow live.

@@ -1,0 +1,422 @@
+[
+  {
+    "company": "OneGTM",
+    "name": "Garrett Wolfe",
+    "domain": "getaob.com",
+    "known_email": "gw@getaob.com",
+    "known_email_source": "https://getaob.com/how-i-work",
+    "bounceban": {
+      "result": "deliverable",
+      "score": 97,
+      "is_accept_all": true,
+      "credits_consumed": 1,
+      "verify_at": "2026-10-16T03:19:29.738Z"
+    },
+    "icypeas_finder": {
+      "status": "NOT_FOUND",
+      "success": true,
+      "emails": [],
+      "error": null
+    },
+    "datagma_finder": {
+      "email": null,
+      "status": "NotFound",
+      "creditBurn": "0",
+      "currentCredit": "96",
+      "error": null
+    },
+    "icypeas_verifier": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "gw@getaob.com",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    }
+  },
+  {
+    "company": "Sparklead",
+    "name": "Alexan Zartarian",
+    "domain": "sparkleadgo.com",
+    "known_email": "alexan@sparkleadgo.com",
+    "known_email_source": "https://link.me/alexanzartarian",
+    "bounceban": {
+      "result": "deliverable",
+      "score": 97,
+      "is_accept_all": true,
+      "credits_consumed": 1,
+      "verify_at": "2026-10-16T03:19:32.59Z"
+    },
+    "icypeas_finder": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "alexan@sparkleadgo.com",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    },
+    "datagma_finder": {
+      "email": "alexan@sparkleadgo.com",
+      "status": "Valid",
+      "creditBurn": "1",
+      "currentCredit": "96",
+      "error": null
+    },
+    "icypeas_verifier": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "alexan@sparkleadgo.com",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    }
+  },
+  {
+    "company": "LeadRoad",
+    "name": "Nikhil Tundurwar",
+    "domain": "leadroad.io",
+    "known_email": "nikhil@leadroad.io",
+    "known_email_source": "Findymail",
+    "bounceban": {
+      "result": "deliverable",
+      "score": 97,
+      "is_accept_all": true,
+      "credits_consumed": 1,
+      "verify_at": "2026-10-16T03:19:34.003Z"
+    },
+    "icypeas_finder": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "nikhil@leadroad.io",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    },
+    "datagma_finder": {
+      "email": null,
+      "status": "NotFound",
+      "creditBurn": "0",
+      "currentCredit": "95",
+      "error": null
+    },
+    "icypeas_verifier": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "nikhil@leadroad.io",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    }
+  },
+  {
+    "company": "StackOptimise",
+    "name": "Felix Frank",
+    "domain": "stackoptimise.com",
+    "known_email": "felix@stackoptimise.com",
+    "known_email_source": "https://www.stackoptimise.com/about-us",
+    "bounceban": {
+      "result": "deliverable",
+      "score": 97,
+      "is_accept_all": true,
+      "credits_consumed": 1,
+      "verify_at": "2026-10-16T03:19:35.452Z"
+    },
+    "icypeas_finder": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "felix@stackoptimise.com",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    },
+    "datagma_finder": {
+      "email": "felix@stackoptimise.com",
+      "status": "Valid",
+      "creditBurn": "1",
+      "currentCredit": "95",
+      "error": null
+    },
+    "icypeas_verifier": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "felix@stackoptimise.com",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    }
+  },
+  {
+    "company": "RevenueFlow",
+    "name": "Tim Carden",
+    "domain": "revenueflow.com",
+    "known_email": "tim@revenueflow.com",
+    "known_email_source": "Hunter Email Finder",
+    "bounceban": {
+      "result": "deliverable",
+      "score": 97,
+      "is_accept_all": true,
+      "credits_consumed": 1,
+      "verify_at": "2026-10-16T03:19:37.466Z"
+    },
+    "icypeas_finder": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "tim@revenueflow.com",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    },
+    "datagma_finder": {
+      "email": "tim@revenueflow.com",
+      "status": "Valid",
+      "creditBurn": "1",
+      "currentCredit": "94",
+      "error": null
+    },
+    "icypeas_verifier": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "tim@revenueflow.com",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    }
+  },
+  {
+    "company": "Groundswell",
+    "name": "Charlie Brown",
+    "domain": "groundswellgtm.com",
+    "known_email": "charlie@groundswellgtm.com",
+    "known_email_source": "Hunter Email Finder",
+    "bounceban": {
+      "result": "deliverable",
+      "score": 97,
+      "is_accept_all": true,
+      "credits_consumed": 1,
+      "verify_at": "2026-10-16T03:19:39.242Z"
+    },
+    "icypeas_finder": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "charlie@groundswellgtm.com",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    },
+    "datagma_finder": {
+      "email": "charlie@groundswellgtm.com",
+      "status": "Valid",
+      "creditBurn": "1",
+      "currentCredit": "93",
+      "error": null
+    },
+    "icypeas_verifier": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "charlie@groundswellgtm.com",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    }
+  },
+  {
+    "company": "BuiltDiffernt",
+    "name": "David Sinclair-Black",
+    "domain": "builtdiffernt.com",
+    "known_email": "david@builtdiffernt.com",
+    "known_email_source": "Findymail",
+    "bounceban": {
+      "result": "deliverable",
+      "score": 97,
+      "is_accept_all": true,
+      "credits_consumed": 1,
+      "verify_at": "2026-10-16T03:19:40.609Z"
+    },
+    "icypeas_finder": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "david@builtdiffernt.com",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    },
+    "datagma_finder": {
+      "email": null,
+      "status": "NotFound",
+      "creditBurn": "0",
+      "currentCredit": "92",
+      "error": null
+    },
+    "icypeas_verifier": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "david@builtdiffernt.com",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    }
+  },
+  {
+    "company": "Lead Gen Jay",
+    "name": "Jay Feldman",
+    "domain": "leadgenjay.com",
+    "known_email": "jay@leadgenjay.com",
+    "known_email_source": "Findymail in 2026-10-15 sourcing pilot",
+    "bounceban": {
+      "result": "deliverable",
+      "score": 97,
+      "is_accept_all": true,
+      "credits_consumed": 1,
+      "verify_at": "2026-10-16T03:19:42.027Z"
+    },
+    "icypeas_finder": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "jay@leadgenjay.com",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    },
+    "datagma_finder": {
+      "email": null,
+      "status": "NotFound",
+      "creditBurn": "0",
+      "currentCredit": "92",
+      "error": null
+    },
+    "icypeas_verifier": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "jay@leadgenjay.com",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    }
+  },
+  {
+    "company": "Outreachify",
+    "name": "Harshbir Singh",
+    "domain": "outreachify.io",
+    "known_email": "harsh@outreachify.io",
+    "known_email_source": "Lusha work-email reveal 2026-10-15",
+    "bounceban": {
+      "result": "deliverable",
+      "score": 97,
+      "is_accept_all": true,
+      "credits_consumed": 1,
+      "verify_at": "2026-10-16T03:19:43.399Z"
+    },
+    "icypeas_finder": {
+      "status": "NOT_FOUND",
+      "success": true,
+      "emails": [],
+      "error": null
+    },
+    "datagma_finder": {
+      "email": null,
+      "status": "NotFound",
+      "creditBurn": "0",
+      "currentCredit": "92",
+      "error": null
+    },
+    "icypeas_verifier": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "harsh@outreachify.io",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    }
+  },
+  {
+    "company": "Nordic Nexuz",
+    "name": "Kasper Hallberg",
+    "domain": "nordicnexuz.com",
+    "known_email": "kasper@nordicnexuz.com",
+    "known_email_source": "https://community.clay.com/members/2ca3fad6-f279-4b07-83fc-d12fc34fb690",
+    "bounceban": {
+      "result": "deliverable",
+      "score": 97,
+      "is_accept_all": true,
+      "credits_consumed": 1,
+      "verify_at": "2026-10-16T03:19:47.888Z"
+    },
+    "icypeas_finder": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "kasper@nordicnexuz.com",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    },
+    "datagma_finder": {
+      "email": "kasper@nordicnexuz.com",
+      "status": "Valid",
+      "creditBurn": "1",
+      "currentCredit": "92",
+      "error": null
+    },
+    "icypeas_verifier": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "kasper@nordicnexuz.com",
+          "certainty": "ultra_sure"
+        }
+      ],
+      "error": null
+    }
+  }
+]

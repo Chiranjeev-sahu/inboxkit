@@ -1,0 +1,148 @@
+{
+  "success": true,
+  "items": [
+    {
+      "name": "InboxKit final five available credits.xlsx",
+      "file": "pG4RRaEBlLr-R2M_iu9a",
+      "results": {
+        "firstname": "Kerim",
+        "lastname": "Efe Ozcanli",
+        "gender": "UNKNOWN",
+        "fullname": "Kerim Efe Ozcanli",
+        "li": "",
+        "emails": [],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 0,
+      "status": "DEBITED_NOT_FOUND",
+      "system": {
+        "createdAt": "2026-10-16T14:15:39.966Z",
+        "modifiedAt": "2026-10-16T14:15:44.844Z"
+      },
+      "_id": "pG4RRaEBlLr-R2M_iu9a-0"
+    },
+    {
+      "name": "InboxKit final five available credits.xlsx",
+      "file": "pG4RRaEBlLr-R2M_iu9a",
+      "results": {
+        "firstname": "Brendan",
+        "lastname": "Ward",
+        "gender": "UNKNOWN",
+        "fullname": "Brendan Ward",
+        "li": "",
+        "emails": [
+          {
+            "email": "brendan@growtoro.com",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "google.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 1,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:15:39.994Z",
+        "modifiedAt": "2026-10-16T14:15:43.373Z"
+      },
+      "_id": "pG4RRaEBlLr-R2M_iu9a-1"
+    },
+    {
+      "name": "InboxKit final five available credits.xlsx",
+      "file": "pG4RRaEBlLr-R2M_iu9a",
+      "results": {
+        "firstname": "Jack",
+        "lastname": "Hayward",
+        "gender": "UNKNOWN",
+        "fullname": "Jack Hayward",
+        "li": "",
+        "emails": [
+          {
+            "email": "jack@h2.studio",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "google.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 2,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:15:40.021Z",
+        "modifiedAt": "2026-10-16T14:15:42.851Z"
+      },
+      "_id": "pG4RRaEBlLr-R2M_iu9a-2"
+    },
+    {
+      "name": "InboxKit final five available credits.xlsx",
+      "file": "pG4RRaEBlLr-R2M_iu9a",
+      "results": {
+        "firstname": "Deepak",
+        "lastname": "Joshi",
+        "gender": "UNKNOWN",
+        "fullname": "Deepak Joshi",
+        "li": "",
+        "emails": [
+          {
+            "email": "deepak@coldfront.agency",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "google.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 3,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:15:40.049Z",
+        "modifiedAt": "2026-10-16T14:15:43.351Z"
+      },
+      "_id": "pG4RRaEBlLr-R2M_iu9a-3"
+    },
+    {
+      "name": "InboxKit final five available credits.xlsx",
+      "file": "pG4RRaEBlLr-R2M_iu9a",
+      "results": {
+        "firstname": "Kyley",
+        "lastname": "Cheever",
+        "gender": "UNKNOWN",
+        "fullname": "Kyley Cheever",
+        "li": "",
+        "emails": [],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 4,
+      "status": "DEBITED_NOT_FOUND",
+      "system": {
+        "createdAt": "2026-10-16T14:15:40.077Z",
+        "modifiedAt": "2026-10-16T14:15:42.880Z"
+      },
+      "_id": "pG4RRaEBlLr-R2M_iu9a-4"
+    }
+  ],
+  "sorts": [
+    [
+      0,
+      "110a820d066a4905b424483e41aa9dc0994149d4b5464ffd9c32de8058b0b4a2"
+    ],
+    [
+      4,
+      "1fa9453c65db43cbbbaf4d1f803d96baeab5f370e98b423eb7eeee352297702a"
+    ]
+  ],
+  "total": 5
+}

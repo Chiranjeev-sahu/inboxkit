@@ -1,0 +1,142 @@
+{
+  "retrieved_date": "2026-10-18",
+  "sources": [
+    {
+      "company": "HockeyStack",
+      "purpose": "B2B SaaS fit",
+      "url": "https://www.hockeystack.com/",
+      "judgment": "B2B revenue intelligence/analytics platform. Inspected product navigation does not offer sending mailboxes or DNS infrastructure. No-match is limited to inspected pages."
+    },
+    {
+      "company": "HockeyStack",
+      "purpose": "Own outbound signal and first line",
+      "url": "https://www.hockeystack.com/resources/playbook/how-we-started-outbound",
+      "excerpts": [
+        "6 email sequences",
+        "Outreach Automation",
+        "Every workflow is owned end-to-end by our growth team."
+      ],
+      "judgment": "Company-authored playbook describes persona/stage email sequences, SDR process, and Outreach in its own stack. No absolute date shown. It also says calls outperform email for marketing ICP; do not imply proven email need."
+    },
+    {
+      "company": "HockeyStack",
+      "purpose": "Named email and personal LinkedIn",
+      "url": "https://www.ycombinator.com/companies/hockeystack",
+      "excerpts": [
+        "Co-Founder & CEO @ HockeyStack.",
+        "You can reach me at bugra@hockeystack.com or LinkedIn."
+      ],
+      "judgment": "Company/founder-authored launch entry names founder and publishes exact work email; LinkedIn link resolves to https://www.linkedin.com/in/bgrgndzz/. Direct profile fetch999; corroborated with company post."
+    },
+    {
+      "company": "HockeyStack",
+      "purpose": "Current role",
+      "url": "https://www.linkedin.com/posts/hockeystack_our-co-founder-and-ceo-bu%C4%9Fra-g%C3%BCnd%C3%BCz-spoke-activity-7447323290681131008-RU2X",
+      "excerpts": [
+        "Our co-founder and CEO Buğra Gündüz"
+      ],
+      "judgment": "Company-authored post identifies current role; relative date only, no recent label."
+    },
+    {
+      "company": "HockeyStack",
+      "purpose": "Reject former buyer",
+      "url": "https://www.linkedin.com/posts/emircatli_i-have-left-my-role-as-co-founder-and-cro-activity-7500583749827428353-Duyf",
+      "excerpts": [
+        "I have left my role as Co-founder and CRO of HockeyStack."
+      ],
+      "judgment": "Own departure announcement supersedes older CRO bylines. Did not lookup or verify former buyer."
+    },
+    {
+      "company": "UserGems",
+      "purpose": "B2B SaaS fit and commercial review",
+      "url": "https://www.usergems.com/",
+      "excerpts": [
+        "The AI Command Center for outbound and ABM",
+        "Outreach, Salesloft, Gong Engage"
+      ],
+      "judgment": "Buyer intelligence/orchestration software operating with existing sales engagement platforms. No mailbox/DNS infrastructure product found in inspected product page."
+    },
+    {
+      "company": "UserGems",
+      "purpose": "Own outbound signal and first line",
+      "url": "https://www.usergems.com/playbooks/boost-your-outbound-reply-rates",
+      "excerpts": [
+        "At UserGems, we want to instill discipline in our reps:",
+        "each SDR updates the entire team"
+      ],
+      "judgment": "Company CMO describes weekly SDR reviews of outstanding sequence tasks and booked meetings. Later deliverability advice is general recommendations, not proof that UserGems itself rotates mailboxes. No absolute date displayed."
+    },
+    {
+      "company": "UserGems",
+      "purpose": "Current founder CEO and GTM involvement",
+      "url": "https://www.usergems.com/news/usergems-hosts-usergems-insiders",
+      "excerpts": [
+        "Christian Kletzl, CEO of UserGems"
+      ],
+      "judgment": "Published2026-04-20; co-founder CEOs present platform direction in GTM. Plausible infrastructure influence inferred from executive authority, not demonstrated technical administration."
+    },
+    {
+      "company": "UserGems",
+      "purpose": "Rejected ADR buyer address identity",
+      "url": "https://www.linkedin.com/posts/usergems_class-5-fundamentals-for-running-a-modern-activity-7462522941273001984-U5va",
+      "excerpts": [
+        "Sara Angell (Sr Director of ADR at UserGems)"
+      ],
+      "judgment": "Company post identifies role. Her own post was opened at https://www.linkedin.com/posts/sara-angell_being-an-adr-at-usergems-is-different-from-activity-7453104641082552320-K58H . Findymail email failed BounceBan and is excluded."
+    },
+    {
+      "company": "Saleshandy",
+      "purpose": "Own outbound signal",
+      "url": "https://www.linkedin.com/posts/dhruvikigai_our-sdrs-use-saleshandy-to-sell-saleshandy-activity-7469322100307046400-PQ_D",
+      "excerpts": [
+        "Our SDRs use Saleshandy to sell Saleshandy."
+      ],
+      "judgment": "Founder-authored own outbound motion evidence, relative date only. Fit from company homepage; role and linked profile from https://www.saleshandy.com/about-us."
+    },
+    {
+      "company": "Saleshandy",
+      "purpose": "Commercial overlap hold",
+      "url": "https://www.saleshandy.com/email-infrastructure",
+      "excerpts": [
+        "Buy domains & mailboxes with pre-configured SPF, DKIM, DMARC."
+      ],
+      "judgment": "Offers directly overlapping infrastructure. Parked pending strategic review; no need or supplier-switching intent demonstrated."
+    },
+    {
+      "company": "Salesforge",
+      "purpose": "Fit, signal, role",
+      "url": "https://www.salesforge.ai/blog/ai-sales-automation",
+      "excerpts": [
+        "We generate over 500 demos a month at Salesforge."
+      ],
+      "judgment": "Dated2026-03-26 and founder-authored. Company author https://www.salesforge.ai/author/frank-bacon identifies Frank Sondors as CEO and explains alias Frank Bacon."
+    },
+    {
+      "company": "Salesforge",
+      "purpose": "Commercial overlap hold",
+      "url": "https://www.salesforge.ai/stack",
+      "excerpts": [
+        "Primeforge",
+        "Mailforge",
+        "Infraforge",
+        "Warmforge"
+      ],
+      "judgment": "Own mailbox, email-infrastructure and warmup suite. Broad fit and own outbound evidence present, commercially parked."
+    },
+    {
+      "company": "Surfe",
+      "purpose": "Unresolved own-activity evidence",
+      "url": "https://www.surfe.com/use-case/sales",
+      "judgment": "Product workflows prove B2B software fit but not that Surfe runs its own outbound program. Also inspected https://www.surfe.com/blog/is-the-role-of-sdr-broken/ . No credit spent."
+    }
+  ],
+  "public_suppression": {
+    "urls": [
+      "https://www.inboxkit.com/",
+      "https://www.inboxkit.com/partners",
+      "https://www.inboxkit.com/customer-stories/case-studies"
+    ],
+    "judgment": "Opened current public pages. No named match for HockeyStack, UserGems, Saleshandy or Salesforge found; local suppression checked by prepare_export.py. Public absence does not prove private CRM/account clearance."
+  },
+  "linkedin_limitation": "Direct personal profile opens failed including999; identity resolved through first-party company links/posts plus indexed personal profile results. No private or signed-in LinkedIn data used."
+}

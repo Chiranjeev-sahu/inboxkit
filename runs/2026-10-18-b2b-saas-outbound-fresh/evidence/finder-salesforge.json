@@ -1,0 +1,35 @@
+{
+  "provider": "Datagma",
+  "endpoint": "https://gateway.datagma.net/api/ingress/v8/findEmail",
+  "query": {
+    "fullName": "Frank Sondors",
+    "company": "salesforge.ai"
+  },
+  "http_status": 200,
+  "response": {
+    "email": "f@salesforge.ai",
+    "emailDomain": "salesforge.ai",
+    "status": "Valid",
+    "patterns": [],
+    "mxfound": null,
+    "smtpCheck": null,
+    "cachAll": null,
+    "mostProbableEmail": [],
+    "flags": [],
+    "correlationId": "56ebcfd61555cd526075cc240a4db213",
+    "explanation": "",
+    "mailboxQuotaExceeded": "",
+    "mailboxNotFound": "",
+    "possibleTrap": "",
+    "globalSuppression": "",
+    "greylisted": "",
+    "mailServerDidNotRespond": "",
+    "unroutableIpAddress": "",
+    "alternate": "",
+    "smtpProvider": "",
+    "mxRecord": "",
+    "creditBurn": "1",
+    "currentCredit": "91"
+  },
+  "date": "2026-10-18T06:05:24.404736+00:00"
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Vito Vishnepolsky",
+    "result": {
+      "contact": {
+        "id": 589798993,
+        "name": "Vito Vishnepolsky",
+        "email": "vito@martalgroup.com",
+        "domain": "martalgroup.com",
+        "company": "Martal Group",
+        "linkedin_url": "https://www.linkedin.com/in/vitovish",
+        "job_title": "Principal",
+        "company_city": "Oakville",
+        "company_region": "ON",
+        "company_country": "Canada",
+        "city": "Toronto",
+        "region": "Ontario",
+        "country": "Canada"
+      }
+    }
+  },
+  {
+    "name": "Roksolana Nikitina",
+    "result": {
+      "contact": {
+        "email": null,
+        "name": "Roksolana Nikitina",
+        "domain": null,
+        "linkedin_url": null,
+        "company": "",
+        "job_title": "",
+        "company_city": "",
+        "company_region": "",
+        "company_country": "",
+        "city": null,
+        "region": null,
+        "country": null
+      }
+    }
+  }
+]

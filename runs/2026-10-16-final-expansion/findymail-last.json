@@ -1,0 +1,50 @@
+[
+  {
+    "query": {
+      "name": "Vedarth Deshpande",
+      "domain": "socinovatrigacy.com"
+    },
+    "result": {
+      "contact": {
+        "email": null,
+        "name": "Vedarth Deshpande",
+        "domain": null,
+        "linkedin_url": null,
+        "company": "",
+        "job_title": "",
+        "company_city": "",
+        "company_region": "",
+        "company_country": "",
+        "city": null,
+        "region": null,
+        "country": null
+      }
+    }
+  },
+  {
+    "query": {
+      "linkedin_url": "https://www.linkedin.com/in/kyley-cheever"
+    },
+    "result": {
+      "contact": {
+        "linkedin_url": "https://www.linkedin.com/in/kyley-cheever",
+        "name": "",
+        "domain": null,
+        "email": null
+      }
+    }
+  },
+  {
+    "query": {
+      "linkedin_url": "https://www.linkedin.com/in/nicklas-k"
+    },
+    "result": {
+      "contact": {
+        "linkedin_url": "https://www.linkedin.com/in/nicklas-k",
+        "name": "",
+        "domain": null,
+        "email": null
+      }
+    }
+  }
+]

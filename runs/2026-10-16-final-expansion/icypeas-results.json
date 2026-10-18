@@ -1,0 +1,241 @@
+{
+  "success": true,
+  "items": [
+    {
+      "name": "InboxKit final agency expansion.xlsx",
+      "file": "YbwDRaEBOfRhCqj8X4sm",
+      "results": {
+        "firstname": "Roman",
+        "lastname": "Shvets",
+        "gender": "UNKNOWN",
+        "fullname": "Roman Shvets",
+        "li": "",
+        "emails": [
+          {
+            "email": "roman.shvets@salesar.io",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "google.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 0,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:00:11.423Z",
+        "modifiedAt": "2026-10-16T14:00:15.009Z"
+      },
+      "_id": "YbwDRaEBOfRhCqj8X4sm-0"
+    },
+    {
+      "name": "InboxKit final agency expansion.xlsx",
+      "file": "YbwDRaEBOfRhCqj8X4sm",
+      "results": {
+        "firstname": "Vito",
+        "lastname": "Vishnepolsky",
+        "gender": "UNKNOWN",
+        "fullname": "Vito Vishnepolsky",
+        "li": "",
+        "emails": [],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 1,
+      "status": "DEBITED_NOT_FOUND",
+      "system": {
+        "createdAt": "2026-10-16T14:00:11.456Z",
+        "modifiedAt": "2026-10-16T14:00:15.988Z"
+      },
+      "_id": "YbwDRaEBOfRhCqj8X4sm-1"
+    },
+    {
+      "name": "InboxKit final agency expansion.xlsx",
+      "file": "YbwDRaEBOfRhCqj8X4sm",
+      "results": {
+        "firstname": "Ayhan",
+        "lastname": "Isaacs",
+        "gender": "UNKNOWN",
+        "fullname": "Ayhan Isaacs",
+        "li": "",
+        "emails": [
+          {
+            "email": "ayhan@growthrhino.com",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "google.com",
+              "googlemail.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 2,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:00:11.498Z",
+        "modifiedAt": "2026-10-16T14:00:15.037Z"
+      },
+      "_id": "YbwDRaEBOfRhCqj8X4sm-2"
+    },
+    {
+      "name": "InboxKit final agency expansion.xlsx",
+      "file": "YbwDRaEBOfRhCqj8X4sm",
+      "results": {
+        "firstname": "Matthew",
+        "lastname": "Johnson",
+        "gender": "UNKNOWN",
+        "fullname": "Matthew Johnson",
+        "li": "",
+        "emails": [
+          {
+            "email": "matthew@outboundsystem.com",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "google.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 3,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:00:11.527Z",
+        "modifiedAt": "2026-10-16T14:00:13.613Z"
+      },
+      "_id": "YbwDRaEBOfRhCqj8X4sm-3"
+    },
+    {
+      "name": "InboxKit final agency expansion.xlsx",
+      "file": "YbwDRaEBOfRhCqj8X4sm",
+      "results": {
+        "firstname": "Roksolana",
+        "lastname": "Nikitina",
+        "gender": "UNKNOWN",
+        "fullname": "Roksolana Nikitina",
+        "li": "",
+        "emails": [],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 4,
+      "status": "NOT_FOUND",
+      "system": {
+        "createdAt": "2026-10-16T14:00:11.569Z",
+        "modifiedAt": "2026-10-16T14:00:18.377Z"
+      },
+      "_id": "YbwDRaEBOfRhCqj8X4sm-4"
+    },
+    {
+      "name": "InboxKit final agency expansion.xlsx",
+      "file": "YbwDRaEBOfRhCqj8X4sm",
+      "results": {
+        "firstname": "Rob",
+        "lastname": "Whitley",
+        "gender": "UNKNOWN",
+        "fullname": "Rob Whitley",
+        "li": "",
+        "emails": [
+          {
+            "email": "rob@salespipe.co",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "mailgun.org",
+              "googlemail.com",
+              "google.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 5,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:00:11.600Z",
+        "modifiedAt": "2026-10-16T14:00:16.432Z"
+      },
+      "_id": "YbwDRaEBOfRhCqj8X4sm-5"
+    },
+    {
+      "name": "InboxKit final agency expansion.xlsx",
+      "file": "YbwDRaEBOfRhCqj8X4sm",
+      "results": {
+        "firstname": "John",
+        "lastname": "Karsant",
+        "gender": "UNKNOWN",
+        "fullname": "John Karsant",
+        "li": "",
+        "emails": [
+          {
+            "email": "john.karsant@levelupleads.io",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "google.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 6,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:00:11.644Z",
+        "modifiedAt": "2026-10-16T14:00:13.615Z"
+      },
+      "_id": "YbwDRaEBOfRhCqj8X4sm-6"
+    },
+    {
+      "name": "InboxKit final agency expansion.xlsx",
+      "file": "YbwDRaEBOfRhCqj8X4sm",
+      "results": {
+        "firstname": "Rom",
+        "lastname": "Agustin",
+        "gender": "UNKNOWN",
+        "fullname": "Rom Agustin",
+        "li": "",
+        "emails": [
+          {
+            "email": "rom@callboxinc.com",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "google.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 7,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:00:11.673Z",
+        "modifiedAt": "2026-10-16T14:00:13.813Z"
+      },
+      "_id": "YbwDRaEBOfRhCqj8X4sm-7"
+    }
+  ],
+  "sorts": [
+    [
+      0,
+      "4c53c287698546c899601d1efd939dde50d8ac36e8ef41908b2b7b43d325158c"
+    ],
+    [
+      7,
+      "cf9af866db304a72bfdbbffc741b86c5b7cd9a164e3a422dbae21e5ae096c8b2"
+    ]
+  ],
+  "total": 8
+}

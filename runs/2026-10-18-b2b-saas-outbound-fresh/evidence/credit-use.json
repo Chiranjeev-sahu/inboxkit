@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-18",
+  "before_balance_source": "Parent independent free preflight, except local Findymail and BounceBan saved receipts. Parent reports no enrichment calls.",
+  "providers": [
+    {
+      "provider": "Datagma",
+      "before": 93,
+      "after": 90,
+      "finder_calls": 4,
+      "results": "3 Valid,1 NotFound",
+      "sum_reported_creditBurn": 3,
+      "account_delta": 3,
+      "note": "Per-finder currentCredit values91,91,89,89 differed from later account90; account balance delta reconciles reported burn. Do not use intermediate fields as exact live balance."
+    },
+    {
+      "provider": "Findymail",
+      "before_finder": 1,
+      "after_finder": 0,
+      "before_verifier": 3,
+      "after_verifier": 3,
+      "finder_calls": 1,
+      "note": "Sara named lookup succeeded; independent verifier rejected address. No verifier credit used."
+    },
+    {
+      "provider": "BounceBan",
+      "before": 100,
+      "after": 96,
+      "verification_calls": 5,
+      "sum_result_credits_consumed": 5,
+      "account_delta": 4,
+      "unresolved_discrepancy": 1,
+      "note": "All five receipts report credits_consumed1; account delta is4. No refund mechanism or exact settled total inferred. Four deliverable results,one undeliverable. Raw receipts retained."
+    },
+    {
+      "provider": "ZeroBounce",
+      "before": 89,
+      "after": 87,
+      "verification_calls": 2,
+      "account_delta": 2,
+      "note": "Extra initial checks despite clear BounceBan reflected ambiguous runbook instruction requesting second verifier when credits permit; not necessary for resolving those verdicts. Remaining checks stopped at clear BounceBan."
+    }
+  ],
+  "skipped": [
+    {
+      "provider": "Icypeas",
+      "reason": "Balance unconfirmed. Subscription route requires account email absent from clone. Parent subsequent authenticated attempt401. Not assumed zero; no lookup."
+    },
+    {
+      "provider": "Lusha",
+      "reason": "Parent free usage check0 remaining."
+    },
+    {
+      "provider": "Hunter",
+      "reason": "Parent free balance0 remaining."
+    },
+    {
+      "provider": "Apollo, Prospeo, Reoon, MillionVerifier",
+      "reason": "Not needed after available selected providers met lookup/verification rule; avoided exercise-only spend."
+    }
+  ],
+  "new_cash_spend": 0,
+  "total_reported_credits_consumed": 11,
+  "total_account_balance_debits": 10,
+  "note": "Credits are different provider units, not cash-equivalent cost. Retain unresolved BounceBan1 difference."
+}

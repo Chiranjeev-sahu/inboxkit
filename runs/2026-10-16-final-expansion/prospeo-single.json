@@ -1,0 +1,135 @@
+{
+  "error": false,
+  "person": {
+    "person_id": "aaaa623c3c07098f19d4ad4e",
+    "full_name": "Paul Clarke",
+    "linkedin_url": "https://www.linkedin.com/in/paulclarkeportsmouth",
+    "email": {
+      "status": "VERIFIED",
+      "revealed": true,
+      "email": "paul@renarapartners.com",
+      "verification_method": "SMTP",
+      "email_mx_provider": null
+    },
+    "current_job_title": "Co-Founder",
+    "job_history": [
+      {
+        "title": "Co-Founder",
+        "company_name": "Renara Partners",
+        "logo_url": "8b9a0213-d515-4f36-a690-12d6289b2215.jpg",
+        "current": true,
+        "start_year": 2026,
+        "start_month": 3,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 7,
+        "departments": [
+          "Founder"
+        ],
+        "seniority": "Founder/Owner",
+        "company_id": "cccc65a2e5afdd11b6387ded",
+        "job_key": "54285341"
+      },
+      {
+        "title": "Founder",
+        "company_name": "Proven Concept",
+        "logo_url": "deb71861-7a08-4efa-90f1-abd1b81ea377.jpg",
+        "current": true,
+        "start_year": 2012,
+        "start_month": 10,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 168,
+        "departments": [
+          "Founder"
+        ],
+        "seniority": "Founder/Owner",
+        "company_id": "ccccfee3b2d1886ca035a976",
+        "job_key": "60802717"
+      },
+      {
+        "title": "Marketing Analytics Specialist",
+        "company_name": "Lead Forensics",
+        "logo_url": "857703cf-2b01-4f83-9a0c-692fd3ffbcc9.jpg",
+        "current": false,
+        "start_year": 2010,
+        "start_month": 12,
+        "end_year": 2012,
+        "end_month": 10,
+        "duration_in_months": 22,
+        "departments": [],
+        "seniority": "Entry",
+        "company_id": "ccccf0255a31abea66b2fa37",
+        "job_key": "78638833"
+      },
+      {
+        "title": "Business Development Executive",
+        "company_name": "MarketMakers",
+        "logo_url": "4ef0f161-6d24-47bf-b8b3-777bffe6dc84.jpg",
+        "current": false,
+        "start_year": 2010,
+        "start_month": 4,
+        "end_year": 2010,
+        "end_month": 12,
+        "duration_in_months": 8,
+        "departments": [
+          "Sales Development"
+        ],
+        "seniority": "Entry",
+        "company_id": "ccccd7015a35a5e3807cb5f2",
+        "job_key": "19816208"
+      },
+      {
+        "title": "Commecial Marketing",
+        "company_name": "Layton Blackham",
+        "logo_url": null,
+        "current": false,
+        "start_year": 2003,
+        "start_month": 4,
+        "end_year": 2010,
+        "end_month": 3,
+        "duration_in_months": 83,
+        "departments": [],
+        "seniority": "Entry",
+        "company_id": "ccccb9e2725707ed3293ed5c",
+        "job_key": "8627427"
+      },
+      {
+        "title": "Marketing Manager",
+        "company_name": "Ocaso",
+        "logo_url": "1eadeecc-bb79-476e-9144-5ab9a992f310.jpg",
+        "current": false,
+        "start_year": 2001,
+        "start_month": 10,
+        "end_year": 2003,
+        "end_month": 4,
+        "duration_in_months": 18,
+        "departments": [],
+        "seniority": "Manager",
+        "company_id": "ccccac67c55677ba1a3062e0",
+        "job_key": "5987403"
+      },
+      {
+        "title": "Marketing Advisor",
+        "company_name": "Churchill Insurance",
+        "logo_url": null,
+        "current": false,
+        "start_year": 1998,
+        "start_month": 8,
+        "end_year": 2001,
+        "end_month": 10,
+        "duration_in_months": 38,
+        "departments": [
+          "Consultant"
+        ],
+        "seniority": "Entry",
+        "company_id": "cccce420746a72f97bcc5474",
+        "job_key": "14297355"
+      }
+    ]
+  },
+  "company": {
+    "name": "Renara Partners",
+    "website": "https://renarapartners.com"
+  }
+}

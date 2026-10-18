@@ -1,0 +1,11 @@
+{
+  "input_rows": 1,
+  "qualified_rows": 1,
+  "send_ready_rows": 1,
+  "alternate_email_domain_rows": 0,
+  "alternate_email_domain_review_rows": 0,
+  "verification_statuses": {
+    "valid": 1
+  },
+  "excluded_reasons": {}
+}

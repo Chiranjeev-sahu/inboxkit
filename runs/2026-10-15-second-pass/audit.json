@@ -1,0 +1,22 @@
+{
+  "input_rows": 107,
+  "qualified_rows": 100,
+  "send_ready_rows": 97,
+  "review_parked_rows": 3,
+  "research_reconciles": true,
+  "alternate_email_domain_rows": 8,
+  "alternate_email_domain_review_rows": 0,
+  "review_reasons": {
+    "Exact address matt@chiefleadofficer.com is finder-sourced but not publicly corroborated on inspected company/contact/about/privacy pages. Buyer role and domain confirmed; exact person-to-mailbox link remains missing.": 1,
+    "Conflicting clear verifier results: Findymail verified=true; ZeroBounce invalid/does_not_accept_mail, mx_found=false. Resolve current mailbox/domain routing before promotion.": 1,
+    "Exact address eozcanli@caliberoutbound.com is finder-sourced but not publicly corroborated on inspected company/contact/about/privacy pages. Buyer role and domain confirmed; exact person-to-mailbox link remains missing.": 1
+  },
+  "verification_statuses": {
+    "valid": 99,
+    "unknown": 1
+  },
+  "excluded_reasons": {
+    "qualification_rejected": 2,
+    "qualification_uncertain": 5
+  }
+}

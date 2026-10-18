@@ -1,0 +1,39 @@
+[
+  {
+    "provider": "Datagma",
+    "endpoint": "https://gateway.datagma.net/api/ingress/v1/mine",
+    "http_status": 200,
+    "response": {
+      "currentCredit": "90"
+    },
+    "date": "2026-10-18T06:10:44.267971+00:00"
+  },
+  {
+    "provider": "BounceBan",
+    "endpoint": "https://api.bounceban.com/v1/account",
+    "http_status": 200,
+    "response": {
+      "available_credits": 96
+    },
+    "date": "2026-10-18T06:10:44.062393+00:00"
+  },
+  {
+    "provider": "ZeroBounce",
+    "endpoint": "https://api.zerobounce.net/v2/getcredits",
+    "http_status": 200,
+    "response": {
+      "Credits": "87"
+    },
+    "date": "2026-10-18T06:10:43.533420+00:00"
+  },
+  {
+    "provider": "Findymail",
+    "endpoint": "https://app.findymail.com/api/credits",
+    "http_status": 200,
+    "response": {
+      "credits": 0,
+      "verifier_credits": 3
+    },
+    "date": "2026-10-18T06:10:43.901892+00:00"
+  }
+]

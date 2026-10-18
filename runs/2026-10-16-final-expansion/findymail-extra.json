@@ -1,0 +1,104 @@
+[
+  {
+    "query_name": "Joseph Flanagan",
+    "query_domain": "acquirent.com",
+    "result": {
+      "contact": {
+        "id": 307414152,
+        "name": "Joseph Flanagan",
+        "email": "jpflanagan@acquirent.com",
+        "domain": "acquirent.com",
+        "company": "JP Flanagan Enteprise",
+        "linkedin_url": "https://www.linkedin.com/in/josephpflanagan",
+        "job_title": "Growth Partner",
+        "company_city": "Evanston",
+        "company_region": "IL",
+        "company_country": "United States",
+        "city": "Evanston",
+        "region": "Illinois",
+        "country": "United States"
+      }
+    }
+  },
+  {
+    "query_name": "Vedarth Deshpande",
+    "query_domain": "socinova.com",
+    "result": {
+      "contact": {
+        "email": null,
+        "name": "Vedarth Deshpande",
+        "domain": null,
+        "linkedin_url": null,
+        "company": "",
+        "job_title": "",
+        "company_city": "",
+        "company_region": "",
+        "company_country": "",
+        "city": null,
+        "region": null,
+        "country": null
+      }
+    }
+  },
+  {
+    "query_name": "Kyley Cheever",
+    "query_domain": "honeyleads.io",
+    "result": {
+      "contact": {
+        "email": null,
+        "name": "Kyley Cheever",
+        "domain": null,
+        "linkedin_url": null,
+        "company": "",
+        "job_title": "",
+        "company_city": "",
+        "company_region": "",
+        "company_country": "",
+        "city": null,
+        "region": null,
+        "country": null
+      }
+    }
+  },
+  {
+    "query_name": "Ryan Alexander Hennesy",
+    "query_domain": "lead-buds.com",
+    "result": {
+      "contact": {
+        "email": null,
+        "name": "Ryan Alexander Hennesy",
+        "domain": null,
+        "linkedin_url": null,
+        "company": "",
+        "job_title": "",
+        "company_city": "",
+        "company_region": "",
+        "company_country": "",
+        "city": null,
+        "region": null,
+        "country": null
+      }
+    }
+  },
+  {
+    "query_name": "Efe Ozcanli",
+    "query_domain": "caliberoutbound.com",
+    "result": {
+      "contact": {
+        "email": "eozcanli@caliberoutbound.com",
+        "name": "Efe Ozcanli",
+        "domain": "caliberoutbound.com",
+        "linkedin_url": null,
+        "company": "",
+        "job_title": "",
+        "company_city": "",
+        "company_region": "",
+        "company_country": "",
+        "city": null,
+        "region": null,
+        "country": null,
+        "id": 1791086660
+      }
+    }
+  }
+]

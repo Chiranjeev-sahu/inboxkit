@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "items": [
+    {
+      "name": "InboxKit final two credits.xlsx",
+      "file": "VxMURaEBGkhls2Oo57gg",
+      "results": {
+        "firstname": "Nicklas",
+        "lastname": "Kather",
+        "gender": "UNKNOWN",
+        "fullname": "Nicklas Kather",
+        "li": "",
+        "emails": [],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 0,
+      "status": "NOT_FOUND",
+      "system": {
+        "createdAt": "2026-10-16T14:19:20.329Z",
+        "modifiedAt": "2026-10-16T14:19:23.970Z"
+      },
+      "_id": "VxMURaEBGkhls2Oo57gg-0"
+    },
+    {
+      "name": "InboxKit final two credits.xlsx",
+      "file": "VxMURaEBGkhls2Oo57gg",
+      "results": {
+        "firstname": "Vedarth",
+        "lastname": "Deshpande",
+        "gender": "UNKNOWN",
+        "fullname": "Vedarth Deshpande",
+        "li": "",
+        "emails": [],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 1,
+      "status": "NOT_FOUND",
+      "system": {
+        "createdAt": "2026-10-16T14:19:20.359Z",
+        "modifiedAt": "2026-10-16T14:19:25.258Z"
+      },
+      "_id": "VxMURaEBGkhls2Oo57gg-1"
+    }
+  ],
+  "sorts": [
+    [
+      0,
+      "36c5e0edcc164272a700638a47a729d9a45f0941bc37464aae03248bc31f077e"
+    ],
+    [
+      1,
+      "f8eb2fccb500498e93ed4060c8dff2b96079f7939de74d4c8ce9b1459b9e6de3"
+    ]
+  ],
+  "total": 2
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "email": "zznonexistent-test-9f4c28d17a@grundwerk.digital",
+    "control_type": "invented_same_accept_all_domain",
+    "bounceban": {
+      "result": "undeliverable",
+      "status": "success",
+      "score": 0,
+      "is_accept_all": true,
+      "credits_consumed": 1,
+      "credits_remaining": 94
+    },
+    "icypeas": {
+      "status": "NOT_FOUND",
+      "emails": [],
+      "http_error": null,
+      "detail": null
+    }
+  },
+  {
+    "email": "max@newlead.io",
+    "control_type": "previously_valid",
+    "bounceban": {
+      "result": "deliverable",
+      "status": "success",
+      "score": 99,
+      "is_accept_all": false,
+      "credits_consumed": 1,
+      "credits_remaining": 93
+    },
+    "icypeas": {
+      "status": "NOT_FOUND",
+      "emails": [],
+      "http_error": null,
+      "detail": null
+    }
+  }
+]

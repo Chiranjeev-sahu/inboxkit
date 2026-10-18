@@ -1,0 +1,45 @@
+[
+  {
+    "query_name": "Aaron Gusinov",
+    "query_domain": "leadforce.solutions",
+    "person_id": "aaaa55f98e4a6053a8b735b2",
+    "email": {
+      "status": "VERIFIED",
+      "revealed": true,
+      "email": "aaron@leadforce.solutions",
+      "verification_method": "SMTP",
+      "email_mx_provider": null
+    },
+    "name": "Aaron Gusinov",
+    "linkedin_url": "https://www.linkedin.com/in/aaron-gusinov",
+    "company_name": "LeadForce Solutions",
+    "company_website": "https://leadforce.solutions",
+    "title": "Founder & CEO",
+    "error": false,
+    "error_code": null
+  },
+  {
+    "query_name": "Rassim Ruwaiz",
+    "query_domain": "leadable.io",
+    "person_id": "aaaa5d0722ae1f8bed9dee0d",
+    "email": {
+      "status": "VERIFIED",
+      "revealed": true,
+      "email": "rassim@leadable.io",
+      "verification_method": "SMTP",
+      "email_mx_provider": "Google"
+    },
+    "name": "Rassim Ruwaiz",
+    "linkedin_url": "https://www.linkedin.com/in/rassimruwaiz",
+    "company_name": "Leadable",
+    "company_website": "https://leadable.io",
+    "title": "Head of Operations",
+    "error": false,
+    "error_code": null
+  },
+  {
+    "query_name": "Joseph Flanagan",
+    "query_domain": "acquirent.com",
+    "status": 400
+  }
+]

@@ -1,0 +1,6 @@
+company,domain,disposition,fit_source,signal_source,reason
+Surfe,surfe.com,signal_uncertain,https://www.surfe.com/use-case/sales,,B2B prospecting product fits; examined product and SDR advice pages did not establish Surfe own outbound activity. No enrichment spent.
+Saleshandy,saleshandy.com,fit_and_signal,https://www.saleshandy.com/,https://www.linkedin.com/posts/dhruvikigai_our-sdrs-use-saleshandy-to-sell-saleshandy-activity-7469322100307046400-PQ_D,"Broad ICP fits, but commercially parked because its own sending infrastructure offering overlaps InboxKit."
+Salesforge,salesforge.ai,fit_and_signal,https://www.salesforge.ai/stack,https://www.salesforge.ai/blog/ai-sales-automation,"Broad ICP fits, but commercially parked because owns sending infrastructure suite."
+HockeyStack,hockeystack.com,fit_and_signal,https://www.hockeystack.com/,https://www.hockeystack.com/resources/playbook/how-we-started-outbound,"Accepted with verified founder buyer. Own outbound email sequences, software product, no sending infrastructure sales found."
+UserGems,usergems.com,fit_and_signal,https://www.usergems.com/,https://www.usergems.com/playbooks/boost-your-outbound-reply-rates,Accepted with verified founder buyer after invalid ADR leader address. Buyer intelligence/orchestration product alongside sequencers; no sending infrastructure sales found.

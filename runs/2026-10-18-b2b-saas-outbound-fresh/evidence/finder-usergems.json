@@ -1,0 +1,35 @@
+{
+  "provider": "Datagma",
+  "endpoint": "https://gateway.datagma.net/api/ingress/v8/findEmail",
+  "query": {
+    "fullName": "Sara Angell",
+    "company": "usergems.com"
+  },
+  "http_status": 200,
+  "response": {
+    "email": null,
+    "emailDomain": "usergems.com",
+    "status": "NotFound",
+    "patterns": [],
+    "mxfound": null,
+    "smtpCheck": null,
+    "cachAll": null,
+    "mostProbableEmail": [],
+    "flags": [],
+    "correlationId": "fbccf708d70bba9e4757783e9529bf61",
+    "explanation": "",
+    "mailboxQuotaExceeded": "",
+    "mailboxNotFound": "",
+    "possibleTrap": "",
+    "globalSuppression": "",
+    "greylisted": "",
+    "mailServerDidNotRespond": "",
+    "unroutableIpAddress": "",
+    "alternate": "",
+    "smtpProvider": "",
+    "mxRecord": "",
+    "creditBurn": "0",
+    "currentCredit": "89"
+  },
+  "date": "2026-10-18T06:07:23.982631+00:00"
+}

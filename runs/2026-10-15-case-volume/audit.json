@@ -1,0 +1,11 @@
+{
+  "input_rows": 3,
+  "qualified_rows": 1,
+  "send_ready_rows": 0,
+  "verification_statuses": {
+    "catch_all": 1
+  },
+  "excluded_reasons": {
+    "missing_required_field": 2
+  }
+}

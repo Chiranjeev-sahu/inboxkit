@@ -1,0 +1,15 @@
+{
+  "final_rows": 100,
+  "distinct_companies": 100,
+  "distinct_emails": 100,
+  "send_ready": 92,
+  "missing_required_cells": 0,
+  "batch_dispositions": {
+    "accepted": 37,
+    "held": 3
+  },
+  "final_verification_statuses": {
+    "valid": 100
+  },
+  "first_lines_with_banned_dashes": 0
+}

@@ -1,0 +1,144 @@
+[
+  {
+    "query_domain": "knkoutbound.com",
+    "query_name": "Nicklas Kather",
+    "result": {
+      "contact": {
+        "email": null,
+        "name": "Nicklas Kather",
+        "domain": null,
+        "linkedin_url": null,
+        "company": "",
+        "job_title": "",
+        "company_city": "",
+        "company_region": "",
+        "company_country": "",
+        "city": null,
+        "region": null,
+        "country": null
+      }
+    }
+  },
+  {
+    "query_domain": "caliberoutbound.com",
+    "query_name": "Kerim Efe Ozcanli",
+    "result": {
+      "contact": {
+        "email": null,
+        "name": "Kerim Efe Ozcanli",
+        "domain": null,
+        "linkedin_url": null,
+        "company": "",
+        "job_title": "",
+        "company_city": "",
+        "company_region": "",
+        "company_country": "",
+        "city": null,
+        "region": null,
+        "country": null
+      }
+    }
+  },
+  {
+    "query_domain": "tektonscale.com",
+    "query_name": "Matt Dittmeier",
+    "result": {
+      "contact": {
+        "email": "matt@gotektonscale.com",
+        "name": "Matt Dittmeier",
+        "domain": "gotektonscale.com",
+        "linkedin_url": null,
+        "company": "",
+        "job_title": "",
+        "company_city": "",
+        "company_region": "",
+        "company_country": "",
+        "city": null,
+        "region": null,
+        "country": null,
+        "id": 1791082040
+      }
+    }
+  },
+  {
+    "query_domain": "trigacy.com",
+    "query_name": "Vedarth Deshpande",
+    "result": {
+      "contact": {
+        "email": null,
+        "name": "Vedarth Deshpande",
+        "domain": null,
+        "linkedin_url": null,
+        "company": "",
+        "job_title": "",
+        "company_city": "",
+        "company_region": "",
+        "company_country": "",
+        "city": null,
+        "region": null,
+        "country": null
+      }
+    }
+  },
+  {
+    "query_domain": "honeyleads.io",
+    "query_name": "Kyley Cheever",
+    "result": {
+      "contact": {
+        "email": null,
+        "name": "Kyley Cheever",
+        "domain": null,
+        "linkedin_url": null,
+        "company": "",
+        "job_title": "",
+        "company_city": "",
+        "company_region": "",
+        "company_country": "",
+        "city": null,
+        "region": null,
+        "country": null
+      }
+    }
+  },
+  {
+    "query_domain": "jumpcrew.com",
+    "query_name": "Robert Henderson",
+    "result": {
+      "contact": {
+        "id": 1097627353,
+        "name": "Robert Henderson",
+        "email": "r.henderson@jumpcrew.com",
+        "domain": "jumpcrew.com",
+        "company": "IQor",
+        "linkedin_url": "https://www.linkedin.com/in/robert-henderson-0a7a0b39",
+        "job_title": "Executive Vice President - Growth As A Service",
+        "company_city": "Nashville",
+        "company_region": "Tennessee",
+        "company_country": "United States",
+        "city": "Nashville",
+        "region": "Tennessee",
+        "country": "United States"
+      }
+    }
+  },
+  {
+    "query_domain": "omrafols.com",
+    "query_name": "Om Rafols",
+    "result": {
+      "contact": {
+        "email": null,
+        "name": "Om Rafols",
+        "domain": null,
+        "linkedin_url": null,
+        "company": "",
+        "job_title": "",
+        "company_city": "",
+        "company_region": "",
+        "company_country": "",
+        "city": null,
+        "region": null,
+        "country": null
+      }
+    }
+  }
+]

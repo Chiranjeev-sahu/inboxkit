@@ -1,0 +1,2 @@
+name,title,company,domain,linkedin_url,email,verification_status,qualification_status,signal,signal_source,fit_source,first_line,first_line_source
+Keep Contact,Founder,Keep Agency,keep.example,https://linkedin.com/in/keep,keep@keep.example,valid,qualified,dated client case,https://example.com/case,https://example.com/service,I read your client case.,https://example.com/case

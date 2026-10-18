@@ -1,0 +1,256 @@
+{
+  "success": true,
+  "items": [
+    {
+      "name": "InboxKit final agency expansion part two.xlsx",
+      "file": "FnAJRaEBCbxKvSBEhOos",
+      "results": {
+        "firstname": "Rob",
+        "lastname": "Harlow",
+        "gender": "UNKNOWN",
+        "fullname": "Rob Harlow",
+        "li": "",
+        "emails": [
+          {
+            "email": "rob@sopro.io",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "google.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 0,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:06:54.127Z",
+        "modifiedAt": "2026-10-16T14:06:57.560Z"
+      },
+      "_id": "FnAJRaEBCbxKvSBEhOos-0"
+    },
+    {
+      "name": "InboxKit final agency expansion part two.xlsx",
+      "file": "FnAJRaEBCbxKvSBEhOos",
+      "results": {
+        "firstname": "Eric",
+        "lastname": "Nowoslawski",
+        "gender": "UNKNOWN",
+        "fullname": "Eric Nowoslawski",
+        "li": "",
+        "emails": [
+          {
+            "email": "eric@growthenginex.com",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "google.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 1,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:06:54.174Z",
+        "modifiedAt": "2026-10-16T14:06:57.958Z"
+      },
+      "_id": "FnAJRaEBCbxKvSBEhOos-1"
+    },
+    {
+      "name": "InboxKit final agency expansion part two.xlsx",
+      "file": "FnAJRaEBCbxKvSBEhOos",
+      "results": {
+        "firstname": "Robert",
+        "lastname": "Indries",
+        "gender": "UNKNOWN",
+        "fullname": "Robert Indries",
+        "li": "",
+        "emails": [
+          {
+            "email": "robert.indries@x27marketing.com",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "google.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 2,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:06:54.296Z",
+        "modifiedAt": "2026-10-16T14:06:57.627Z"
+      },
+      "_id": "FnAJRaEBCbxKvSBEhOos-2"
+    },
+    {
+      "name": "InboxKit final agency expansion part two.xlsx",
+      "file": "FnAJRaEBCbxKvSBEhOos",
+      "results": {
+        "firstname": "Andy",
+        "lastname": "Groves",
+        "gender": "UNKNOWN",
+        "fullname": "Andy Groves",
+        "li": "",
+        "emails": [
+          {
+            "email": "andy@agquantumgroupltd.com",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "google.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 3,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:06:54.342Z",
+        "modifiedAt": "2026-10-16T14:06:58.626Z"
+      },
+      "_id": "FnAJRaEBCbxKvSBEhOos-3"
+    },
+    {
+      "name": "InboxKit final agency expansion part two.xlsx",
+      "file": "FnAJRaEBCbxKvSBEhOos",
+      "results": {
+        "firstname": "Simon",
+        "lastname": "Kronberg",
+        "gender": "UNKNOWN",
+        "fullname": "Simon Kronberg",
+        "li": "",
+        "emails": [
+          {
+            "email": "simon@khrown.com",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "google.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 4,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:06:54.389Z",
+        "modifiedAt": "2026-10-16T14:06:58.111Z"
+      },
+      "_id": "FnAJRaEBCbxKvSBEhOos-4"
+    },
+    {
+      "name": "InboxKit final agency expansion part two.xlsx",
+      "file": "FnAJRaEBCbxKvSBEhOos",
+      "results": {
+        "firstname": "Asfand",
+        "lastname": "Rafiq",
+        "gender": "UNKNOWN",
+        "fullname": "Asfand Rafiq",
+        "li": "",
+        "emails": [
+          {
+            "email": "asfand@weegrow.co",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "google.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 5,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:06:54.433Z",
+        "modifiedAt": "2026-10-16T14:06:56.486Z"
+      },
+      "_id": "FnAJRaEBCbxKvSBEhOos-5"
+    },
+    {
+      "name": "InboxKit final agency expansion part two.xlsx",
+      "file": "FnAJRaEBCbxKvSBEhOos",
+      "results": {
+        "firstname": "Daniel",
+        "lastname": "Grinshpun",
+        "gender": "UNKNOWN",
+        "fullname": "Daniel Grinshpun",
+        "li": "",
+        "emails": [
+          {
+            "email": "daniel@saasgrowthagency.com",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "google.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 6,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:06:54.477Z",
+        "modifiedAt": "2026-10-16T14:06:57.683Z"
+      },
+      "_id": "FnAJRaEBCbxKvSBEhOos-6"
+    },
+    {
+      "name": "InboxKit final agency expansion part two.xlsx",
+      "file": "FnAJRaEBCbxKvSBEhOos",
+      "results": {
+        "firstname": "Steven",
+        "lastname": "Haggerty",
+        "gender": "UNKNOWN",
+        "fullname": "Steven Haggerty",
+        "li": "",
+        "emails": [
+          {
+            "email": "steven@growleady.io",
+            "certainty": "ultra_sure",
+            "mxRecords": [
+              "google.com"
+            ],
+            "mxProvider": "google"
+          }
+        ],
+        "phones": [],
+        "saasServices": []
+      },
+      "order": 7,
+      "status": "DEBITED",
+      "system": {
+        "createdAt": "2026-10-16T14:06:54.524Z",
+        "modifiedAt": "2026-10-16T14:06:58.237Z"
+      },
+      "_id": "FnAJRaEBCbxKvSBEhOos-7"
+    }
+  ],
+  "sorts": [
+    [
+      0,
+      "f03a395e342345fdbc02b97d5d75c3c160d1236291774b2e812db50ba3d745dc"
+    ],
+    [
+      7,
+      "e08d083582e84b51b1f2468fed779dbc74b52c6f90c24cc184cf0f23bbba7c2d"
+    ]
+  ],
+  "total": 8
+}

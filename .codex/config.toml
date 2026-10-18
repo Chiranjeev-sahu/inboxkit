@@ -1,0 +1,34 @@
+# InboxKit provider MCPs. Authentication is per operator and is never committed.
+# Connections alone do not spend provider credits; individual tools may.
+
+[mcp_servers.exa]
+url = "https://mcp.exa.ai/mcp"
+default_tools_approval_mode = "writes"
+
+[mcp_servers.firecrawl]
+url = "https://mcp.firecrawl.dev/v2/mcp-oauth"
+default_tools_approval_mode = "writes"
+
+[mcp_servers.tavily]
+url = "https://mcp.tavily.com/mcp/"
+default_tools_approval_mode = "writes"
+
+[mcp_servers.apollo]
+url = "https://mcp.apollo.io/mcp"
+default_tools_approval_mode = "writes"
+
+[mcp_servers.prospeo]
+url = "https://mcp.prospeo.io"
+default_tools_approval_mode = "writes"
+
+[mcp_servers.hunter]
+url = "https://mcp.hunter.io/mcp"
+default_tools_approval_mode = "writes"
+
+[mcp_servers.findymail]
+url = "https://mcp.findymail.com/mcp"
+default_tools_approval_mode = "writes"
+
+[mcp_servers.zerobounce]
+url = "https://oauth-mcp.zerobounce.net/mcp"
+default_tools_approval_mode = "writes"

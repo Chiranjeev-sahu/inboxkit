@@ -1,0 +1,11 @@
+company,name,domain,known_email,known_email_source,icypeas_found_email,icypeas_finder_status,icypeas_finder_certainty,icypeas_exact_match,datagma_found_email,datagma_status,datagma_exact_match,datagma_credit_burn,icypeas_verification_status,icypeas_verification_certainty,bounceban_result,bounceban_score,bounceban_is_accept_all
+OneGTM,Garrett Wolfe,getaob.com,gw@getaob.com,https://getaob.com/how-i-work,,NOT_FOUND,,False,,NotFound,False,0,FOUND,ultra_sure,deliverable,97,True
+Sparklead,Alexan Zartarian,sparkleadgo.com,alexan@sparkleadgo.com,https://link.me/alexanzartarian,alexan@sparkleadgo.com,FOUND,ultra_sure,True,alexan@sparkleadgo.com,Valid,True,1,FOUND,ultra_sure,deliverable,97,True
+LeadRoad,Nikhil Tundurwar,leadroad.io,nikhil@leadroad.io,Findymail,nikhil@leadroad.io,FOUND,ultra_sure,True,,NotFound,False,0,FOUND,ultra_sure,deliverable,97,True
+StackOptimise,Felix Frank,stackoptimise.com,felix@stackoptimise.com,https://www.stackoptimise.com/about-us,felix@stackoptimise.com,FOUND,ultra_sure,True,felix@stackoptimise.com,Valid,True,1,FOUND,ultra_sure,deliverable,97,True
+RevenueFlow,Tim Carden,revenueflow.com,tim@revenueflow.com,Hunter Email Finder,tim@revenueflow.com,FOUND,ultra_sure,True,tim@revenueflow.com,Valid,True,1,FOUND,ultra_sure,deliverable,97,True
+Groundswell,Charlie Brown,groundswellgtm.com,charlie@groundswellgtm.com,Hunter Email Finder,charlie@groundswellgtm.com,FOUND,ultra_sure,True,charlie@groundswellgtm.com,Valid,True,1,FOUND,ultra_sure,deliverable,97,True
+BuiltDiffernt,David Sinclair-Black,builtdiffernt.com,david@builtdiffernt.com,Findymail,david@builtdiffernt.com,FOUND,ultra_sure,True,,NotFound,False,0,FOUND,ultra_sure,deliverable,97,True
+Lead Gen Jay,Jay Feldman,leadgenjay.com,jay@leadgenjay.com,Findymail in 2026-10-15 sourcing pilot,jay@leadgenjay.com,FOUND,ultra_sure,True,,NotFound,False,0,FOUND,ultra_sure,deliverable,97,True
+Outreachify,Harshbir Singh,outreachify.io,harsh@outreachify.io,Lusha work-email reveal 2026-10-15,,NOT_FOUND,,False,,NotFound,False,0,FOUND,ultra_sure,deliverable,97,True
+Nordic Nexuz,Kasper Hallberg,nordicnexuz.com,kasper@nordicnexuz.com,https://community.clay.com/members/2ca3fad6-f279-4b07-83fc-d12fc34fb690,kasper@nordicnexuz.com,FOUND,ultra_sure,True,kasper@nordicnexuz.com,Valid,True,1,FOUND,ultra_sure,deliverable,97,True

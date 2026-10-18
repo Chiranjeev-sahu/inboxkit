@@ -1,0 +1,23 @@
+{
+  "icypeas_before_final_fallback": {
+    "credits": 5.300001,
+    "plan": "free"
+  },
+  "prospeo_at_check": {
+    "remaining_credits": 97,
+    "plan": "FREE"
+  },
+  "findymail_at_check": {
+    "finder_credits": 7,
+    "verifier_credits": 10
+  },
+  "lusha_at_check": {
+    "credits": 2
+  },
+  "bounceban_start": 35,
+  "bounceban_end": 0,
+  "apollo_connected_account_at_check": {
+    "lead_credits": 185,
+    "enrichment_performed": false
+  }
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "company": "Chief Lead Officer",
+    "requested_email": "matt@chiefleadofficer.com",
+    "provider": "ZeroBounce",
+    "result": {
+      "address": "matt@chiefleadofficer.com",
+      "status": "valid",
+      "sub_status": "",
+      "catchall_domain": false,
+      "free_email": false,
+      "domain": "chiefleadofficer.com",
+      "smtp_provider": "g-suite",
+      "mx_found": "true",
+      "mx_record": "aspmx.l.google.com",
+      "processed_at": "2026-10-16 17:55:27.619"
+    }
+  },
+  {
+    "company": "Leadowski",
+    "requested_email": "bohdan@leadowski.io",
+    "provider": "ZeroBounce",
+    "result": {
+      "address": "bohdan@leadowski.io",
+      "status": "invalid",
+      "sub_status": "does_not_accept_mail",
+      "catchall_domain": null,
+      "free_email": false,
+      "domain": "leadowski.io",
+      "smtp_provider": "",
+      "mx_found": "false",
+      "mx_record": null,
+      "processed_at": "2026-10-16 17:55:27.590"
+    }
+  },
+  {
+    "company": "KNK Outbound",
+    "requested_email": "kenneth@knkoutbound.com",
+    "provider": "ZeroBounce",
+    "result": {
+      "address": "kenneth@knkoutbound.com",
+      "status": "valid",
+      "sub_status": "",
+      "catchall_domain": true,
+      "free_email": false,
+      "domain": "knkoutbound.com",
+      "smtp_provider": "g-suite",
+      "mx_found": "true",
+      "mx_record": "aspmx.l.google.com",
+      "processed_at": "2026-10-16 17:55:27.618"
+    }
+  },
+  {
+    "company": "Caliber Outbound",
+    "requested_email": "eozcanli@caliberoutbound.com",
+    "provider": "ZeroBounce",
+    "result": {
+      "address": "eozcanli@caliberoutbound.com",
+      "status": "valid",
+      "sub_status": "",
+      "catchall_domain": false,
+      "free_email": false,
+      "domain": "caliberoutbound.com",
+      "smtp_provider": "g-suite",
+      "mx_found": "true",
+      "mx_record": "aspmx.l.google.com",
+      "processed_at": "2026-10-16 17:55:27.630"
+    }
+  }
+]

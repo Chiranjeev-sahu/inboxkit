@@ -1,0 +1,35 @@
+{
+  "prior_rows_checked": 333,
+  "contacts": [
+    {
+      "name": "Dhruv Patel",
+      "email": "dhruv.p@saleshandy.com",
+      "domain": "saleshandy.com",
+      "prior_email_or_company_matches": []
+    },
+    {
+      "name": "Frank Sondors",
+      "email": "f@salesforge.ai",
+      "domain": "salesforge.ai",
+      "prior_email_or_company_matches": []
+    },
+    {
+      "name": "Sara Angell",
+      "email": "sara.angell@usergems.com",
+      "domain": "usergems.com",
+      "prior_email_or_company_matches": []
+    },
+    {
+      "name": "Bu\u011fra G\u00fcnd\u00fcz",
+      "email": "bugra@hockeystack.com",
+      "domain": "hockeystack.com",
+      "prior_email_or_company_matches": []
+    },
+    {
+      "name": "Christian Kletzl",
+      "email": "christian.kletzl@usergems.com",
+      "domain": "usergems.com",
+      "prior_email_or_company_matches": []
+    }
+  ]
+}

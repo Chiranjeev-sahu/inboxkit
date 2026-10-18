@@ -1,0 +1,13 @@
+{
+  "input_rows": 25,
+  "qualified_rows": 20,
+  "send_ready_rows": 3,
+  "verification_statuses": {
+    "catch_all": 17,
+    "valid": 3
+  },
+  "excluded_reasons": {
+    "qualification_rejected": 2,
+    "qualification_uncertain": 3
+  }
+}

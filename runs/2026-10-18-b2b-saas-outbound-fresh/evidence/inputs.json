@@ -1,0 +1,13 @@
+{
+  "icp": "B2B SaaS companies running an outbound sales motion",
+  "target_companies": 2,
+  "target_contacts_per_company": 1,
+  "date": "2026-10-18",
+  "fit_rule": "First-party public page establishes a B2B software product offered to business teams.",
+  "signal_rule": "First-party company or named founder source explicitly establishes the company itself runs outbound prospecting, publishes its own outbound campaign results, or hires a role to run its outbound sales motion. Product features and customer campaign examples alone do not qualify.",
+  "buyer_rule": "Revenue/growth/sales operations owner or founder with a public connection to outbound strategy and plausible sending-infrastructure influence. Record inference separately from proven ownership.",
+  "recency_rule": "Record visible dates; no arbitrary cutoff. Undated or relative-only dates are not recent claims.",
+  "constraints": "Two distinct net-new contacts; no agency client-service requirement; $0 additional cash; draft only; no imports or CRM/list writes; no installs/reconfiguration; existing agency files untouched.",
+  "source_revision": "525c396",
+  "rule_declared_before_search": true
+}

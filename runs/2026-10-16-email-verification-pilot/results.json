@@ -1,0 +1,104 @@
+[
+  {
+    "company": "Grundwerk Digital",
+    "email": "tom.schiller@grundwerk.digital",
+    "bounceban": {
+      "result": "deliverable",
+      "score": 97,
+      "is_accept_all": true,
+      "credits_consumed": 1
+    },
+    "icypeas": {
+      "status": "FOUND",
+      "certainty": "ultra_sure"
+    }
+  },
+  {
+    "company": "Snipe Outbound",
+    "email": "leon@snipeoutbound.com",
+    "bounceban": {
+      "result": "deliverable",
+      "status": "success",
+      "score": 97,
+      "is_accept_all": true,
+      "credits_consumed": 1,
+      "credits_remaining": 98
+    },
+    "icypeas": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "leon@snipeoutbound.com",
+          "certainty": "ultra_sure"
+        }
+      ]
+    }
+  },
+  {
+    "company": "David & Goliath",
+    "email": "jmorrow@davidandgoliath.ai",
+    "bounceban": {
+      "result": "deliverable",
+      "status": "success",
+      "score": 97,
+      "is_accept_all": true,
+      "credits_consumed": 1,
+      "credits_remaining": 97
+    },
+    "icypeas": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "jmorrow@davidandgoliath.ai",
+          "certainty": "ultra_sure"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Shields Outbound",
+    "email": "james@shieldsoutbound.com",
+    "bounceban": {
+      "result": "deliverable",
+      "status": "success",
+      "score": 97,
+      "is_accept_all": true,
+      "credits_consumed": 1,
+      "credits_remaining": 96
+    },
+    "icypeas": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "james@shieldsoutbound.com",
+          "certainty": "ultra_sure"
+        }
+      ]
+    }
+  },
+  {
+    "company": "VelocityFlow",
+    "email": "anthonyg@velocityflow.co",
+    "bounceban": {
+      "result": "deliverable",
+      "status": "success",
+      "score": 97,
+      "is_accept_all": true,
+      "credits_consumed": 1,
+      "credits_remaining": 95
+    },
+    "icypeas": {
+      "status": "FOUND",
+      "success": true,
+      "emails": [
+        {
+          "email": "anthonyg@velocityflow.co",
+          "certainty": "ultra_sure"
+        }
+      ]
+    }
+  }
+]

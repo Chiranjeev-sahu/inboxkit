@@ -1,0 +1,30 @@
+{
+  "provider": "BounceBan",
+  "endpoint": "https://api.bounceban.com/v1/verify/single",
+  "email": "dhruv.p@saleshandy.com",
+  "http_status": 200,
+  "response": {
+    "credits_consumed": 1,
+    "credits_remaining": 98,
+    "email": "dhruv.p@saleshandy.com",
+    "id": "n7j-8cbf3830",
+    "is_accept_all": false,
+    "is_disposable": false,
+    "is_free": false,
+    "is_role": false,
+    "mode": "regular",
+    "mx_records": [
+      "aspmx.l.google.com",
+      "alt2.aspmx.l.google.com",
+      "alt1.aspmx.l.google.com",
+      "alt3.aspmx.l.google.com",
+      "alt4.aspmx.l.google.com"
+    ],
+    "result": "deliverable",
+    "score": 99,
+    "smtp_provider": "Google",
+    "status": "success",
+    "verify_at": "2026-10-18T06:05:41.377Z"
+  },
+  "date": "2026-10-18T06:05:40.505663+00:00"
+}

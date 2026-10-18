@@ -1,0 +1,32 @@
+[
+  {
+    "email": "eozcanli@caliberoutbound.com",
+    "verified": true,
+    "provider": "Google"
+  },
+  {
+    "email": "matt@mattbauman.me",
+    "verified": false,
+    "provider": ""
+  },
+  {
+    "email": "bohdan@leadowski.io",
+    "verified": true,
+    "provider": ""
+  },
+  {
+    "email": "kyley@honeyleads.io",
+    "verified": false,
+    "provider": "Google"
+  },
+  {
+    "email": "kenneth@knkoutbound.com",
+    "verified": true,
+    "provider": "Google"
+  },
+  {
+    "email": "matt@chiefleadofficer.com",
+    "verified": true,
+    "provider": "Google"
+  }
+]

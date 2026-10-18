@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Shields Outbound",
+    "name": "James Shields",
+    "email": "james@shieldsoutbound.com",
+    "status": "Valid",
+    "cachAll": null,
+    "smtpCheck": null,
+    "creditBurn": "1",
+    "currentCredit": "98"
+  },
+  {
+    "company": "Grundwerk Digital",
+    "name": "Tom Soto Schiller",
+    "email": "tom.schiller@grundwerk.digital",
+    "status": "Valid",
+    "cachAll": null,
+    "smtpCheck": null,
+    "creditBurn": "1",
+    "currentCredit": "97"
+  },
+  {
+    "company": "David & Goliath",
+    "name": "Josh Morrow",
+    "email": null,
+    "status": "NotFound",
+    "cachAll": null,
+    "smtpCheck": null,
+    "creditBurn": "0",
+    "currentCredit": "96"
+  },
+  {
+    "company": "VelocityFlow",
+    "name": "Anthony Garcia",
+    "email": null,
+    "status": "NotFound",
+    "cachAll": null,
+    "smtpCheck": null,
+    "creditBurn": "0",
+    "currentCredit": "96"
+  }
+]

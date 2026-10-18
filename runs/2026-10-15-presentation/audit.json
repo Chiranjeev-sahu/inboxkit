@@ -1,0 +1,14 @@
+{
+  "input_rows": 30,
+  "qualified_rows": 25,
+  "send_ready_rows": 4,
+  "alternate_email_domain_rows": 2,
+  "verification_statuses": {
+    "catch_all": 21,
+    "valid": 4
+  },
+  "excluded_reasons": {
+    "qualification_rejected": 2,
+    "qualification_uncertain": 3
+  }
+}

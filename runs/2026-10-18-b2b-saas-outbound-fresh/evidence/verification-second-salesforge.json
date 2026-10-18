@@ -1,0 +1,29 @@
+{
+  "provider": "ZeroBounce",
+  "endpoint": "https://api.zerobounce.net/v2/validate",
+  "email": "f@salesforge.ai",
+  "http_status": 200,
+  "response": {
+    "address": "f@salesforge.ai",
+    "status": "valid",
+    "sub_status": "alternate",
+    "free_email": false,
+    "catchall_domain": false,
+    "did_you_mean": null,
+    "account": "f",
+    "domain": "salesforge.ai",
+    "domain_age_days": "1293",
+    "smtp_provider": "g-suite",
+    "mx_found": "true",
+    "mx_record": "aspmx.l.google.com",
+    "firstname": null,
+    "lastname": null,
+    "gender": null,
+    "country": null,
+    "region": null,
+    "city": null,
+    "zipcode": null,
+    "processed_at": "2026-10-18 06:06:00.131"
+  },
+  "date": "2026-10-18T06:05:59.244112+00:00"
+}

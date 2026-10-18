@@ -1,0 +1,8 @@
+step,day,channel,condition,template,variant
+1,1,linkedin,eligible and not opted out,connection note,
+2,3,email,send-ready and no reply,Email 1A or 1B,A or B
+3,4,linkedin,connected and no reply and email 1 sent,LinkedIn follow-up 1,
+4,8,email,no reply and no meeting and no opt-out,Email 2,
+5,10,linkedin,connected and no reply and no meeting and no opt-out,LinkedIn follow-up 2,
+6,14,email,no reply and no meeting and no opt-out,Email 3,
+7,20,email,no reply and no meeting and no opt-out,Email 4,

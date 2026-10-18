@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://h2.studio/about",
+    "linkedin_links": [
+      "https://www.linkedin.com/in/b-hayward/",
+      "https://www.linkedin.com/in/jack-hayward/",
+      "https://www.linkedin.com/in/b-hayward/\\",
+      "https://www.linkedin.com/in/jack-hayward/\\"
+    ],
+    "emails": [
+      "hello@h2.studio"
+    ]
+  },
+  {
+    "url": "https://mattbauman.me/",
+    "linkedin_links": [],
+    "emails": [
+      "matt@mattbauman.me"
+    ]
+  },
+  {
+    "url": "https://trigacy.com/about/",
+    "linkedin_links": [
+      "https://in.linkedin.com/in/vedarth-deshpande"
+    ],
+    "emails": [
+      "care@trigacy.com"
+    ]
+  },
+  {
+    "url": "https://ofutr.com/",
+    "error": "URLError"
+  }
+]

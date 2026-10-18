@@ -1,0 +1,16 @@
+[
+  {
+    "company": "HockeyStack",
+    "name": "Emir Atli",
+    "disposition": "rejected_buyer",
+    "reason": "Own departure announcement supersedes older company CRO bylines; do not enrich as current owner.",
+    "source": "https://www.linkedin.com/posts/emircatli_i-have-left-my-role-as-co-founder-and-cro-activity-7500583749827428353-Duyf"
+  },
+  {
+    "company": "UserGems",
+    "name": "Sara Angell",
+    "disposition": "invalid_email",
+    "reason": "BounceBan undeliverable; attempted alternate founder buyer Christian Kletzl.",
+    "evidence": "verification-usergems.json"
+  }
+]

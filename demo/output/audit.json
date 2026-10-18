@@ -1,0 +1,22 @@
+{
+  "input_rows": 7,
+  "qualified_rows": 2,
+  "send_ready_rows": 1,
+  "review_parked_rows": 1,
+  "research_reconciles": true,
+  "alternate_email_domain_rows": 0,
+  "alternate_email_domain_review_rows": 0,
+  "review_reasons": {
+    "verification_catch_all": 1
+  },
+  "verification_statuses": {
+    "valid": 1,
+    "catch_all": 1
+  },
+  "excluded_reasons": {
+    "duplicate_email": 1,
+    "duplicate_domain": 1,
+    "invalid_email": 1,
+    "suppressed": 2
+  }
+}

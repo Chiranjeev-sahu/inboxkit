@@ -1,0 +1,10 @@
+# Opt-out and suppression procedure
+
+Every staged email in [campaign-copy.md](../deliverables/campaign-copy.md) says `To opt out, reply STOP and I will remove you from future emails.` This is a reply-based opt-out, so a live campaign would need a monitored reply-to mailbox. No reply-to address or sequencer is configured in this assignment, and no email has been sent. The mechanical removal gate is implemented and tested; the future inbox-to-operator step must be exercised before sending.
+
+1. When a recipient replies STOP or otherwise asks not to be contacted, pause the person in the sequencer immediately and stop LinkedIn outreach to the same person.
+2. Add `email,<their exact email>,opted out on YYYY-MM-DD` to `data/suppression.csv`. If the account asks for company-wide removal, also add a `domain` row. Keep the reason and timestamp; do not delete the suppression record on later runs.
+3. Regenerate the affected run using its layout. For a new ICP, run `python scripts/prepare_export.py runs/<run-id>/evidence/leads.csv --output-dir runs/<run-id> --presentation`: the excluded record appears in `evidence/excluded.csv` with `exclusion_reason=suppressed` and disappears from `evidence/qualified.csv` and the top-level `send-ready.csv`. For the default agency, run `python scripts/prepare_export.py runs/2026-10-15-second-pass/leads.csv`, inspect its flat exclusions, then refresh existing deliverable CSVs using the [operator guide](operator-guide.md#export-and-refresh). A previously ready contact must not remain in a stale submitted/import snapshot.
+4. Reconcile any already-imported sequencer list against the updated suppression file before resuming. The repository export gate alone cannot remove a contact already enrolled in a live platform.
+
+The [integration test](../tests/test_prepare_export.py) uses a harmless opted-out email and verifies this export behavior together with invalid, duplicate-email, duplicate-domain, catch-all, and public-partner-name cases. Run it with `python -m unittest discover -s tests -v`.

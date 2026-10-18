@@ -1,0 +1,27 @@
+{
+  "provider": "Findymail",
+  "endpoint": "https://app.findymail.com/api/search/name",
+  "query": {
+    "name": "Sara Angell",
+    "domain": "usergems.com"
+  },
+  "http_status": 200,
+  "response": {
+    "contact": {
+      "id": 1787771279,
+      "name": "Sara Angell",
+      "email": "sara.angell@usergems.com",
+      "domain": "usergems.com",
+      "company": "",
+      "linkedin_url": null,
+      "job_title": "",
+      "company_city": "",
+      "company_region": "",
+      "company_country": "",
+      "city": null,
+      "region": null,
+      "country": null
+    }
+  },
+  "date": "2026-10-18T06:07:36.452240+00:00"
+}

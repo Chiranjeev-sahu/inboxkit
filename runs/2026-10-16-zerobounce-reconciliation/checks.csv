@@ -1,0 +1,9 @@
+person,company,email,zerobounce_status,zerobounce_substatus,catch_all_domain,relation_to_current_row,disposition
+Garrett Wolfe,OneGTM,me@garrettawolfe.com,do_not_mail,mx_forward,false,different_address,Do not use this alternate address; no verdict on gw@getaob.com
+Gregory Martignoni,Grow Surely,greg.martignoni@growsurely.com,valid,,false,exact_match,Add corroborating positive verdict and explicit non-catch-all flag
+Felix Frank,StackOptimise,felix@stackoptimise.com,valid,,true,exact_match,Add corroborating positive verdict; keep accept-all flag
+David Sinclair-Black,BuiltDiffernt,david@builtdiffernt.com,valid,,true,exact_match,Add corroborating positive verdict; keep accept-all flag
+Max Erikstedt,Newlead,max@newlead.io,valid,,false,exact_match,Add corroborating positive verdict and non-catch-all flag
+Faraz Ahmed,ThynkGrowth,faraz@thynkgrowth.com,valid,,true,exact_match,Add corroborating positive verdict; keep accept-all flag
+Chris Muldoon,Punch!,chris.muldoon@punchabm.com,invalid,mailbox_not_found,false,different_address,Do not use this alternate address; no verdict on chris.muldoon@punchb2b.com
+Josh Morrow,David & Goliath,hello@davidandgoliath.ai,invalid,mailbox_not_found,,different_generic_address,Do not use this generic address; no verdict on jmorrow@davidandgoliath.ai

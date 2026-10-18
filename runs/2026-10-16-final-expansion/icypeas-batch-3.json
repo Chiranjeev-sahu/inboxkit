@@ -1,0 +1,13 @@
+{
+  "validationErrors": [
+    {
+      "field": "user",
+      "message": "insufficient_credits",
+      "humanReadableMessage": "Insufficient credits to run the search",
+      "type": "InsufficientCredits",
+      "expected": null,
+      "actual": "WvKoQqEBe_IkvH6dZGFA"
+    }
+  ],
+  "success": false
+}

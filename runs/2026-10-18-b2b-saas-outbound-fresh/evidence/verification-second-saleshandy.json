@@ -1,0 +1,29 @@
+{
+  "provider": "ZeroBounce",
+  "endpoint": "https://api.zerobounce.net/v2/validate",
+  "email": "dhruv.p@saleshandy.com",
+  "http_status": 200,
+  "response": {
+    "address": "dhruv.p@saleshandy.com",
+    "status": "valid",
+    "sub_status": "",
+    "free_email": false,
+    "catchall_domain": false,
+    "did_you_mean": null,
+    "account": "dhruvp",
+    "domain": "saleshandy.com",
+    "domain_age_days": "4036",
+    "smtp_provider": "g-suite",
+    "mx_found": "true",
+    "mx_record": "aspmx.l.google.com",
+    "firstname": null,
+    "lastname": null,
+    "gender": null,
+    "country": null,
+    "region": null,
+    "city": null,
+    "zipcode": null,
+    "processed_at": "2026-10-18 06:05:59.963"
+  },
+  "date": "2026-10-18T06:06:00.847670+00:00"
+}

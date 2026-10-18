@@ -1,0 +1,18 @@
+{
+  "input_rows": 5,
+  "qualified_rows": 4,
+  "send_ready_rows": 2,
+  "review_parked_rows": 2,
+  "research_reconciles": true,
+  "alternate_email_domain_rows": 0,
+  "alternate_email_domain_review_rows": 0,
+  "review_reasons": {
+    "commercial_overlap_sells_sending_infrastructure_review_needed": 2
+  },
+  "verification_statuses": {
+    "valid": 4
+  },
+  "excluded_reasons": {
+    "qualification_rejected": 1
+  }
+}
