@@ -1,87 +1,69 @@
-# Campaign feasibility and measurement
+# Campaign volume, qualification and measurement
 
-**18 October 2026 | Public source review and proposed operating assumptions | All outreach stays draft**
+**18 October 2026 | Planning assumptions, not measured results | All outreach remains draft**
 
-The [original assignment](../GTM%20Engineer%20Hiring%20Assignment.txt) asks for a campaign that could **book 15 qualified demos in 30 days**. Attendance is tracked separately from the strategy memo's booking target. Nothing has been sent, so this submission has no observed reply or booking rate.
+## Two separate questions in the brief
 
-## Read the three assignment numbers separately
+The [original assignment](../GTM%20Engineer%20Hiring%20Assignment.txt) asks for:
 
-- **15 qualified demos in 30 days:** the outcome the proposed campaign is designed to pursue. The assignment evaluates the plan and staged system; it explicitly says nothing gets sent.
-- **100 lead rows:** the research sample to deliver. It is not a claim that those 100 people will produce 15 demos.
-- **2,000 rows:** the separate scaling-and-cost explanation requested by the brief. Using 2,000 contacts in the operating example is our planning choice, not a prescribed campaign volume or a demonstrated reachable market.
+1. **Strategy:** a campaign that could book 15 qualified demos in 30 days, with volume math working backward from 15 to the contacts needed and every assumption stated.
+2. **Lead list:** 100 researched rows, plus a paragraph explaining how list production scales to 2,000 rows and the cost per contact.
 
-### What counts as a qualified demo?
+The scaling paragraph concerns producing more qualified, enriched contacts under the same evidence rules. It does not prescribe the number to contact to obtain 15 bookings. The campaign calculation determines its own volume from explicit conversion assumptions. There is no requirement to produce or contact 2,000 people during this draft assignment.
 
-The brief identifies the target buyers but does not give a complete qualification checklist. Our proposed counting rule is a scheduled product discussion with a relevant infrastructure decision-maker at an eligible agency, where the booking exchange confirms relevant infrastructure needs or genuine evaluation interest. A positive reply alone, a generic calendar submission or a provider-valid email does not establish that outcome. Count a company's booking once across email and LinkedIn; remove cancellations and duplicate reschedules. Attendance is a separate later metric. Confirm this counting convention with the campaign owner before activation.
+An earlier version also chose 2,000 as the campaign size, calculated 15 / 2,000 = 0.75%, and built a sending schedule around it. The arithmetic was correct, but that volume choice had no demonstrated campaign basis. It unnecessarily tied the separate list-scaling exercise to the demo target. The 0.75% hurdle, 1,903-contact expansion and 477-email peak are retired from the current campaign plan.
 
-## Why the old and new percentages mean different things
+## Qualified contacts and qualified demos are different
 
-| Figure | What it describes | Evidence status |
-| --- | --- | --- |
-| **About 0.24% in the old model** | Positive replies per contacted address in Sales.co's own campaign. | External observation, not our qualified-demo rate. |
-| **0.25% in the current sensitivity table** | An illustrative final qualified-booking rate: one qualified booking per 400 unique contacts. | A hypothetical case, not a benchmark or measured result. |
-| **0.75% for the 2,000-contact example** | The final rate required to make 15 bookings from 2,000 contacts: 15 / 2,000. | Arithmetic imposed by that volume and target, not a prediction. |
+A qualified contact meets the company-fit and buyer-role rules and has the required enrichment and evidence. Being eligible for outreach does not mean the person has agreed to a demo.
 
-The retired model multiplied 0.24% positive replies by three assumed rates: 46% booking, 80% attendance and 80% qualification. That gave 15 / (0.0024 x 0.46 x 0.80 x 0.80), rounded up to 21,230 contacts. Attendance made it a held-demo model rather than the brief's booking target. The booking assumption was also unsupported by a matching reply-to-booking funnel in the cited data. Those additional assumptions were not observed InboxKit results.
+The brief identifies founders and heads of growth at outbound, lead-generation and GTM agencies, particularly the person who owns sending infrastructure. It does not provide a complete demo-qualification checklist. Our proposed counting rule is a scheduled demo with a relevant decision-maker at an eligible agency, where the booking exchange confirms a relevant infrastructure need or genuine evaluation interest.
 
-The current calculation uses the final outcome directly: **unique contacts required = 15 / assumed qualified-booking rate**. At a hypothetical 0.25%, it needs 6,000 contacts. At 0.75%, it needs 2,000. At 1%, it needs 1,500. None of these cases has been demonstrated by this draft project; calling 0.25% the lower case only compares the table's examples, not an industry baseline. More favorable arithmetic is not evidence of better campaign performance.
+Count one company's booking once across both channels, remove cancellations and deduplicate reschedules. A positive reply, verified email or generic calendar-form submission alone is insufficient. The target is bookings made within 30 days; attendance is separate. Confirm the counting convention before a future live campaign.
 
-## What the operating example actually plans
+## Work backward from 15 bookings
 
-The example starts with 97 ready contacts, then conditionally adds 1,903 more distinct eligible companies: 2,000 total. Four email steps mean at most 2,000 x four = 8,000 email attempts, before reply, booking and opt-out stops. **Conversion uses 2,000 unique contacts as its denominator, not 8,000 messages.** LinkedIn reaches a selected subset and does not create a second count of the same prospects.
+**Unique contacts needed = 15 / assumed qualified-booking rate per unique contact.**
 
-A cohort is simply a group that starts the sequence together. In this example the last group starts on campaign day 10; its relative day-20 touch lands on calendar day 29. The detailed cohort sizes below are an illustrative distribution, not a tested optimal batch size. The 477-email peak is the arithmetic of that distribution, not an approved daily sending quota.
+| Illustrative assumption | Plain meaning | Contacts needed |
+| --- | --- | ---: |
+| 0.25% final qualified-booking rate | One qualified booking per 400 contacts | 6,000 |
+| 1.00% final qualified-booking rate | One qualified booking per 100 contacts | 1,500 |
 
-The example answers what volume and capacity would be needed **if** the campaign achieved the required rate. It does not prove enough companies, credits, healthy mailboxes or conversion performance exist. The pilot provides early operational feedback; 97 contacts and an unfinished sequence cannot validate a reliable 0.75% booking rate. Expansion remains conditional on capacity and early quality, with the 30-day target risk reported honestly.
+These are sensitivity examples, not measured InboxKit rates, an industry-supported range or a promise that 1,500 contacts will suffice. No outreach has been sent, so this project has no observed booking rate to use as a forecast. Campaign volume remains conditional on conversion evidence and execution capacity.
 
-## External observations and their limits
+Use unique eligible contacts first-touched, one selected buyer per company, as the denominator. Four emails to one person still represent one contact. Count direct and reply-assisted bookings without duplicating a company's result across channels.
 
-[Sales.co's first-party report](https://sales.co/research/cold-email-conversion-rate-benchmarks), published October 6, 2026, covers first emails March 6-August 31, outcomes through October 6: at least 36 days per contact. A contact is one address within one campaign, not necessarily a globally unique person. Pooled results: 336,257 contacts, 627,085 emails, 971 positive replies (0.2888%). Booking data covers only Sales.co's own service campaign:
+## What the old benchmark actually measured
 
-| Reported count / denominator | Recalculated rate |
-| --- | ---: |
-| 296 positive replies / 124,513 contacts | 0.2377% |
-| 143 company bookings / 124,513 contacts | 0.11485% |
-| 98 bookings naming cold email / 124,513 contacts | 0.07871% |
-| 94 bookings within 30 days / 124,513 contacts | 0.07549% |
+[Sales.co's first-party report](https://sales.co/research/cold-email-conversion-rate-benchmarks) reports 296 positive replies from 124,513 contacts in its own campaign, about **0.24%**. This measures positive replies for another offer, not qualified InboxKit bookings within 30 days. Some bookings had no personal reply and some occurred after 30 days, so the report is not a clean reply-to-booking funnel. Its 46% statistic concerns bookings within seven days, not conversion from positive replies.
 
-Positive includes questions, deferrals and referrals; latest reply determines classification. Cancelled bookings are removed; one meeting counts per company. Forty-five bookings lacked a personal reply, so **143/296 = 48.31% is not positive-reply-to-booking conversion**. Median booking delay: nine days; 49/143 came after 30 days. Cold calls and LinkedIn also contributed. Email preceding booking does not establish causation. No InboxKit agency qualification or held-meeting rate is provided. These are different-offer observations, not this campaign's forecast. [Methodology and booking definitions](https://sales.co/research/cold-email-conversion-rate-benchmarks#methodology).
+The retired model multiplied 0.24% positive replies by assumed 46% booking conversion, 80% attendance and 80% qualification. That gave 15 / (0.0024 x 0.46 x 0.80 x 0.80), rounded up to 21,230 contacts. The extra rates were not established for this campaign; attendance also changed the outcome from booked to held demos.
 
-## Target-implied requirement
+The current 0.25% example is a hypothetical final qualified-booking rate, not that external 0.24% positive-reply figure rounded up. Similar numbers do not make the metrics interchangeable. A simpler formula does not establish better campaign performance.
 
-Treat **2,000 unique, eligible contacts, one per company**, as a capacity hypothesis, not a demonstrated addressable pool or an assignment requirement. To obtain 15 qualified bookings from that denominator by campaign day 30 requires **15 / 2,000 = 0.75%**. Equivalently, contacts required = 15 / measured qualified-booking rate within the relevant campaign window. That rate is presently unknown.
+## Operating sequence without an invented fixed rollout size
 
-Define a qualified booking before activation: a confirmed calendar reservation with a current founder, head of growth or infrastructure owner at an eligible agency delivering client outbound, with a documented infrastructure need or evaluation interest. Confirm qualification in the booking exchange/form; do not require attendance to establish it. Count one booking per company, remove cancellations, and dedupe reschedules. Count reservations made by day 30 even if the meeting is held later; this is a proposed interpretation of “book,” to state explicitly. Report pending qualification separately.
+- Start with the 97 draft-ready contacts. The three parked rows remain excluded until their documented holds are resolved.
+- Before live activation, confirm monitored replies, suppression, calendar access, usable sending infrastructure, credits and sales availability. This submission does not authorize sending.
+- Inspect early bounces, opt-outs, routing and personalization before expanding. A short 97-contact pilot supplies early evidence and operational checks; it cannot establish a precise booking rate.
+- Research additional eligible companies in batches. Select campaign volume from stated conversion assumptions and actual capacity, independently of the 2,000-row list exercise.
+- Preserve relative LinkedIn days 1/4/10 and email days 3/8/14/20 from the [memo](../deliverables/strategy-memo.md). A cohort starting on calendar day 10 reaches its relative day-20 touch on calendar day 29. Later cohorts have less time to generate bookings before day 30.
+- Four email steps imply up to four attempts per contact before stop rules. The two illustrated volume cases imply up to 24,000 or 6,000 email attempts respectively. Neither is a verified capacity commitment.
+- Limit LinkedIn to the subset the operator can manage within account allowances. Follow-ups require acceptance. Stop both channels on any reply, booking or opt-out.
 
-Do not force every booking through positive replies. Record both reply-assisted and direct bookings. If using a reply funnel, add the direct path and prevent overlap. The 100-company research sample and the initial 97-contact ready pilot cannot demonstrate a reliable 0.75% outcome rate.
+Do not claim a safe daily quota, available mailbox inventory or funded production capacity without checking it. New infrastructure cannot be presumed ready on day 1. Waiting for a full pilot sequence before expansion constrains what fits inside 30 days; report resulting target risk.
 
-## Proposed 30-day capacity plan
+## Separate list-production scale and cost
 
-This example preserves cohort-relative LinkedIn days 1/4/10 and email days 3/8/14/20 from the [memo](../deliverables/strategy-memo.md). Cohort launch means relative day 1; offsets are therefore +2/+7/+13/+19 for email.
+The [scale-cost note](../deliverables/scale-cost.md) explains producing 2,000 qualified contacts through broader discovery, consistent evidence rules, provider recovery, cumulative deduplication, saved progress and measured cost per usable contact. Unresolved research stays visible but does not count as ready output.
 
-| Calendar days | Proposed action and constraint |
-| --- | --- |
-| Before day 1 | Have eligible contacts, monitored reply routing, suppression, calendar access and existing usable sending capacity ready. Confirm the budget and operator limits. |
-| Day 1 | Launch the 97 currently draft-ready contacts as the pilot. The three held companies remain outside sending. Email 1 falls on calendar day 3. |
-| Days 3-5 | Inspect early bounces, opt-outs, replies, personalization and routing. Correct failures before adding volume. This is an early operational check; the full pilot sequence is unfinished. |
-| Days 6-10 | Conditional expansion: cohorts of 380, 380, 380, 380 and 383 = 1,903 additional accepted contacts. Combined with the 97-contact pilot this makes 2,000. Stop or reduce expansion if early evidence or capacity warrants it. |
-| Days 12-29 | Complete remaining email touches; the last cohort's relative day 20 is calendar day 29. |
-| Day 30 | Reconcile unique contacts, qualified bookings and attribution. Preserve later outcomes separately. |
+Current output is 100 research rows = 97 draft-ready + three parked. A 2,000-row research sheet would likewise not establish 2,000 ready contacts. Aim for usable qualified output and retain the extra failed or parked research required to produce it.
 
-The upper bound is **2,000 x four = 8,000 email attempts** before reply/booking/opt-out stops. This exact cohort schedule peaks at **477 attempts/day** on days 8, 14 and 20; 8,000/30 is only a calendar average of about 267/day. These are workload calculations, not safe sending limits. If the operator approves a per-mailbox daily cap of c, the peak requires at least ceil(477/c) usable mailboxes, plus any capacity reserved for other traffic. Domain allocation, mailbox health, throttling and sequencer limits must also fit. No universal safe cap is assumed.
+List-production costs cover discovery, enrichment, verification, agent usage and review. Sending infrastructure, sequencer capacity and reply handling are separate campaign-execution costs. Producing 2,000 contacts does not establish how many contacts or how much spending will produce 15 demos.
 
-Apply LinkedIn only to a prioritized subset whose account allowance and manual workload fit. Its size remains uncommitted until checked; do not assume 2,000 invitations. Follow-ups require acceptance. Stop both channels on any reply, booking or opt-out. Later cohorts have less time to convert before calendar day 30. Waiting for the pilot's complete conversion result would prevent this expansion schedule; if early checks fail, report the resulting target/capacity gap.
+## Evidence still needed
 
-## Offer support and execution costs
+Measure consecutive sourcing-batch yield, provider debits, time and review effort. In a future authorized live pilot, record unique contacts, sends, bounces, replies, booking timestamps, qualification evidence, cancellations, opt-outs and channel history. Separate calendar-day-30 outcomes from later results and show each cohort's observation time.
 
-The [InboxKit agency page](https://www.inboxkit.com/agency-email-solution) supports centralized client-account administration and automated SPF/DKIM/DMARC setup. It also describes a 14-day launch workflow, so newly provisioned infrastructure cannot be presumed ready on campaign day 1. The [pricing page](https://www.inboxkit.com/pricing) supports per-domain admin panels and integrations including Smartlead and Instantly. It lists $3/mailbox/month on monthly billing, or $2.50/month billed annually; warmup is listed as an add-on. Mailbox-only monthly cost is therefore $3 x usable mailbox count; domains, warmup, sequencer, data, agent usage and review remain additional. These prices do not establish deliverability or booking yield.
-
-The single CTA is the [30-minute InboxKit demo](https://www.inboxkit.com/demo). That page asks for company, business email, target cold-email volume and referral source. A submitted form is not itself proof of a booked, qualified slot. Confirm the calendar outcome and available sales capacity. Keep all copy source-backed; do not turn product placement claims into a guaranteed campaign result.
-
-## Attribution, pilot evidence and unknowns
-
-Maintain company/contact IDs, cohort, variant, first-touch and email dates, selected LinkedIn touches, actual sends, human/positive reply labels, booking timestamp, qualification evidence, cancellation/reschedule state and opt-out. Use the shared company/contact ID to dedupe channels. Capture self-reported source and touch history; report email-only, LinkedIn-only and assisted bookings without summing overlapping counts. Attribution is descriptive unless a suitable experiment establishes incremental effect.
-
-For the planning hurdle, use unique eligible contacts first-touched as the denominator, including contacts whose email subsequently bounces. Show attempted, delivered, bounced and pre-send-suppressed totals separately; any delivered-contact conversion rate needs its own labeled denominator. Report calendar-day-30 results alongside days since first touch for each cohort; incomplete cohorts must remain visibly immature. Record attendance as a later separate metric.
-
-Still unknown: the reachable pool of 2,000 eligible companies, sourcing throughput and all-in cost, usable mailbox/domain inventory, LinkedIn allowance, bounce and opt-out rates, positive replies, qualified bookings, time to book, sales availability and channel contribution. The [scale-cost note](../deliverables/scale-cost.md) addresses list production. Feasibility depends on these measurements; the plan does not promise 15 demos.
+Reachable company supply, production throughput, full cost, qualified-booking rate and sending capacity remain unmeasured. The staged system demonstrates research and campaign preparation; it does not prove the 15-demo outcome.

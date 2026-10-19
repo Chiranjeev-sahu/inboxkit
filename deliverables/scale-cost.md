@@ -4,6 +4,8 @@
 
 ## Paragraph for the assignment
 
+**This is a list-production plan:** how to produce 2,000 qualified, enriched contacts and estimate cost per usable contact. It does not set the campaign volume needed for 15 qualified demo bookings; the strategy memo calculates that separately from stated conversion assumptions.
+
 To scale to 2,000 rows, I would expand discovery across agency directories, relevant software-partner lists, company case studies, and targeted web searches, then inspect first-party evidence under the same fit and signal rules. These are candidate sources, not automatic qualification. Process 50 to 100 new, distinct companies per batch: qualify the company, identify its infrastructure buyer and LinkedIn profile, find and verify a named work email through available provider fallbacks, and generate a source-backed first line. Save completed work and failed attempts so later batches resume without repeating paid calls. Check each batch against the accumulated company list and suppression records before enrichment, then reconcile research, send-ready, and parked outputs. Measure accepted contacts per company examined, time, provider debits, and review effort; use those results to project the remaining work and change low-yield discovery sources. **The submission used $0 additional cash, but production is not free.** As an email-data example, [Findymail's $99/month credit-based Starter allowance](https://www.findymail.com/pricing/) would allocate **$0.0495 per contact if it yields 2,000 accepted contacts**. Discovery, fallback providers, agent usage, and review are additional. Neither the total production cost nor a pool of 2,000 qualifying companies has been demonstrated.
 
 ## 1. Define what the 2,000 rows represent
