@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="112" viewBox="0 0 720 112" role="img" aria-labelledby="title description">
+  <title id="title">Watch the InboxKit project walkthrough on Loom</title>
+  <desc id="description">Open the recorded campaign strategy, lead list, outreach drafts and agent workflow walkthrough.</desc>
+  <rect x="1" y="1" width="718" height="110" rx="12" fill="#171b24" stroke="#394153"/>
+  <circle cx="56" cy="56" r="26" fill="#625df5"/>
+  <path d="M50 43 L50 69 L69 56 Z" fill="#ffffff"/>
+  <text x="104" y="49" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">InboxKit project walkthrough</text>
+  <text x="104" y="78" fill="#bbc4d6" font-family="Arial, Helvetica, sans-serif" font-size="16">Watch on Loom</text>
+  <path d="M661 46 H678 V63 M678 46 L658 66" fill="none" stroke="#c4c2ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

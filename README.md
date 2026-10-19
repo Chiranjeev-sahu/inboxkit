@@ -6,8 +6,15 @@ This repository stages a sourced LinkedIn and email campaign for InboxKit and pr
 
 The [original assignment](GTM%20Engineer%20Hiring%20Assignment.txt) defines the requested work. [CONTEXT.md](CONTEXT.md) defines the business terms. Codex and Claude Code follow the same repository instructions; the workflow does not require the original chat history.
 
+## Project walkthrough
+
+[![Watch the InboxKit project walkthrough on Loom](docs/assets/walkthrough-link.svg)](https://www.loom.com/share/f3199b4c5e8a49ddb58c9536e061e7c9)
+
+[Watch the recorded walkthrough](https://www.loom.com/share/f3199b4c5e8a49ddb58c9536e061e7c9) covering the campaign strategy, researched leads, outreach drafts and repeatable agent workflow.
+
 ## Contents
 
+- [Project walkthrough](#project-walkthrough)
 - [Review the campaign](#review-the-campaign)
 - [What qualifies a company](#what-qualifies-a-company)
 - [How the workflow operates](#how-the-workflow-operates)
@@ -457,10 +464,11 @@ Every public tracked file is listed below, grouped so a reader can identify both
 </details>
 
 <details>
-<summary>docs (15 files)</summary>
+<summary>docs (16 files)</summary>
 
 | File | Role |
 | --- | --- |
+| [docs/assets/walkthrough-link.svg](docs/assets/walkthrough-link.svg) | Clickable README card linking to the recorded project walkthrough on Loom. |
 | [docs/campaign-feasibility.md](docs/campaign-feasibility.md) | Qualified-booking target, benchmark denominator audit and conditional 30-day workload plan. |
 | [docs/data-dictionary.md](docs/data-dictionary.md) | Fields, statuses, file relationships and platform merge mapping. |
 | [docs/decisions.md](docs/decisions.md) | Current policy decisions and rationale. |
